@@ -46,6 +46,12 @@ TAREAS.md                         ← lista de tareas del trabajo en curso (ver 
 - Pie de nota obligatorio: `*Fuente: <manual>, p. <páginas>.*`
 - Dudas de OCR o contradicciones entre fuentes: marcarlas en la nota (`> [!warning] ...`) en vez de fusionarlas en silencio.
 
+## Preguntas pendientes (QUESTIONS.md)
+
+- Toda duda de fidelidad a la fuente (OCR dudoso, contradicciones, valores a cotejar con el manual) o cualquier otra duda en la que sea necesaria la intervención de una persona para resolverla (decisiones de alcance, fuentes a usar, interpretaciones) se registra en `QUESTIONS.md` en cuanto aparece, con el formato en uso: **Pregunta N — tema**, `¿Dónde?` (manual, capítulo, tabla; o ámbito de la decisión), `Duda` (dato afectado y valor provisional), petición concreta del dato o de la decisión.
+- Al responderse una pregunta: aplicar el valor o la decisión a su nota, retirar su marca/warning y eliminarla de `QUESTIONS.md`.
+- Avisar siempre por el chat cuando aparezcan preguntas nuevas.
+
 ## Notas de magia
 
 - UNA nota por conjuro en `03-Magia/` con la plantilla `Plantillas/Conjuro`.

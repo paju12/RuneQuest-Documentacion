@@ -2,6 +2,16 @@
 
 *Notas pendientes de ingesta. Crear cada una al llegar su documento fuente.*
 
+## Notas (Básico 2ª)
+
+- [[Uso-de-Habilidades-y-Resistencia]] — éxito, crítico, especial, pifia, enfrentar, característica x5, tabla de resistencia.
+- [[Habilidades-Lista]] — las siete categorías con bases y regla exprés.
+- [[Combate]] — asalto, MR, ataque/parada/esquiva, empalamiento, lucha, pifias.
+- [[Daño-y-Curacion]] — localizaciones, inconsciencia, amputación, primeros auxilios y curación.
+- [[Daño-Natural-Veneno-Enfermedad]] — caídas, asfixia, fuego, veneno, enfermedad, objetos.
+- [[Fatiga-Carga-y-Movimiento]] — PF, CAR, tiempos y tasas de viaje.
+- [[Experiencia-Entrenamiento-y-Caracteristicas]] — experiencia, entrenamiento, estudio, subida de PER y características.
+
 ## Previsto
 
 - Habilidades (base, mejora, experiencia)

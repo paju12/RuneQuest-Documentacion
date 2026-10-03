@@ -4,39 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "31236efef52f2d6f",
+        "id": "fafdb46a4590f054",
         "type": "tabs",
         "children": [
           {
-            "id": "c757c98cfc0e7a14",
+            "id": "3db60cad4e613c36",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bienvenido.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Bienvenido"
-            }
-          },
-          {
-            "id": "5ed5fbcd97c3c352",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Plantillas/Conjuro.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Conjuro"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -186,25 +167,34 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "5ed5fbcd97c3c352",
+  "active": "3db60cad4e613c36",
   "lastOpenFiles": [
-    "00-Indice.md",
-    "Plantillas/Hoja-Aventurero.md",
-    "Plantillas/Escenario.md",
-    "Plantillas/Culto.md",
     "Plantillas/Criatura.md",
-    "Plantillas/Conjuro.md",
-    "03-Magia/Indice-Magia.md",
-    "07-Equipo-y-Economia/Indice-Equipo-y-Economia.md",
-    "AGENTS.md",
-    "Tablas-Referencia/Indice-Tablas.md",
-    "08-Escenarios/Indice-Escenarios.md",
-    "06-Bestiario/Indice-Bestiario.md",
-    "05-Glorantha/Indice-Glorantha.md",
-    "04-Cultos/Panteones.md",
-    "04-Cultos/Indice-Cultos.md",
-    "02-Sistema/Indice-Sistema.md",
-    "01-Creacion-de-Personaje/Indice-Creacion-de-Personaje.md",
+    "QUESTIONS.md",
+    "03-Magia/Ensenar-Conjuros.md",
+    "03-Magia/Encantamiento-de-Matriz-de-Puntos-Magicos.md",
+    "03-Magia/Encantamiento-de-Matriz-de-Conjuros.md",
+    "03-Magia/Encantamiento-de-Ligadura.md",
+    "03-Magia/Encantamiento-de-Fortalecimiento.md",
+    "03-Magia/Encantamiento-de-Armadura.md",
+    "TAREAS.md",
+    "06-Bestiario/Broo.md",
+    "06-Bestiario/Caballo.md",
+    "06-Bestiario/Wyrm.md",
+    "06-Bestiario/Wyverna.md",
+    "07-Equipo-y-Economia/Armas-Arrojadizas.md",
+    "07-Equipo-y-Economia/Armas-Cuerpo-a-Cuerpo.md",
+    "07-Equipo-y-Economia/Armaduras-y-Escudos.md",
+    "08-Escenarios/La-Hechicera-Negra.md",
+    "07-Equipo-y-Economia/Equipo-Moneda-y-Carga.md",
+    "06-Bestiario/Unicornio.md",
+    "06-Bestiario/Pulpandante.md",
+    "06-Bestiario/Jack-Oso.md",
+    "06-Bestiario/Gigante.md",
+    "06-Bestiario/Dragon.md",
+    "06-Bestiario/Alosaurio.md",
+    "06-Bestiario/Grifo.md",
+    "06-Bestiario/Lagarto-Rocas.md",
     "Tablas-Referencia",
     "Plantillas",
     "08-Escenarios",
@@ -214,15 +204,6 @@
     "04-Cultos",
     "03-Magia",
     "02-Sistema",
-    "01-Creacion-de-Personaje",
-    "09-Magia-Divina.md",
-    "G-11-Palabras-Sacerdotes.md",
-    "G-08-Cultos-Orlanth-Yelm.md",
-    "G-07-Cultos-Caos-Lunar.md",
-    "G-02-Tiempo-Runas.md",
-    "G-01-Glorantha-Mundo.md",
-    "06-Bestiario-A-G.md",
-    "G-12-Calendario.md",
-    "G-10-Prosopopeya.md"
+    "01-Creacion-de-Personaje"
   ]
 }

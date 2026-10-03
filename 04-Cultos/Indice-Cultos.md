@@ -4,8 +4,10 @@ Un documento independiente por culto (ver `[[Plantillas/Culto]]`). Prohibido agr
 
 - [[Panteones]] — agrupadora: enlaza a sus cultos, no duplica contenido.
 
-## Cultos
+## Cultos (Básico 2ª, arquetipos mínimos)
 
-*Pendiente de ingesta. Un `Culto-Nombre.md` por cada culto al llegar su documento.*
+- [[Culto-Madre-de-la-Luz]]
+- [[Culto-Padre-de-la-Oscuridad]]
+- [[Culto-Señor-de-la-Guerra]]
 
 #runequest/cultos

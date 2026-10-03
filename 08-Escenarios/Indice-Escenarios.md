@@ -4,6 +4,6 @@ Material propio de mesa (ver `[[Plantillas/Escenario]]`). Separado de las reglas
 
 ## Escenarios
 
-*Sin contenido todavía.*
+- [[La-Hechicera-Negra]] — intro en Jotenheim: rapto de Torrente por Sheryll, guardia corrupta, palacio del Barón, ritual contrarreloj.
 
 #runequest/escenarios

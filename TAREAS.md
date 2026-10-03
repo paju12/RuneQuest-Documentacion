@@ -1,4 +1,44 @@
-# Tareas
+# Tareas pendientes — resolver QUESTIONS.md
+
+- [x] Pregunta 7 — Orco: variante intermedia (aplicar a `Orco`)
+- [ ] Pregunta 8 — Wyverna: POT del aguijón (el OCR nuevo tampoco la trae; cotejo manual)
+- [x] Pregunta 9 — Experiencia previa: armas culturales y magia inicial
+- [x] Pregunta 10 — Habilidades y resistencia: tablas de resultados
+- [x] Pregunta 11 — Atributos derivados: tablas numéricas
+- [x] Pregunta 12 — Características: valores de generación y límites
+- [x] Pregunta 13 — Objetos inanimados: PA de la tabla
+- [x] Pregunta 14 — Magia espiritual: costes y alcances
+- [x] Pregunta 15 — Arma Auténtica: alcance y tipo
+- [x] Pregunta 16 — Broo: PG por localización
+- [x] Pregunta 17 — Dragón: valores medios
+- [x] Pregunta 18 — Elfo: PG por zona
+- [x] Pregunta 19 — Espíritu de conjuros: cifras
+- [x] Pregunta 20 — Esqueleto: tabla de PG y ejemplo
+- [x] Pregunta 21 — Hombre lobo: valores de forma animal
+- [x] Pregunta 22 — Ogro: tabla de ataques, equipo y localizaciones
+- [x] Pregunta 23 — Rituales: notas individuales creadas
+- [ ] Pregunta 24 — Glorantha vacía: ¿qué fuente ingerir? (decisión)
+- [x] Pregunta 25 — Alosaurio: tabla de localizaciones
+- [x] Pregunta 26 — Caballo: tabla de localizaciones
+- [x] Pregunta 27 — Elementales: tabla / localización única
+- [x] Pregunta 28 — Enano: tabla de localizaciones
+- [x] Pregunta 29 — Fantasma: ¿aplica tabla?
+- [x] Pregunta 30 — Gigante: tabla de localizaciones
+- [x] Pregunta 31 — Gorp: localización única
+- [x] Pregunta 32 — Grifo: tabla de localizaciones
+- [x] Pregunta 33 — Hobbit: tabla de localizaciones
+- [x] Pregunta 34 — Jack-Oso: tabla de localizaciones
+- [x] Pregunta 35 — Lagarto de rocas: tabla de localizaciones
+- [x] Pregunta 36 — León: tabla de localizaciones
+- [x] Pregunta 37 — Lobo: tabla de localizaciones
+- [x] Pregunta 38 — Oso pardo: tabla de localizaciones
+- [x] Pregunta 39 — Pato: tabla de localizaciones
+- [x] Pregunta 40 — Pulpandante: tabla de localizaciones
+- [x] Pregunta 41 — Troll de cavernas: tabla de localizaciones
+- [x] Pregunta 42 — Troll negro: tabla de localizaciones
+- [x] Pregunta 43 — Unicornio: tabla de localizaciones
+- [x] Pregunta 44 — Wyrm: tabla de localizaciones
+- [ ] Pregunta 45 — Orco: PG, movimiento y fatiga (nueva; el OCR nuevo no trae el bloque)
 
 - [x] Inventariar fuente RQ Básico 2ª y repartir por carpetas
 - [x] Crear notas 01-Creación (características, atributos, experiencia previa)
@@ -18,3 +58,63 @@
 - [x] Actualizar índices locales + 00-Indice + Tablas-Referencia y verificar vínculos bidireccionales culto-conjuro
   - [x] Actualizar Indice-Equipo-y-Economia + Indice-Escenarios + Indice-Tablas
   - [x] Verificar vínculo bidireccional culto-conjuro en cada nota
+- [x] Añadir regla QUESTIONS.md en AGENTS.md y registrar preguntas pendientes de cotejo
+- [x] Ampliar regla a toda duda con intervención humana y registrar decisiones pendientes (rituales, Glorantha)
+
+# Corrección con OCR nuevo (RuneQuest Básico 2ª, ocr limpio) — auditoría completa hecha
+
+- [x] Reglas 01/02/07: valores aplicados
+  - [x] `Experiencia-Previa`: nómada ataque/parada (20) no (25)
+  - [x] `Atributos-Derivados`: tabla PG 01-03…19-21; MMR arma por longitud 3/2/1/0 (estaba invertido)
+  - [x] `Fatiga-Carga-y-Movimiento`: caídas TAM cada 20 (no 24); Deslizarse solo armadura metálica; asfixia asaltos 1-10 x10→x1, desde 11º CON
+  - [x] `Daño-Natural-Veneno-Enfermedad`: grados con fallos (0/- 1/Moderado/semana 2/Agudo/día 3/Grave/hora 4/Terminal/minuto); fusión aluminio 6D6, plata 9D6, vidrio 13D6, níquel 14D6; tabla objetos 13 filas
+  - [x] Equipo: coraza 270 p/CAR; bola y cadena ARM 8; palo madera MMR 2; lanza corta 2M ARM 10; bastarda 2M MMR 2 / 230 p
+- [x] Magia 03/04: valores aplicados
+  - [x] `Arma-Autentica`: alcance A distancia (no Toque); efecto añade TAM
+  - [x] `Cuchilla-Afilada`: +5 percentiles y +1 daño/punto (no +3%)
+  - [x] `Fuerza-Espiritual`: cada lanzamiento +3 FUE (no por punto)
+  - [x] `Ordenar-Especies`: coste 2 (no 1), sacrificio 2 POD
+  - [x] `Succionar-Caracteristica`: PM hasta PERx2 (no x1)
+  - [x] `Invocar-Especies`: variante divina 2 pts Ritual-Invocación apilable
+  - [x] `Garrotazo`: valores marcados como inferidos (fuente sin cabecera)
+  - [x] `Culto-Padre-de-la-Oscuridad`: añadidos Miedo (divina 1) + Disrupción (espiritual 1)
+  - [x] `Magia-Espiritual-Reglas`: aviso retirado (costes/alcances verificados)
+- [x] Bestiario 06: tablas de localizaciones y valores aplicados
+  - [x] `Alosaurio`: tabla 8 filas Cc; Mov 6; Otear 40+5 (PF 18 dudoso con warning, probable 88)
+  - [x] `Broo`: habilidades completas
+  - [x] `Caballo`: tabla 7 zonas; Mov 10, PF 43; Mordisco 40+7; Pisotear 6D6
+  - [x] `Dragon`: tabla 10 filas; aliento MR 3 60+11, alcance = PER; Escuchar/Buscar 50+15
+  - [x] `Elementos-Salamandra`: 1 localización; ejemplo S2 añadido
+  - [x] `Elfo`: tabla 7 zonas; det/PT añadidos; Remar 00, Nadar 05
+  - [x] `Enano`: tabla con armadura; Martillo 1M / Hacha / Hebilla; habilidades base añadidas
+  - [x] `Espiritu-de-Conjuros`: PER 3D6 mín. PM conjuro; Mov = PER
+  - [x] `Esqueleto`: tabla 0/1; ejemplo PM 2D6 y ataques 45-60; ataque = DESx5%
+  - [x] `Fantasma`: confirmado sin tabla ni PG
+  - [x] `Gigante`: tabla 6 m; Oler Sangre añadido (ataques con ruido OCR, provisionales)
+  - [x] `Gorp`: localización única 01-20; quitado Oler Sangre
+  - [x] `Grifo`: tabla 9 zonas; Mov 5/12, PF 58; Esquivar 25-2, Otear 70+5
+  - [x] `Hobbit`: tabla; espada 1D6+1-1D4, piedra 1D4 sin mod
+  - [x] `Hombre-Lobo`: ambas tablas; lobo FUE x2, INT mitad, Mov 7, PF 32
+  - [x] `Jack-Oso`: tabla; garras 1D6+1D6; Esconderse/Deslizarse 60-10
+  - [x] `Lagarto-Rocas`: tabla 8 zonas; Garra+Mordisco 45-6; Mov 3, PF 26
+  - [x] `Leon`: tabla (cabeza 4/7); Mov 6, PF 19; Mordisco 40+12; Deslizarse 70-12
+  - [x] `Lobo`: tabla; Mov 7, PF 24; Mordisco 1D8 sin mod; PER 3D6
+  - [x] `Ogro`: tabla; ataques genéricos +9/+1D4/+3
+  - [x] `Orco`: warning PG 3 imposible (pregunta nueva Q45)
+  - [x] `Oso-Pardo`: tabla; Mov 7, PF 38; Garra 40+4
+  - [x] `Pato`: tabla mixta; espada 1D6+1 det 25+6; Montar/Cantar 00
+  - [x] `Pulpandante`: tabla 15 filas (warning Proy Tent 1-2)
+  - [x] `Troll-Cavernas`: tabla; Garrote MR 4 det 25-9; APA 1D6
+  - [x] `Troll-Negro`: tabla con cota+casco; detenciones -4
+  - [x] `Unicornio`: tabla; Mov 11, PF 44; cornada det 60-2 PT 14
+  - [x] `Wyrm`: tabla 6 zonas; Otear 40+12
+  - [x] `Wyverna`: verificado (Q8 POT sigue abierta, sin datos en fuente)
+- [x] QUESTIONS.md: eliminadas 9, 11-15, 17-22 y 25-44; anotada Q8; creada Q45. Quedan abiertas Q8, Q23, Q24 y Q45.
+
+# Q23 resuelta: desglosar rituales en notas individuales
+- [x] Crear 5 notas de encantamiento ritual (Armadura, Fortalecimiento, Ligadura, Matriz-Conjuros, Matriz-PM) con variantes por tradición
+- [x] Crear nota Ensenar-Conjuros (ritual divino de invocación)
+- [x] Revisar Excomunion e Invocar-Especies como notas individuales (completar si falta)
+- [x] Actualizar Indice-Magia (líneas 33, 49, 68) con enlaces a las notas nuevas
+- [x] Verificar vínculo bidireccional culto-conjuro en notas nuevas y de cultos
+- [x] Eliminar Q23 de QUESTIONS.md y marcar TAREAS
