@@ -69,6 +69,11 @@ Armadura: ninguna natural. Normalmente llevan, al menos, cota de anillos y casco
 
 Terrenos escabrosos (montañas, baldíos). Sociedad retorcida e intrigante.
 
+## Como aventurero (Avanzado, 1D100)
+
+01-02 Caudillo, 03-70 Cazador/Incursor, 71-72 Fabricante, 73-99 Guerrero, 00 Hechicero. Mismas habilidades y equipo que el humano bárbaro/civilizado equivalente (Cazador/Incursor = Cazador Bárbaro; Caudillo = Noble Bárbaro; Hechicero = Hechicero Civilizado). Hechicería habitual. Montar sobre lobos. Puño humano → Arco.
+
 #runequest/bestiario
 
 *Fuente: RuneQuest Básico 2ª Edición, Libro de Reglas, cap. Las Criaturas.*
+*Fuente: RuneQuest Avanzado, p. 113.*

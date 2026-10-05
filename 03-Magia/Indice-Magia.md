@@ -8,6 +8,7 @@ Una nota por conjuro (ver `[[Plantillas/Conjuro]]`). Este índice agrupa por tip
 - [[Magia-Divina-Reglas]] — rangos, aprender por PER, lanzar al 100%.
 - [[Hechiceria-Reglas]] — estudiante, manipular, multiconjuro.
 - [[Magia-Ritual-Reglas]] — ceremonia, invocación, encantamiento.
+- [[Plano-Espiritual]] — regiones, encuentros y pifias de invocación.
 
 ## Magia de batalla / espíritu
 
@@ -30,6 +31,29 @@ Una nota por conjuro (ver `[[Plantillas/Conjuro]]`). Este índice agrupa por tip
 - [[Mano-de-Hierro]]
 - [[Proteccion-Espiritual]]
 - [[Reparacion]]
+- [[Cola]]
+- [[Comunicacion-Mental]]
+- [[Coordinacion]]
+- [[Detectar-Enemigos]]
+- [[Detectar-Magia]]
+- [[Enlentecer]]
+- [[Extinguir]]
+- [[Flecha-Ignea]]
+- [[Glamour]]
+- [[Inflamar]]
+- [[Mellar-Armas]]
+- [[Movilidad]]
+- [[Pantalla-Espiritual]]
+- [[Pared-de-Luz]]
+- [[Pared-Oscura]]
+- [[Proyectil-Multiple]]
+- [[Resistencia-Espiritual]]
+- [[Rielar]]
+- [[Silencio]]
+- [[Vigor]]
+- [[Visibilidad]]
+- [[Vista-Lejana]]
+- [[Vista-Magica]]
 - [[Encantamiento-de-Armadura]] — ritual
 - [[Encantamiento-de-Fortalecimiento]] — ritual
 - [[Encantamiento-de-Ligadura]] — ritual (de especie)
@@ -50,6 +74,37 @@ Una nota por conjuro (ver `[[Plantillas/Conjuro]]`). Este índice agrupa por tip
 - [[Ordenar-Especies]] — [[Culto-Madre-de-la-Luz]] + [[Culto-Padre-de-la-Oscuridad]]
 - [[Relampago]] — [[Culto-Madre-de-la-Luz]]
 - [[Vision-del-Alma]] — los tres genéricos
+- [[Adorar]] — común
+- [[Bloqueo-Espiritual]] — común
+- [[Disolver-Magia]] — común
+- [[Extension]] — común
+- [[Guardia]] — común
+- [[Localizar-Enemigos]] — común
+- [[Revelacion]] — común
+- [[Santificar]] — común
+- [[Vinculo-Mental]] — común
+- [[Bendecir-Cosechas]] — [[Culto-Diosa-Agricultura]]
+- [[Regenerar-Miembros]] — [[Culto-Diosa-Agricultura]]
+- [[Disparo-Certero]] — [[Culto-Dios-Cazador]]
+- [[Ilusion-Gustativa]] — [[Culto-Dios-Embaucador]] + [[Culto-Diosa-Luna]]
+- [[Ilusion-Movil]] — [[Culto-Dios-Embaucador]] + [[Culto-Diosa-Luna]]
+- [[Ilusion-Olfativa]] — [[Culto-Dios-Embaucador]] + [[Culto-Diosa-Luna]]
+- [[Ilusion-Sonora]] — [[Culto-Dios-Embaucador]] + [[Culto-Diosa-Luna]]
+- [[Ilusion-Tactil]] — [[Culto-Dios-Embaucador]] + [[Culto-Diosa-Luna]]
+- [[Ilusion-Visual]] — [[Culto-Dios-Embaucador]] + [[Culto-Diosa-Luna]]
+- [[Reflexion]] — [[Culto-Dios-Embaucador]]
+- [[Crear-Fantasma]] — [[Culto-Dios-Infiernos]]
+- [[Resurreccion]] — [[Culto-Dios-Infiernos]] + [[Culto-Dios-Sol]]
+- [[Estallido-Mental]] — [[Culto-Diosa-Luna]]
+- [[Locura]] — [[Culto-Diosa-Luna]]
+- [[Flotar]] — [[Culto-Dios-Mar]]
+- [[Respirar-Aire-Agua]] — [[Culto-Dios-Mar]]
+- [[Restaurar-Salud]] — [[Culto-Diosa-Noche]] (INT) + [[Culto-Diosa-Tierra]] (resto)
+- [[Disipar-Nubes]] — [[Culto-Dios-Sol]]
+- [[Lanza-Solar]] — [[Culto-Dios-Sol]]
+- [[Curacion-del-Cuerpo]] — [[Culto-Diosa-Tierra]]
+- [[Llamar-Nubes]] — [[Culto-Dios-Tormentas]]
+- [[Rayos-y-Truenos]] — [[Culto-Dios-Tormentas]]
 - [[Ensenar-Conjuros]] — ritual de invocación (uso sacerdotal general)
 - [[Invocar-Especies]] — ritual de invocación, variante divina 2 pts (ver nota)
 - [[Encantamiento-de-Armadura]] — ritual divino (ver nota)
@@ -61,6 +116,30 @@ Una nota por conjuro (ver `[[Plantillas/Conjuro]]`). Este índice agrupa por tip
 ## Hechicería
 
 - [[Aumentar-Daño]]
+- [[Agotar]]
+- [[Animar-Sustancia]]
+- [[Asfixia]]
+- [[Brillo]]
+- [[Circulo-Base]]
+- [[Circulo-Proteccion]]
+- [[Crear-Basilisco]]
+- [[Crear-Familiar]]
+- [[Crear-Vampiro]]
+- [[Devolver-Conjuros]]
+- [[Disminuir]]
+- [[Incrementar]]
+- [[Inmortalidad]]
+- [[Obstaculizar]]
+- [[Pegamento]]
+- [[Piel-Vital]]
+- [[Prisa]]
+- [[Regeneracion]]
+- [[Resistencia-Espiritus]]
+- [[Sensacion-Inexistente]]
+- [[Telepatia]]
+- [[Teletransporte]]
+- [[Vinculo-Aprendiz]]
+- [[Volar]]
 - [[Cambiar-de-Forma]]
 - [[Dominar-Especie]]
 - [[Estupefaccion]]

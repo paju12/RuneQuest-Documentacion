@@ -42,6 +42,16 @@ Cornada como segundo ataque a +3 MR. Cabeza con piel dura 3 PA; cuerpo con cuirb
 
 Híbridos caóticos (hombre + ciervo/cabra/antílope), 90% machos, hibridan con casi todo. Bandas en páramos, desiertos, pantanos y montañas; ruinas y cavernas, sin vivienda propia. Emboscan, capturan para sadismo; abandonan dinero/joyas infectadas donde los humanos las hallen. Inmunes a enfermedad y veneno (50% portador).
 
+## Como aventurero (Avanzado)
+
+1D6: 1-2 cultura feral, 3-6 salvaje. Feral (1D100): 01-97 Incursor, 98-00 Shamán. Salvaje: 01-17 Guerrero, 18-97 Incursor, 98-00 Shamán.
+
+- **Incursor**: Con. Animal x2, Vegetal x1, Ocultar x2, Escuchar x2, Otear x3, Rastrear x3, Esconderse x4, Deslizarse x3, Cornada x2, Arrojadiza x2, Arma 1M x3, Detención arma/escudo o Esquivar x3. Sin magia. Armas, yesquero, pieles/cuero sin curtir (2) en torso y extremidades.
+- **Shamán (feral o salvaje)**: como Shamán Humano Primitivo con Rastrear x2 y Cornada x2, sin Arrojar/Puño/Daga. Armas, hasta anillos, fetiches, yesquero, tambor/flauta, botín 500 p.
+- **Incursor salvaje**: Trepar x1, Saltar x1, Animal x1, Ceremonia o Encantamiento o Invocación x1, Ocultar x2, Inventar x1, Otear x2, Buscar x2, Rastrear x3, Esconderse x4, Deslizarse x3, Cornada x2, Arrojadiza x2, Arma 1M x3, Detención arma/escudo o Esquivar x3. Espiritual 1D3-1 a la madurez +1/10 años. Armas, cuero duro en extremidades, cuirbouilli en torso, yesquero.
+- **Guerrero salvaje**: Ocultar/Escuchar/Otear/Buscar/Rastrear/Esconderse/Deslizarse x3, Cornada x2, Arrojadiza x2, cualquier Arma x4, Detención cualquiera o Esquivar x4. Espiritual igual. Como Guerrero Humano Bárbaro sin montura.
+
 #runequest/bestiario
 
 *Fuente: RuneQuest Básico 2ª Edición, Libro de Reglas, cap. Las Criaturas.*
+*Fuente: RuneQuest Avanzado, pp. 86-87.*

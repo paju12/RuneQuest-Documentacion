@@ -43,6 +43,11 @@ Piel 1 + anillos y casco de la tabla incluida (supuesta en PG por zona).
 
 Cuevas, subterráneos y desolados; poblados destartalados oscuros; partidas muy adentro de lo humano. Voraces, nocturnos.
 
+## Como aventurero (Avanzado)
+
+1D6 cultura: 1-2 Salvaje, 3-5 Bárbara, 6 Civilizada. Salvajes = Cazador Humano Primitivo. Bárbaros (1D100): 01-05 Cazador Salvaje, 06-08 Fabricante Bárbaro, 09-25 Pastor Bárbaro (insectos), 26-75 Cazador Bárbaro, 76-77 Noble Bárbaro (Mundo x4 en vez de Montar), 78-79 Sacerdote Bárbaro, 80-81 Shamán Salvaje, 82-00 Guerrero Bárbaro. Civilizados (1D100): 01-05 Fabricante Bárbaro, 06-25 Pastor Bárbaro, 26-60 Cazador Bárbaro, 61-65 Pescador Civilizado, 66-68 Sanador Civilizado, 69-70 Mercader Civilizado, 71-72 Noble Civilizado (Mundo x4), 73-74 Sacerdote Bárbaro, 75-76 Shamán Bárbaro, 77 Hechicero Civilizado, 78-00 Guerrero Bárbaro.
+
 #runequest/bestiario
 
 *Fuente: RuneQuest Básico 2ª Edición, Libro de Reglas, cap. Las Criaturas.*
+*Fuente: RuneQuest Avanzado, pp. 118-119.*

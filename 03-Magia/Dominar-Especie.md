@@ -34,6 +34,23 @@ Memorizar 1 INT; enfrentar Intensidad contra PM en Resistencia. Fallo agresivo a
 
 Autoridad: obedece mientras dura; telepatía mientras se vean; sirve para interrogar (nombre auténtico, características, habilidades). Órdenes por imagen mental (1 asalto; actúa al siguiente). Ligable en objetos (ver [[Magia-Ritual-Reglas]]).
 
+## Disponibilidad (Avanzado; lista no exhaustiva)
+
+| Conjuro | Disponibilidad |
+|---|---|
+| Animal Mundano | Común |
+| Basilisco | Exótico |
+| Dragón | Exótico |
+| Elemento | Común |
+| Espectro | Común |
+| Espíritu | Común |
+| Fantasma | Común |
+| Helión | Común |
+| Humano | Exótico |
+| Kon-Kon | Común |
+| Vampiro | Exótico |
+
 ## Fuente
 
 *Fuente: RuneQuest Básico 2ª Edición, Libro de Magia, Hechicería.*
+*Fuente: RuneQuest Avanzado, p. 77.*

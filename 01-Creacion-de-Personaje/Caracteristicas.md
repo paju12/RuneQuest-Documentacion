@@ -19,6 +19,16 @@ Siete características definen a todo aventurero humano. Cuanto más alta la cif
 
 Se acepta el resultado aunque sea malo. Con el tiempo algunas pueden superar 18 (ver [[Experiencia-Entrenamiento-y-Caracteristicas]]).
 
+## Métodos de determinación (Avanzado)
+
+Salvo decisión del Master, el jugador elige uno de los tres:
+
+- **Aleatorio**: 3D6 por característica, excepto INT y TAM con 2D6+6. Hay que conformarse con lo obtenido.
+- **Deliberado**: solo aventureros humanos y sin dados. Repartir 80 puntos entre las siete características: INT y TAM mínimos de 8, resto mínimo de 6.
+- **Combinado**: como el aleatorio, más 6 puntos a discreción. En humanos, ninguna característica puede pasar de 18 tras el añadido y la suma total no puede pasar de 91.
+
+*Fuente: RuneQuest Avanzado, p. 9.*
+
 > [!note]
 > En esta edición PER equivale a POD de otras ediciones: mide fuerza vital, da los [[Atributos-Derivados#Puntos de magia|Puntos de Magia]] y se sacrifica para magia divina. No usar Pasiones ni Runas de RQG aquí.
 

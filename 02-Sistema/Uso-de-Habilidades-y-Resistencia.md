@@ -103,6 +103,81 @@ Buscar el factor activo en la línea superior horizontal y el pasivo en la colum
 
 Para tener éxito, obtener una cifra igual o inferior al número indicado.
 
+## Terreno, vegetación y clima (Avanzado; solo a instancias del Master)
+
+### Vegetación y movimiento
+
+Metros por asalto a restar del movimiento según espesura:
+
+| | Matorral | Arbustos | Árboles |
+|---|---|---|---|
+| Ligera | 0 | 0 | 1 |
+| Mediana | 0 | 1 | 2 |
+| Espesa | 0 | 2 | 3 |
+
+Ligera = ≤1 ejemplar/9 m² (visión normal salvo vegetación dispersa); Mediana = ≤5/9 m² (visión a la mitad); Espesa = >5/9 m² (visión al 25%). Matorral = hasta la cintura (hierba, matas; no impide); Arbustos = más altos que un hombre (reducen movimiento 15-50%); Árboles = más altos que un hombre (como arbustos; soportan el peso de un hombre).
+
+### Percepción según terreno
+
+Restar a Otear, Buscar y Rastrear (Escuchar no se afecta):
+
+| | Ligera | | | Mediana | | | Espesa | | |
+|---|---|---|---|---|---|---|---|---|---|
+| | Mat. | Arb. | Árb. | Mat. | Arb. | Árb. | Mat. | Arb. | Árb. |
+| Penalización | 0 | −10 | −10 | −10 | −20 | −20 | −15 | −30 | −50 |
+
+Terreno accidentado (elevaciones/depresiones): Buscar a la mitad y Otear −25% antes de restar terreno.
+
+### Sigilo según terreno
+
+Esconderse suma, Deslizarse en Silencio resta:
+
+| | Ligera | | | Mediana | | | Espesa | | |
+|---|---|---|---|---|---|---|---|---|---|
+| | Mat. | Arb. | Árb. | Mat. | Arb. | Árb. | Mat. | Arb. | Árb. |
+| Esconderse | +5 | +10 | +10 | +10 | +20 | +20 | +15 | +30 | +50 |
+| Deslizarse | −5 | −10 | −10 | −10 | −20 | −20 | −15 | −30 | −50 |
+
+Terreno totalmente plano: Esconderse a la mitad antes de añadir. Accidentado/ondulado: Esconderse al doble antes de añadir.
+
+### Viento
+
+| FUE | Efecto |
+|---|---|
+| 0-2 | Calma |
+| 3-6 | Brisilla (mueve la llama, no la apaga) |
+| 7-12 | Brisa (apaga velas) |
+| 13-18 | Ligero (límite bajo para buena vela) |
+| 19-24 | Moderado (peligroso volando; pájaros en tierra) |
+| 25-30 | Fuerte (derriba humanos; límite de velamen) |
+| 31-36 | Temporal (imposible estar de pie) |
+| 37-45 | Galerna |
+| 46-50+ | Huracán |
+
+- **Movimiento**: FUE+TAM propios vs FUE del viento en Resistencia; fallo = caída. Voladoras solo con FUE.
+- **Arrojadizas**: desde FUE 10, −5% por punto sobre 10.
+- **Visibilidad**: partículas en suspensión; reducción máxima % = FUE del viento.
+
+### Nubosidad y lluvia
+
+| % | Cielo | Precipitación posible (mm) |
+|---|---|---|
+| 0-10 | Despejado | 0-10 |
+| 11-20 | Escasa | 11-20 |
+| 21-30 | Dispersas | 21-30 |
+| 31-40 | Ligeramente cubierto | 31-40 |
+| 41-50 | Moderadamente cubierto | 41-50 |
+| 51-65 | Casi total | 51-65 |
+| 66-80 | Total | 66-80 |
+| 81-00 | Muy densa, poca luz | 81-00 |
+
+Cada día 1D100 ≤ % nubosidad = llueve; mm = resultado. Algunos conjuros exigen cierto cielo (ver magia).
+
+### Temperatura (Celsius)
+
+Congelación 0, ebullición 100; óptimo humano 17/27, aceptable 10/40, supervivencia −20/45. Bien protegidos aguantan más un tiempo; si no, muerte en 1 hora ante extremos.
+
 #runequest/reglas
 
 *Fuente: RuneQuest Básico 2ª Edición (Joc Internacional), Libro de Reglas, cap. El Sistema de Juego.*
+*Fuente: RuneQuest Avanzado, pp. 41-43.*

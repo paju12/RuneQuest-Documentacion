@@ -17,7 +17,8 @@ Resúmenes de consulta rápida. El detalle vive en la nota correspondiente; esta
 
 ## Criaturas y escenario
 
-- Criaturas: ver [[Indice-Bestiario]] (29 entradas Básico 2ª).
-- Escenario: [[La-Hechicera-Negra]] con botín (oro 1 = 12 p) y PNJ de Jotenheim.
+- Criaturas: ver [[Indice-Bestiario]] (29 entradas Básico 2ª + 52 Avanzado).
+- PG por localización: [[PG-por-Localizacion]] (multiplicadores por tipo + tabla numérica).
+- Escenarios: [[La-Hechicera-Negra]] con botín (oro 1 = 12 p) y PNJ de Jotenheim; [[Los-Telmori]] con recompensas del sheriff y botín mágico.
 
 #runequest/tablas

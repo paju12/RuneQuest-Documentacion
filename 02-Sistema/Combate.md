@@ -78,6 +78,85 @@ Puñetazo 25% (1D3), patada 15% (1D6), resto en tabla de armas naturales. Puño 
 
 Tirar 1D100 en la tabla que toque (ataque/parada, natural, arrojadiza). Efectos típicos: perder siguiente parada/ataque/esquiva, perder 1D3 asaltos o ataques, caída con 1D3 asaltos para levantarse, tobillo (mitad movimiento 5D10 asaltos), casco movido (hasta 1D6 asaltos reajustando), arma caída o despedida 1D6 m, arma rota (100% salvo encantada: −10% por PM espiritual/hechicería, −20% por punto divino; arrojadiza rota igual), golpear a amigo cercano (normal/máximo/crítico) o a sí mismo, guardia abierta (el rival golpea automático normal o crítico). «La ha hecho buena»: aplicar 2-3 resultados.
 
+## Reglas avanzadas (Avanzado; solo a discreción del Master)
+
+### Apuntar a una localización
+
+Declarar la localización en la declaración de intenciones y esperar al final del MR 10. Ataque a mitad de posibilidades + todos los modificadores; si entra, golpea la localización deseada (el aventurero espera una apertura en la defensa).
+
+### Marcar golpes
+
+Declarar que se marca el golpe para hacer menos daño: usar modificador de daño inferior, omitirlo, o lanzar menos/menores dados del arma (p. ej. espada ancha 1D8+1 con +1D4 puede pasar a 1D4+1 sin modificador).
+
+### Empujones en casos especiales
+
+- **Afianzarse**: declarar antes del ataque rival. Sin moverse en el asalto (o se pierde), no se puede Esquivar (sí Detener), +3 MR a cualquier otra actividad. Para desplazarle, el daño debe superar FUE+TAM.
+- **Colisión con persona u objeto pequeño desplazable**: DESx5 para no caer (si es persona, ella también tira; objeto inanimado a criterio). Si el desplazamiento es de 3+ m: 1D6 por cada 5 m o fracción a ambos (tabla cuerpo a cuerpo para vivos).
+- **Contra objeto sólido no desplazable** (pared, árbol, roca): 1D6 por metro recorrido, localización al azar (tabla cuerpo a cuerpo).
+- **Armas que no empujan**: naturales como pinzas o la mayoría de mordiscos (su energía presiona la zona atrapada).
+- **Empujón intencionado**: declarar (vale intención condicionada); moverse al blanco (ese asalto solo Detener/Esquivar además). Ataca en MR de puñetazo: FUE+TAM propios vs TAM+DES rival en Resistencia. Éxito = empujado como si (FUE+TAM atacante − TAM blanco) fuera daño de arma; especial = ignora el TAM; crítico = además pierde las armas (salvo escudo o agarradas al brazo). Aplican los modificadores de la tabla de ataque; víctima sorprendida sin DES. A la carrera: +1 a FUE+TAM por cada MR en línea recta antes del golpe.
+
+### Inconsciencia y apresamiento
+
+Además de inmovilizar con lucha: dejar inconsciente con la parte plana o el mango, en golpe apuntado a la cabeza al final del asalto. Restar armadura; el resto se enfrenta a los PG de la cabeza en Resistencia: si vence, aturdido e inconsciente. Cada fase de registro, CONx1 para recuperarse.
+
+### Jinetes y combate
+
+Como a pie, pero la montura mueve (sin gastar MR). % de arma a caballo limitado por % de Montar.
+
+- **Localizaciones**: jinete con 1M hacia abajo contra infante: 1D10+10 en tabla cuerpo a cuerpo (solo mitad superior) + ventajas de altura. Infante con 1M contra jinete: tabla normal, pero un resultado del lado contrario = al animal (cuartos delanteros/traseros según cercanía); un 19 = brazo cercano del jinete, no cabeza.
+- **Armas prohibidas a caballo**: cortantes de dos manos (doble puño, alabardas).
+- **Lanza de torneo** (tamaño pica, 1M bajo el brazo a caballo, 2M a pie): MR 0 + MRs de la montura (TAM/DES del jinete no cuentan; otras lanzas usadas así sí suman su MR). Ese asalto no se puede Esquivar (sí detener con escudo). Usa el modificador de daño del animal si cargó al trote o más rápido un asalto completo; si no, el del jinete.
+- **Lanzas fijadas contra la carga**: daño del arma + modificador del propio animal que carga; MR 0 (solo el tiempo en alcanzar); sin detener ni esquivar. La pica golpea antes que la torneo; las demás lanzas después.
+- **Escudos grandes** (redondo vikingo, cometa, gran rectangular): solo protegen el lado en que se llevan; no se pueden cambiar de lado con facilidad.
+
+### Entornos desfavorables
+
+- **Oscuridad total** (caverna): −75% a ataques, detenciones y esquivas (mínimo 5%; recalcular crítico/especial/pifia: p. ej. 100% → 25%, empalar 20% → 5%, crítico 5% → 1%, pifia 00 → 97-00). No se puede llevar luz en la mano del arma (salvo no usar ese brazo).
+- **Noche o similar** (antorcha lejana): −5 a −75% a criterio del Master.
+- **Velas** (2 h): radio 1 m con luz para leer/Buscar; −5% Buscar acumulativo por metro fuera. Brisa la apaga; caída: 51-00 en 1D100 por asalto hasta recogerla o apagarse.
+- **Antorchas** (1 h, con material inflamable): a hombros iluminan 10 m de diámetro; en el suelo 3 m. Caída: 96-00 por asalto.
+- **Lámparas** (caja con reflectores y portezuelas): haz de 3 m de ancho a 10 m; fuera del haz −10% Buscar por metro. Con vela (1 h): 25% de apagarse con viento fuerte si no está cerrada. De aceite (2 h): casi inapagable. Caída de lámpara de aceite (1D100): 01-30 se apaga intacta; 31-70 sigue ardiendo con haz aleatorio; 71-75 se rompe (suelo resbaladizo, mecha ardiendo dentro); 76-85 se rompe y se apaga (suelo resbaladizo); 86-00 aceite ardiendo = fuego pequeño.
+- **Bajo el agua**: rige asfixia (ver [[Daño-Natural-Veneno-Enfermedad]]). Cortantes, contundentes y arrojadizas inútiles (salvo lanza-arpones tipo ballesta); solo empalantes y cuchillos. El blanco cuenta +3 de armadura (incluso contra críticos). Doble pérdida de PF por asalto.
+- **Elevación** (a mitad de la talla del rival o más): atacar 1 MR antes, +1 al 1D20 de localización (máx. 20), +10% a ataques y detenciones. Jinetes contra infantes siempre.
+- **Pasadizos estrechos**: con <1 m libre alrededor, armas de MR-0/1 a mitad (salvo lanzas/picas); con <0,5 m, también MR-2 a mitad; sin circulación de aire, doble fatiga por asalto.
+- **Combate tridimensional** (volar sin ser natural): % de ataque limitado por Montar el animal volador; −10% por el movimiento + resto de modificadores.
+
+### Tabla de modificadores a las posibilidades de ataque
+
+| Bonificación | Causa |
+|---|---|
+| +25 | Blanco indefenso |
+| +20 | Blanco sorprendido antes de empezar |
+| +20 | Blanco caído |
+| +10 | Blanco sorprendido durante el combate |
+| +10 | Ataque por detrás o lado sin escudo |
+| +10 | Ataque "preparado" (un asalto apuntando) |
+| +10 | Ataque desde altura superior |
+| +5 | Por cada 10 TAM del blanco sobre TAM 20 |
+
+| Penalización | Causa |
+|---|---|
+| −75 | Blanco invisible/indetectable (vista, infravisión u otros sentidos) |
+| −20 | Atacante caído |
+| −10 | Blanco en movimiento |
+| −10 | Por cada TAM del blanco bajo TAM 4 |
+| −10 | Atacante en movimiento, a caballo o en vehículo |
+
+### Tácticas especiales cuerpo a cuerpo
+
+- **Combate cerrado**: el arma corta declara en su MR que forzará el acercamiento (+1 MR el asalto siguiente). El arma larga cede o se retrasa (+1 MR, todo igual). Con sitio para retroceder, la larga mantiene la distancia siempre. Sin sitio, el corto se echa encima: golpea primero siempre y el de arma larga solo hace UNA maniobra por asalto (atacar, detener O esquivar). Si ambas son largas en cerrado: ambos limitados a una maniobra, en sus MR.
+- **Desarmar**: declarar el arma rival (si detiene con ella, la detención es automática si el ataque entra). % normal si el arma es MR-0; −10% MR-1; −20% MR-2; −30% MR-3. Al alcanzarla: (a) **dañarla**: el exceso sobre sus PA reduce sus PA en esa cantidad (2-3 golpes bastan; acometida pura como dagas/lanzas no puede); (b) **arrancarla** con la parte plana: daño vs FUE rival (FUE×1,5 si 2M) en Resistencia; vuela a tantos metros como el exceso (si no, a sus pies); sin daño al arma; no con cortas solo de acometida (dagas), sí con lanzas/garrotes/cayados; (c) **capturarla** con flexible (látigo, lazo, maza campesina): éxito especial enrolla + FUE vs FUE para arrebatar; si falla, el defensor puede arrebatar a su vez (el arma enredada cuenta como escudo con arma de CAR 2 empalada); (d) **rompe-espadas** (redondo vikingo, sais, diseñadas): éxito especial deteniendo captura el filo; arrebatar (FUE vs FUE) o romper (FUE vs PA); añadir esta capacidad dobla el precio.
+- **Armas improvisadas**: asimilar a su categoría (la mayoría caen en mazas). Para gigantes/trolls ver área-efecto.
+- **Blancos múltiples (área-efecto)**: gigante con tronco y similares (vale para pisoteo, cola, coleteo). El Master designa afectados según forma y terreno. **Aplastamiento** (de arriba abajo): +10% por cada 10 TAM del objeto sobre TAM 20; una tirada de ataque para todos, defensas normales; una tirada de daño para todos en localización cualquiera, todo a PG totales aunque sea miembro. Daño ≈ 1D6 por cada 10 TAM del objeto (ajustar por dureza/bordes; si es ser vivo igual). La víctima queda incrustada: daño de colisión sólida en cada pierna. **Barrido** (lateral): +20% de éxito, 75% del daño; cubre ~60°; se puede Saltar fuera con sitio (no Esquivar; la detención bloquea parte). Empujón por víctima por separado: si no desplaza, el barrido se detiene ahí; si la víctima sigue en el arco tras desplazarse, repite golpe. Ejemplo de la fuente: tronco 4D6 + mod. 6D6 = 10D6 aplastando, 7D6+1D3 barriendo.
+
+### Armas arrojadas: detener y disparar
+
+- **Detener arrojadas**: solo armas arrojadas (no proyectiles), si el blanco se apercibe y está preparado. Alternativa: declarar el escudo cubriendo localizaciones: Hebilla = brazo del escudo; Diana/Heraldo = brazo + otra; Rectangular/Cometa/Vikingo = brazo + otras dos contiguas. Escudo a la espalda = mitad de sus PA al pecho contra arrojadas.
+- **Detener con proyectil**: base 20%, no entrenable (solo experiencia); imposible sin PA (hondas). Si el golpe supera sus PA: −1 PA e inservible hasta reparar.
+- **Disparos verticales**: −10% hacia arriba; alcances efectivo y máximo a la mitad.
+
 #runequest/reglas
 
 *Fuente: RuneQuest Básico 2ª Edición (Joc Internacional), Libro de Reglas, cap. El Combate.*
+*Fuente: RuneQuest Avanzado, pp. 25-33.*

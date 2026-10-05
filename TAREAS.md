@@ -118,3 +118,29 @@
 - [x] Actualizar Indice-Magia (líneas 33, 49, 68) con enlaces a las notas nuevas
 - [x] Verificar vínculo bidireccional culto-conjuro en notas nuevas y de cultos
 - [x] Eliminar Q23 de QUESTIONS.md y marcar TAREAS
+
+# Ingesta RuneQuest Avanzado (OCR `C:\Users\Paju\Downloads\rq\ocr\RuneQuest - Avanzado.md`, pp. 1-128) — pendiente
+- Fuente: *RuneQuest Avanzado* (JOC Internacional, 1ª ed. 1989), pp. 7-127. Pie de nota obligatorio en cada nota nueva/ampliada.
+- Regla: localizar por TEMA en índices + búsqueda antes de crear; ampliar sin duplicar; repartir secciones multitema; wikilinks `[[Nombre-de-Nota]]`; tags jerárquicos; sin frontmatter.
+
+- [ ] Bloque 0 — Base y dudas OCR: Q8, Q24, Q45 abiertas en QUESTIONS.md; Q46 resuelta (normalizar RQ4→RQA, RQ3/RQ6/RQB→RQB en las notas); Q47 resuelta (PELEIDAD→PER, Detección combate→Detención, Rastrrear→Rastrear, Ocular/Oculatar→Ocultar, Arrojara→Arrojar, Primevos→Primeros, Invocación duplicada→Encantamiento); Q48 resuelta (Fabricantes Bárbaros: Tejedor 79-97→79-00; Bote/Canoa se transcriben literales con warning, valores confirmados en manual); Q49 resuelta (Locura: Fallo largo/Pifia corta; Vampiro: 2ª fila Brazo I; tabla Lengua/Engullimiento/Patada reasignada al Sapo, Res con Carga+pisotear); Q50 resuelta (Cazador 02-11; Soldado literal con warning); Q51 resuelta (contradicción en el propio manual: se mantiene 2 pts con warning); Q52 resuelta (tabla 7/x = Sapo Gigante)
+- [x] Bloque 1 — 01-Creación: ampliar `Experiencia-Previa` y `Caracteristicas` con métodos, culturas, profesiones por cultura
+  - [x] Primitiva (conjuros aconsejados, tabla D100, Ayudante/Cazador/Pescador/Shamán)
+  - [x] Nómada (tabla + 7 profesiones, nota montura→Esconderse si tribu sin monturas)
+  - [x] Bárbara (tabla + Artista/Ayudante/Cazador/Fabricante+Granjero/Guerrero/Iniciado/Noble/Pastor/Pescador/Sacerdote/Shamán)
+  - [x] Civilizada (tabla + Adepto/Aprendiz/Artista/Escriba/Fabricante+Granjero/Iniciado/Ladrón/Marinero/Mercader/Noble/Pastor/Sacerdote/Sanador/Soldado)
+  - [x] Reglas opcionales (edad, cambio profesión, inactividad, objetos encantados, envejecimiento) + ejemplo Cormac como prosa, no nota propia
+- [x] Bloque 2 — 02-Combate avanzado: ampliar `Combate` (apuntar, marcar, empujones, inconsciencia, jinetes, entornos, tácticas Cc, área-efecto)
+- [x] Bloque 3 — 02-Habilidades y mundo: ampliar `Habilidades-Lista` + `Uso-de-Habilidades-y-Resistencia` (vegetación/movimiento, percepción/sigilo vs terreno, viento/nubosidad/lluvia/temperatura, directrices nuevas habilidades)
+- [x] Bloque 4 — 02/07-Barcos y navegación: crear/ampliar nota Barcos-y-Navegacion (características, tipos, 11 navíos ejemplo con Bote/Canoa literales + warning Q48, velocidades vela/remos, tripulación, daño, tempestades, monstruos, fuego, combate naval, reparaciones físicas/mágicas/diques)
+- [x] Bloque 5 — 03-Magia espiritual (reglas): ampliar `Magia-Espiritual-Reglas` (estudiante tribu/extranjero, ayudante, shamán fetch/sacrificio/lucha, desventajas/beneficios, incorpóreo, exorcismos, capturas, focos)
+- [x] Bloque 6 — 03-Magia espiritual (23 conjuros, una nota por conjuro plantilla Conjuro): Cola, Comunicacion-Mental, Coordinacion, Detectar-Enemigos, Detectar-Magia, Enlentecer, Extinguir, Flecha-Ignea, Glamour, Inflamar, Mellar-Armas, Movilidad, Pantalla-Espiritual, Pared-de-Luz, Pared-Oscura, Proyectil-Multiple, Resistencia-Espiritual, Rielar, Silencio, Vigor, Visibilidad, Vista-Lejana, Vista-Magica
+- [x] Bloque 7 — 04-Cultos (panteón genérico 12 notas + templos en reglas divinas; Básico conservado con afinidades cruzadas)
+  - [ ] Diosa-Agricultura, Dios-Cazador, Dios-Embaucador, Dios-Guerra (cotejar Señor-de-la-Guerra), Dios-Infiernos, Diosa-Luna, Dios-Mar, Diosa-Noche (cotejar Padre-Oscuridad), Deidad-Principal, Dios-Sol, Diosa-Tierra (cotejar Madre-Luz), Dios-Tormentas
+- [x] Bloque 8 — 03-Magia divina: 30 notas (9 comunes + 21 especiales). Pendiente: Ilusión Solar (solo citada en sumario p. 5, sin descripción) + Q51 (coste Locura 1/2)
+- [x] Bloque 9 — 03-Hechicería: reglas (aprendiz/adepto/mago, familiar, Vínculo) + Dominar ampliada (tabla) + 24 notas (Agotar…Volar)
+- [x] Bloque 10 — 03-Plano espiritual: nota Plano-Espiritual (3 regiones + pifias, 4 tablas)
+- [x] Bloque 11 — 06-Bestiario: 52 notas nuevas + 8 ampliadas (Broo/Elfo/Enano/Hobbit/Ogro/Orco/Pato/Troll-Negro). Tabla general de PG por localización (p. 121) pendiente en Bloque 14
+- [x] Bloque 12 — 07-Equipo: Cc (22 filas + descripciones), arrojadizas (15 filas + ingenios + metralla), armaduras (4 tipos + CAR/zona + usos)
+- [x] Bloque 13 — 08-Escenario Los-Telmori (mapa p.122, recompensas, emboscada, guarida, botín)
+- [x] Bloque 14 — Cierre: índices locales + 00-Indice.md (sin secciones nuevas), wikilinks y bidireccional culto-conjuro verificados, tags, pies y warnings; PG-por-Localizacion en Tablas

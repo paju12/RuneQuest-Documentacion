@@ -42,6 +42,11 @@ Sin natural; llevan cualquiera.
 
 Flemáticos, evitan conflicto; bucólicos que a veces salen aventureros. Bien con humanos (poblados compartidos) y regular con elfos/enanos; temen trolls.
 
+## Como aventurero (Avanzado)
+
+Tablas humanas civilizadas en habilidades, magia y equipo. Sin Hechicero ni Sacerdote (= Fabricante). Puño → Deslizarse en Silencio; Daga → Esconderse.
+
 #runequest/bestiario
 
 *Fuente: RuneQuest Básico 2ª Edición, Libro de Reglas, cap. Las Criaturas.*
+*Fuente: RuneQuest Avanzado, p. 105.*

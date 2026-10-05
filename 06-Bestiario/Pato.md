@@ -42,6 +42,17 @@ Cuero en miembros 2, cuirbouilli en cabeza/cuerpo.
 
 Ríos, pantanos y aldeas; guías, remeros, pescadores, mercaderes; buenos ladrones por destreza y tamaño. Cultura espejo de la humana, coexisten en ciudades mixtas.
 
+## Como aventurero (Avanzado, 1D100)
+
+01 Artista, 02-06 Fabricante, 07 Hechicero, 08-16 Ladrón, 17-21 Mercader, 22-31 Pastor, 32-90 Pescador, 91 Sacerdote, 92 Sanador, 93 Shamán, 94-00 Soldado. Como el humano civilizado en habilidades y equipo, pero magia de cultura bárbara.
+
+- **Fabricante**: como el humano sin Arrojar/Puño/Lanza 2M + Remar x2, Nadar x2, Espada Corta x1 + Detención x1.
+- **Pescador**: Remar x5, Trepar x2, Cantar x2, Animal x2, Humano x1, Mundo x4, Inventar x3, Otear x3, Buscar x2, Nadar x3, Arma 1M x2, Detención/Esquivar x2.
+- **Sacerdote**: Remar x3, Nadar x1, Fluida x2, Oratoria x5, Propio x2, Primeros Auxilios x2, Humano x3, Leer/Escribir propio x3, Ceremonia x3, Encantamiento x2, Invocación x2, Daga x1, Arma 1M x1 + Detención/Esquivar x1.
+- **Shamán**: como el bárbaro sin Arrojar/Puño + Remar x1, Nadar x2.
+- **Soldado**: Remar x2, Nadar x2, Primeros Auxilios x1, Humano x1, Ocultar x2, Inventar x2, Escuchar x2, Otear x2, Esconderse x4, Deslizarse x3, Daga x1, Arrojadiza x3, Arma 1M x3, Detención/Esquivar x3.
+
 #runequest/bestiario
 
 *Fuente: RuneQuest Básico 2ª Edición, Libro de Reglas, cap. Las Criaturas.*
+*Fuente: RuneQuest Avanzado, p. 114.*

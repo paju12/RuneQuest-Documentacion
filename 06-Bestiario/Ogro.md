@@ -38,6 +38,11 @@ Todo tipo humano (fila genérica: MR 5 +arma, ataque +9, daño arma +1D4, parada
 
 Caníbales malignos infiltrados en sociedad humana; guardan la identidad en secreto y comen inteligentes solo a salvo o sin testigos.
 
+## Como aventurero (Avanzado)
+
+Viven ocultos entre humanos: misma cultura y profesión (mismas habilidades, magia y equipo). Primitiva (1D20): 01-18 Cazador, 19-20 Shamán. Nómada/bárbara/civilizada (1D20) — nómada: 01-10 Cazador, 11-12 Guerrero, 13 Noble, 14-18 Pastor, 19-20 Shamán; bárbara: 01-10 Cazador, 11-16 Guerrero, 17-18 Noble, 19-20 Shamán; civilizada: 01-02 Artista, 03-04 Hechicero, 05-06 Ladrón, 07-12 Mercader, 13-14 Noble, 15 Sacerdote, 16-20 Soldado.
+
 #runequest/bestiario
 
 *Fuente: RuneQuest Básico 2ª Edición, Libro de Reglas, cap. Las Criaturas.*
+*Fuente: RuneQuest Avanzado, p. 113.*

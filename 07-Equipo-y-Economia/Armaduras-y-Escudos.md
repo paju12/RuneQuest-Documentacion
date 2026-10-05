@@ -43,7 +43,42 @@ Formato: CAR total (coste total en peniques). El penique (p) es la moneda base; 
 | Hebilla | 1D4 | 8 | 3 | 120 |
 | Heraldo / Diana | 1D6 | 12 | 3 | 60 |
 | Gran rectangular | 1D6 | 18 | 3 | 150 |
+| Cometa (Avanzado) | 1D6 | 16 | 3 | 120 |
+| Redondo vikingo (Avanzado) | 1D6 | 10 | 2 | 120 |
+
+## Armaduras nuevas (Avanzado)
+
+| Tipo | PA | Coste/CAR | Pequeña 6-10 | Mediana 11-15 | Grande 16-20 | Troll 21-25 |
+|---|---|---|---|---|---|---|
+| Bezanteada | 4 | 70 p | 6.0 (420) | 7.5 (563) | 9.0 (630) | 10.5 (735) |
+| Lamelar | 6 | 200 p | 14.0 (2800) | 18.0 (3600) | 21.5 (4300) | 25.0 (5000) |
+| Escamas | 6 | 120 p | 16.0 (1920) | 20.0 (2400) | 24.0 (2880) | 28.0 (3360) |
+| Brigandina | 7 | 200 p | 17.5 (3500) | 22.0 (4400) | 26.5 (5300) | 31.0 (6200) |
+
+- **Bezanteada**: cuero blando con discos (bezants); cara por el metal, rápida de hacer.
+- **Lamelar/entablillada/tachonada**: bandas sobre cuero con remaches (+ malla en articulaciones).
+- **Escamas**: escamas metálicas sobre base; máxima cobertura, pesadísima.
+- **Brigandina**: escamas entre dos cueros con remaches; fuerte y vistosa.
+
+### CAR por localización
+
+Cabeza 1/10, brazo 1/10 c/u, pecho 2/10, abdomen 1/10, pierna 2/10 c/u del total. Ejemplo: brigandina mediana (22 CAR): casco 2,2, pecho 4,4, brazos 2,2, abdomen 2,2, piernas 4,4.
+
+### Particularidades
+
+- **Blanda bajo dura**: cuero blando/acolchado suma PA por su CAR. Dura sobre dura: PA sumados pero CAR triple. Solo blandas plegables debajo.
+- **Escudo colgado**: la zona cubierta (p. ej. pecho con escudo a la espalda) suma mitad de sus PA.
+- **Mazas contra blandas**: blanda sola vale la mitad (arriba); con dura encima, total normal.
+
+### Usos y abusos
+
+- **Ponerse**: 2 MR por CAR (mediana completa ≈ 50 MR / 5 asaltos / 1 min; más si dormido o en fiesta, a criterio).
+- **Quitarse**: 1 MR por CAR (sin encajar piezas).
+- **Nombres por zona** (lista parcial; mismos nombres valieron para piezas distintas): Grebas (piernas, rodilla-tobillo), Calzones (abdomen y piernas), Faldillas (abdomen), Peto (pecho y abdomen), Pectoral** (pecho), Pechera* (pecho), Mangas* (brazos), Abrazaderas** (brazos), Cofia/Capucha* (cabeza), Casco** (cabeza). \*Blandas (debajo sí): pecheras, mangas, cofias. \**Duras (debajo no): pectorales, abrazaderas, cascos.
+- **En ciudad extraña**: el acorazado total mosquea (rondas, potentados); malla bajo camisa o cuero decorado pasan mejor.
+- **Dormir vestido**: −1 PF por cada 5 CAR cada 4 h (salvo cuero blando/acolchado).
 
 #runequest/reglas
 
 *Fuente: RuneQuest Básico 2ª Edición, Libro de Reglas, cap. El Combate, Tabla de Armaduras.*
+*Fuente: RuneQuest Avanzado, pp. 34-36, 38.*

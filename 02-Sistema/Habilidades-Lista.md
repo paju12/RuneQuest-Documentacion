@@ -78,6 +78,11 @@ Ataques/paradas con armas también son Manipulación a efectos de modificador (a
 | Deslizarse en Silencio | 10 | 1 por asalto con posible oyente (una si nadie escucha). Escucha activa: Escuchar − Deslizarse. Metal: −1% por CAR de armadura/armas |
 | Esconderse | 10 | Sombras, niebla, terreno (Master ajusta). 1 intento por situación; cuesta MR-DES. Mover + esconder = mitad %. Busca activa: Buscar − Esconderse. Otear en movimiento: Otear − Esconderse/2. Con Deslizarse a la vez: una sola tirada vale para ambas |
 
+## Nuevas habilidades (Avanzado; con permiso de los diseñadores)
+
+Si Master y jugadores las necesitan, añadirlas manteniendo compatibilidad con las definidas. Guía por categoría: Agilidad — Bailar (varios tipos), Usar Veleros; Comunicación — Actuar, Debate (independizada de Habla Fluida); Manipulación — Conducir (carro de guerra, yunta de bueyes, carreta); Percepción — Sentir, Explorar (por terrenos), Oler, Gustar. Una campaña detallada puede necesitar varias.
+
 #runequest/reglas
 
 *Fuente: RuneQuest Básico 2ª Edición (Joc Internacional), Libro de Reglas, cap. Habilidades.*
+*Fuente: RuneQuest Avanzado, p. 43.*

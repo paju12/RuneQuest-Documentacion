@@ -43,6 +43,18 @@ Arcos solo usables por su dueño (se marchitan en otras manos). Sin armadura nat
 
 Pueblo esbelto de bosques, orejas puntiagudas, piel verdosa, ojos grandes sin blanco. Vegetarianos ligados al bosque; libres individualmente, migraciones solo en tragedias. Enemigos de orcos, trolls y enanos; patrullas subterráneas a veces. Llevan bien con humanos en poblados mixtos (ver [[Pato]]).
 
+## Como aventurero (Avanzado, 1D100)
+
+01 Artista, 02-06 Fabricante, 07-11 Guerrero, 12-95 Jardinero, 96 Noble, 97-00 Sacerdotisa. Equipo como el humano bárbaro (animal → vegetal; Jardinero = Granjero). Magia como el humano bárbaro; iniciados de su culto desde los 15.
+
+- **Artista**: como Artista Humano Civilizado sin Arrojar/Puño/Daga + Vegetal x2, ritual x1, Esconderse x2.
+- **Fabricante** (1D100: 01-10 Cocinero, 11-15 Curtidor, 16-35 Herbalista, 36-40 Herrero en bronce, 41-80 Maderero, 81-00 Tejedor): Otro idioma x2, Fabricación x5, Valoración x2, Primeros Auxilios x3, Elfo x3, Vegetal x3, Animal o Mundo x1, Ocultar x4, Inventar x2, ritual x1, Esconderse x2, Arma 1M x1, Esquivar x2.
+- **Guerrero**: Primeros Auxilios x1, Vegetal x3, ritual x1, Ocultar x3, Escuchar x2, Otear x2, Esconderse x5, Deslizarse x5, Arco x4, Arma 1M x2, Detención/Esquivar x3.
+- **Jardinero**: Primeros Auxilios x2, Animal x1, Vegetal x5, Mundo x3, ritual x1, Inventar x2, Escuchar x2, Otear x3, Buscar x3, Esconderse x2, Deslizarse x2, Arco x2, Arma 1M x2, Esquivar x1.
+- **Noble**: Fluida x1, Oratoria x2, Propio x1, Otro x1, Primeros Auxilios x1, Elfo x2, Vegetal x3, Mundo x2, ritual x1, Escuchar x1, Otear x2, Buscar x1, Esconderse x4, Arco x5, Arma 1M x2, Esquivar x2.
+- **Sacerdotisa**: como Sacerdote Humano Civilizado sin Montar/Arrojar/Puño/Daga + Mundo x2, Vegetal x3, Esconderse x2.
+
 #runequest/bestiario
 
 *Fuente: RuneQuest Básico 2ª Edición, Libro de Reglas, cap. Las Criaturas.*
+*Fuente: RuneQuest Avanzado, pp. 98-99.*

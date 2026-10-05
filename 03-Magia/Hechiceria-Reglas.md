@@ -23,6 +23,23 @@ Universo impersonal de leyes aprovechables. La más flexible y potencialmente m�
 
 Intensidad (x2 efecto por +1 PM, x3 con +2), Alcance (x2 por +1: 10/20/40/80/160…), Duración (tabla: 20 min +1, 40 +2, 80 +3, 160 +4… hasta años), Multiconjuro. Inicial tras 50 h: INTx3 → 1D6 + mod. mágico. Suben por estudio/entrenamiento (ver [[Experiencia-Entrenamiento-y-Caracteristicas]]).
 
+## El sendero: aprendices, adeptos y magos (Avanzado)
+
+Solo la civilización alfabetiza hechiceros (alguno emigra a otras culturas). Abandonar debiendo algo al maestro (injuria, robo) granjea enemigo: familiar vigilante inoportuno o gran maldición; sin deudas, salida limpia.
+
+### Aprendices
+
+Ayudante oficial a cambio de secretos básicos (ya maneja Intensidad; ahora Alcance, Duración y Multiconjuro). REQ: 1 año de estudiante, mod. magia +10, 25% en Leer propio, Mundo e Intensidad, PERx3, deshacerse de divinos y sacrificar 1 PER al hechicero/familiar (lazo localizador sin lectura ni control). 1 intento/año. Deberes: 90% del tiempo (47/52 semanas; incursiones de aprendizaje valen como aventuras); tope DESx3 en manipulación, sigilo, agilidad y armas (lo superado no sube). Beneficios: 1D3 conjuros del Master al entrar (los exóticos son tesoros) +1/año; +3 rituales, +2 Intensidad, +4 otra hechicería, +5 conjuros al año (repartibles); más lo mundano de su profesión.
+
+### Adeptos
+
+Hechicero competente libre del mentor (muchos se quedan décadas; para dominar hay que viajar). REQ: 7 años de aprendiz, 75% en un ritual o Conocimiento, dos hechicerías y dos conjuros + PERx2 (beneplácito), 1/año; luego semanas de instrucción en crear familiar (sin familiar no hay adepto: completar una incompleta, ver [[Crear-Familiar]]). Deberes: 75% del tiempo (39/52 semanas); tope DESx4; el lazo con el maestro persiste décadas. Beneficios: familiar (telepatía 10 km, su INT almacena conjuros, sus PM los lanzan, ritual de [[Vinculo-Aprendiz]]; la INT del familiar no manipula; su PER/PM no defienden al amo, pero se gastan antes); trueque de enseñanza (servicio por estudio); estudiantes y aprendices propios (aliados futuros).
+
+### Magos
+
+Autoproclamado al sentirse poderoso (~100% en hechicerías y conjuros favoritos); solo reconoce a magos mayores. Deberes: transmitir (mitad del tiempo manteniendo dominio); tope DESx5. Beneficios: ingresos de alumnos y acceso a cualquier conjuro hallado.
+
 #runequest/magia
 
 *Fuente: RuneQuest Básico 2ª Edición, Libro de Magia, cap. Hechicería.*
+*Fuente: RuneQuest Avanzado, pp. 72-74.*

@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "fafdb46a4590f054",
+        "id": "7a70150f460df309",
         "type": "tabs",
         "children": [
           {
-            "id": "3db60cad4e613c36",
+            "id": "4356ac89083d777a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
+              "type": "markdown",
+              "state": {
+                "file": "AGENTS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AGENTS"
             }
           }
         ]
@@ -167,34 +171,34 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "3db60cad4e613c36",
+  "active": "4356ac89083d777a",
   "lastOpenFiles": [
-    "Plantillas/Criatura.md",
     "QUESTIONS.md",
-    "03-Magia/Ensenar-Conjuros.md",
-    "03-Magia/Encantamiento-de-Matriz-de-Puntos-Magicos.md",
-    "03-Magia/Encantamiento-de-Matriz-de-Conjuros.md",
-    "03-Magia/Encantamiento-de-Ligadura.md",
-    "03-Magia/Encantamiento-de-Fortalecimiento.md",
-    "03-Magia/Encantamiento-de-Armadura.md",
     "TAREAS.md",
-    "06-Bestiario/Broo.md",
-    "06-Bestiario/Caballo.md",
-    "06-Bestiario/Wyrm.md",
-    "06-Bestiario/Wyverna.md",
-    "07-Equipo-y-Economia/Armas-Arrojadizas.md",
-    "07-Equipo-y-Economia/Armas-Cuerpo-a-Cuerpo.md",
-    "07-Equipo-y-Economia/Armaduras-y-Escudos.md",
-    "08-Escenarios/La-Hechicera-Negra.md",
-    "07-Equipo-y-Economia/Equipo-Moneda-y-Carga.md",
-    "06-Bestiario/Unicornio.md",
-    "06-Bestiario/Pulpandante.md",
-    "06-Bestiario/Jack-Oso.md",
-    "06-Bestiario/Gigante.md",
-    "06-Bestiario/Dragon.md",
-    "06-Bestiario/Alosaurio.md",
-    "06-Bestiario/Grifo.md",
-    "06-Bestiario/Lagarto-Rocas.md",
+    "Tablas-Referencia/PG-por-Localizacion.md",
+    "08-Escenarios/Los-Telmori.md",
+    "06-Bestiario/Zombie.md",
+    "06-Bestiario/Vampiro.md",
+    "06-Bestiario/Tigre.md",
+    "06-Bestiario/Tiburon.md",
+    "06-Bestiario/Serpiente-Marina.md",
+    "06-Bestiario/Satiro.md",
+    "06-Bestiario/Sapo-Gigante.md",
+    "06-Bestiario/Res.md",
+    "06-Bestiario/Pulpo.md",
+    "06-Bestiario/Plesiosaurio.md",
+    "06-Bestiario/Piton.md",
+    "06-Bestiario/Perro.md",
+    "06-Bestiario/Pantera.md",
+    "06-Bestiario/Oso-Polar.md",
+    "06-Bestiario/Ninfas.md",
+    "06-Bestiario/Necrofago.md",
+    "06-Bestiario/Momia.md",
+    "06-Bestiario/Minotauro.md",
+    "06-Bestiario/Medusa.md",
+    "06-Bestiario/Manticora.md",
+    "06-Bestiario/Lamia.md",
+    "06-Bestiario/Kon-Kon.md",
     "Tablas-Referencia",
     "Plantillas",
     "08-Escenarios",

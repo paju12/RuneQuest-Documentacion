@@ -44,6 +44,18 @@ Repetidora: 5 virotes sin recargar; recargar 3 asaltos. Cota de malla 5 + casco 
 
 Bajo tierra casi siempre; solo aventureros o expediciones de guerra salen, muy armados. Inventores famosos, celosos de ingenios y tesoros. Enemigos de orcos, trolls y elfos.
 
+## Como aventurero (Avanzado, 1D100)
+
+01-70 Fabricante, 71-74 Hechicero, 75-78 Ladrón, 79-80 Mercader, 81 Noble, 82-00 Soldado. Hechicería nativa (acceso como humano civilizado). Equipo como el humano civilizado (nunca animales vivos; doble dinero y bienes).
+
+- **Fabricante** (madera/cuero → albañil/armero): como el humano sin Arrojar/Puño/Daga/Lanza 2M + Mineral x5, Martillo ataque/detención x1.
+- **Hechicero**: como el humano sin Habla Fluida/Daga + x3 (en vez de x1) en Fabricación y Conocimiento.
+- **Ladrón**: Trepar x2, Saltar x1, Fluida x2, Valoración x4, Enano x2, Mineral x3, Ocultar x3, Trucos x3, Inventar x3, Esconderse x2, Deslizarse x2, Espada Corta o Martillo x2 + Detención/Esquivar x2.
+- **Mercader**: como el humano sin Arrojar/Puño/Daga + Herrería x2, Mineral x3.
+- **Noble**: Herrería x2, Armero x3, Oratoria x3, Propio x1, Valoración x5, Enano x2, Mineral x4, Otear x2, Buscar x1, Arma 1M x4 + Detención Escudo x4 o Arma 2M x4 + Detención x4.
+- **Soldado**: Armero x3, Primeros Auxilios x1, Mineral x3, Ocultar x2, Inventar x3, Escuchar x2, Otear x2, Ballesta x5, Arma 2M x5 + Detención x5 o Arma 1M x5 + Detención Escudo x5.
+
 #runequest/bestiario
 
 *Fuente: RuneQuest Básico 2ª Edición, Libro de Reglas, cap. Las Criaturas.*
+*Fuente: RuneQuest Avanzado, p. 99.*

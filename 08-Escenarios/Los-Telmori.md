@@ -1,0 +1,30 @@
+# Los-Telmori
+
+> Escenario de Sandy Petersen para RuneQuest (Genertela al oeste de la Desolación; adaptable cambiando nombres). Requiere sociedad con rebaños y un cazador en el grupo. Moneda: lunar de plata = 1 penique. Mapa de la cueva en la fuente, p. 122 (guardianes, habitaciones Elevada/Caída, hoguera, Nicho, Elevación, ramales, X de la bifurcación; escala 1 m).
+
+## Sinopsis
+
+Los Telmori ("Los Que Corren Junto A Los Lobos") roban 2+ ovejas por noche (más caballos y vacas): huellas de lobo, pastor que vio 2 lobos enormes con 4 hombres y una mula, una familia arruinada y el invierno en juego. Primitivos lobunos de las Guerras de Gbaji (con el Caos; expulsados de Fronela; tragedia de miles de millas): hoy en Brolia, Puerto del Dragón, Tobros/Dorastor, Billiz/Aggar y la nación Telmoria (Ralios norte), más proscritos al oeste de la Desolación/Penth. El sheriff ofrece 100 lunares por Telmori vivo, 50 por muerto y 30 por lobo (tesoro suyo salvo lo robado): los confunde con hombres-lobo (invulnerables a lo normal; mejor Cuchilla Ígnea y Arma Auténtica que Afilada). Apoyo: flechas de plata (2 p: corta 1D6, larga/compuesta 1D8; saetas 4 p: ligera 1D6, media 2D4, pesada 2D6; arbalesto 8 p 2D6+2) y lanza con matriz de Cuchilla Ígnea (radio 60 km; solo adultos autorizados de religión de confianza —ni ladrones ni luna/embaucador/infiernos— con juramento y devolución).
+
+## Actos / Escenas
+
+1. **Rastreo y emboscada.** Día 1: Rastrear (éxito = huellas; especial/crítico = oveja con dientes humanos y de lobo); noche de aullidos; día 2 con orden de marcha: Buscar −85% en cadena (éxito = pelaje gris con ojo amarillo a 5 m; si actúa, ataque ya; si no, claro con matorrales —mov 1 sin correr— donde lobos saltan y jabalinas van al peor blindado 2 asaltos, luego lanzas/escudos saltando: fallo = indefenso 1 asalto; conjuros previos incluidos). Huyen con 3 bajas más que los PJ o media fuerza caída (cada uno por su lado). Vencedores: despojo total, ejecutan a matadores de suyos (lobos incluidos), resto desnudos libres. Escala: 1 lobo por Telmori, mínimo 8 criaturas.
+2. **Persecución.** 3 Rastrear encadenados desde la emboscada (crítico = número; fallo = al día siguiente con guarida reforzada: guerreros, trampas, pozos con estacas).
+3. **Guarida: aproximación.** Valle con cueva y 2 lobos: Deslizarse −20% por 100 m de matorral; Escuchar lobino menos el peor % (fallo = sin reducción); a <10 m olfateo automático; al llegar, un proyectil/conjuro por PJ (sorprendidos, MR-DES 2, alarma en MR-5) o entrada libre.
+4. **Guarida alertada.** Línea en la X (3-4 arrodillados afianzados —desplazables si superan FUE+TAM, sin detener/esquivar, escudos a piernas, brazo izq., abdomen y pecho— con jabalinas; resto 1 m detrás con 10 jabalinas: arrojadizas enemigas a mitad a contraluz, melé normal; curas y reemplazos) y lobos a la derecha (si la línea cede: orden al suelo + empujón a la carrera MR-5 sin esquiva). Rinden vencidos; divinos si deciden. Sitio: 3 días y carga hambrienta (mitad PF, dispersión tras romper, jabalinas a mitad, solo defensas huyendo, heridos abandonados).
+5. **Guarida por sorpresa.** Deslizarse todos; guardia amodorrado en el nicho (grita si sobrevive al asalto del fallo; inmune a amenazas). Con alarma: Caída + Elevada a la bifurcación (melé confuso o línea con tiempo). Sin alarma: bifurcación a elegir. **Izquierdo**: ruidos y luz a la derecha, humo y agua; supervivientes de la emboscada (sorprendidos el 1.º —solo agarrar armas—, normales el 2.º; Elevada por retaguardia al 4.º con 1+ jabalina, pre Protección-3 a todos por −6 PM y 4 jabalinas). **Derecho**: subida escarpada de 4 m (Trepar; fallo = resbala sin daño + alerta); alertados tiran 8 rocas (2D6 salvo Esquivar o DESx5, solo a escaladores o al pie; techo bajo anula arrojadizas); Caída en 3 asaltos (pre Hierro-2 + Protección-3, 4 jabalinas; los de arriba bajan). Mínimo 4 peores Telmori + 1 lobo por cabeza (armas −10%, jab. arr. −20%, DES 12, PM 12, Esquivar 40%, sin divina, Curación-1/Dardo Veloz/Protección-3; PF 8 PG 13; lobos PG 14, Esquivar 50%, FUE 17, TAM 14, +1D4, mordisco 65%).
+
+## PNJ y criaturas
+
+- **Telmori emboscados** (FUE 12 CON 13 TAM 13 INT 13 PER 14 DES 16 ASP 10; Mov 3 PG 13 PF 15 PM 14/6 MR-DES 2; zonas 0/5-0/6; Jab. arr. 8, 80%/95% Dardo Veloz, 1D8+1D2/+3; Jabalina 6, 60%, 1D6+1+1D4, det. 35% PA 8; Escudo Grande 7, 15%, 1D6+1D4, det. 55% PA 16 oval multicapa; Daga 7, 50%, 1D4+2+1D4, det. 30% PA 6; Esquivar 50%; espiritual 60%: Afilada-2, Curación-1, Dardo Veloz 1, Desmoralización 2, Mano Hierro-2, Protección-3; divina 90%: Disolver ×2; Esconderse 85, Saltar 90, Escuchar 60, Deslizarse 85, Rastrear 70; 4 jabalinas sin armadura; pre Hierro-2 + Protección-3 al lobo y propia; Dardo Veloz antes de arrojar en MR-8; Disolver solo ante magia decisiva).
+- **Lobos** (FUE 18 CON 15 TAM 16 INT 5 PER 10 DES 17; Mov 6 PG 16 PF 33 PM 10 MR-DES 2; patas 2/5, cuartos 2/8, cabeza 2/6; Mordisco 6, 85%/95%, 1D8+1D6/+3; Esquivar 60%; Esconderse 85, Saltar 100, Escuchar 70; pre Hierro-2 + Protección-3 = PA 5; si fallan, empujón intencionado).
+- **Guardia del nicho** (FUE 9 CON 10 TAM 14 INT 12 PER 11 DES 13 ASP 9; Mov 3 PG 12 PF 6 PM 11 MR-DES 3; zonas 2/4-2/5; Jab. arr. 3, 60%, 1D8; Jabalina 7, 50%, 1D6+1, det. 35% PA 8; Esc. Grande 8, 6, 60%, 1D6, det. 45% PA 16; Esquivar 40%; espiritual 42%: Confusión 2, Curación-2, Protección-4; Escuchar 40%; flojo pero suicida: grita, se protege y huye tirando Confusión).
+
+## Recompensas
+
+- Sheriff: 100 por vivo y 50 por muerto (cuerpo entero), 30 por lobo (rabo). Pieles a 56 al curtidor (doble curtidas) sin Curtidor propio. Amenaza borrada: 8 pts de espiritual a elegir (Curación, Fuerza, Rielar, Vigor, Vista Mágica). Bolsa de piel de lobo con 3 plumas (3D6 a PG al abrir sin armadura; hueso de lobo la reactiva, humano la cancela; dentro 17 lunares, gargantilla de jabalí, pintura ritual y punta de obsidiana: empala al 40% del % en lanza/jabalina) + tesoro suyo; pieles y carne a sus dueños.
+- Giro: ¿y si había un hombre-lobo ausente que jura venganza?
+
+#runequest/escenarios
+
+*Fuente: RuneQuest Avanzado, pp. 122-127.*
