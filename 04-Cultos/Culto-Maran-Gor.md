@@ -24,7 +24,7 @@ Que hace temblar tierra, terremotos; lado oscuro Madre como Ernalda benévolo; s
 - [[Disrupcion]] — daño.
 - [[Fuerza-Espiritual]] — fuerza.
 - [[Garrotazo]] — garrote.
-- [[Mano-Hierro]] — mano.
+- [[Mano-de-Hierro]] — mano.
 - [[Mellar-Armas]] — mella.
 - [[Vigor]] — vigor.
 

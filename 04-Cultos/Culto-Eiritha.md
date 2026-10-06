@@ -26,7 +26,7 @@ Madre rebaños origen ganado; nómadas Yermos Pent dependen diario; todas mujere
 
 - Toda común.
 - [[Bendecir-Animales]] — toque instantáneo 1 año fertilidad cría sana a veces dos 90% hembras, 1 vez Gran Fiesta afecta nacimientos siguiente.
-- [[Comunicacion-Animales-Rebano]] — 2 pts toque temporal habla res concreta con Habla Oratoria, instintiva no inteligente.
+- [[Comunicacion-Rebano]] — 2 pts toque temporal habla res concreta con Habla Oratoria, instintiva no inteligente.
 
 ### Hechicería
 

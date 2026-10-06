@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TAREAS.md",
+                "file": "03-Magia/Vista-Lejana.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TAREAS"
+              "title": "Vista-Lejana"
             }
           }
         ]
@@ -171,8 +171,19 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "466cd4f8420f00f8",
+  "active": "c79db7add7ce3f08",
   "lastOpenFiles": [
+    "03-Magia/Poder-Tierra.md",
+    "03-Magia/Detectar-Espiritu.md",
+    "03-Magia/Arma-Viviente.md",
+    "03-Magia/Curacion-Espiritual.md",
+    "03-Magia/Curacion-del-Cuerpo.md",
+    "03-Magia/Curacion-de-Heridas.md",
+    "03-Magia/Brillo.md",
+    "03-Magia/Berserk.md",
+    "03-Magia/Asfixia.md",
+    "03-Magia/Anular-Luz.md",
+    "TAREAS.md",
     "03-Magia/Estabilizar-Vidrio.md",
     "03-Magia/Estabilizar-Vida.md",
     "03-Magia/Estabilizar-Temperatura.md",
@@ -188,17 +199,6 @@
     "03-Magia/Reproduccion.md",
     "03-Magia/Lucidez-Erotocomatosa.md",
     "03-Magia/Comunidad.md",
-    "03-Magia/Deteccion-Mentiras.md",
-    "03-Magia/Regalo-Caos.md",
-    "03-Magia/Intercambio-Conjuros-Etyries.md",
-    "03-Magia/Nieve.md",
-    "03-Magia/Proteccion-Caos.md",
-    "03-Magia/Afrontar-Caos.md",
-    "03-Magia/Linterna.md",
-    "03-Magia/Ojos-Gato.md",
-    "03-Magia/Luz-Solar.md",
-    "03-Magia/Maduracion-Solar.md",
-    "03-Magia/Luchar-Enfermedad.md",
     "Tablas-Referencia",
     "Plantillas",
     "08-Escenarios",

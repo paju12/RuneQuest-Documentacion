@@ -47,6 +47,7 @@ Una nota por conjuro (ver `[[Plantillas/Conjuro]]`). Este índice agrupa por tip
 - [[Colmillos-Wachaza]] — [[Culto-Wachaza]]
 - [[Detectar-Enemigos]]
 - [[Detectar-Magia]]
+- [[Detectar-Espiritu]] — [[Culto-Waha]]
 - [[Detener-Embarcacion]] — [[Culto-Tsankth]]
 - [[Enlentecer]]
 - [[Estornudos]] — [[Culto-Malia]]
@@ -78,6 +79,7 @@ Una nota por conjuro (ver `[[Plantillas/Conjuro]]`). Este índice agrupa por tip
 
 - [[Absorcion]] — [[Culto-Padre-de-la-Oscuridad]]
 - [[Arma-Autentica]] — [[Culto-Señor-de-la-Guerra]]
+- [[Arma-Viviente]] — [[Culto-Tsankth]]
 - [[Berserk]] — [[Culto-Señor-de-la-Guerra]]
 - [[Curacion-del-Cuerpo]] — [[Culto-Madre-de-la-Luz]]
 - [[Curacion-de-Heridas]] — [[Culto-Madre-de-la-Luz]] + [[Culto-Padre-de-la-Oscuridad]] + [[Culto-Señor-de-la-Guerra]]
@@ -156,6 +158,7 @@ Una nota por conjuro (ver `[[Plantillas/Conjuro]]`). Este índice agrupa por tip
 - [[Planta-Espia]] — [[Culto-Aldrya]]
 - [[Portar-Enfermedad]] — [[Culto-Malia]]
 - [[Potenciar-Veneno]] — [[Culto-Bagog]]
+- [[Poder-Tierra]] — [[Culto-Ernalda]]
 - [[Progenie-Caotica]] — [[Culto-Thed]]
 - [[Punta-Afilada]] — [[Culto-Bagog]]
 - [[Rasgo-Caotico]] — Caos Primordial + asociados

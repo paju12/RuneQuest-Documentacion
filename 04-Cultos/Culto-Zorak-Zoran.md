@@ -38,7 +38,7 @@ Dios Odio Venganza terror afecta Caos y Ley; satisfacción violencia sin límite
 - [[Herida-Rebelde]] — 2 pts arma no regenera ni cura mágica solo natural, Cura cauteriza no cierra, reponer no funcional, Primeros solo hemorragia.
 - [[Miedo]] — miedo.
 - [[Ordenar-Especies]] a Fantasma Sombra.
-- [[Separacion-Alma]] Zorak — 3 pts 1-uso vence PM muere o 1D6 PG generales, golpe aplasta alma.
+- [[Separacion-Alma-Zorak]] Zorak — 3 pts 1-uso vence PM muere o 1D6 PG generales, golpe aplasta alma.
 
 ### Hechicería
 

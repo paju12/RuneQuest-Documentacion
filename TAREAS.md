@@ -17,7 +17,7 @@
 - [x] Pregunta 21 — Hombre lobo: valores de forma animal
 - [x] Pregunta 22 — Ogro: tabla de ataques, equipo y localizaciones
 - [x] Pregunta 23 — Rituales: notas individuales creadas
-- [ ] Pregunta 24 — Glorantha vacía: ¿qué fuente ingerir? (decisión)
+- [x] Pregunta 24 — Glorantha: fuente ingerida (Dioses de Glorantha, bloques DG-0–DG-11)
 - [x] Pregunta 25 — Alosaurio: tabla de localizaciones
 - [x] Pregunta 26 — Caballo: tabla de localizaciones
 - [x] Pregunta 27 — Elementales: tabla / localización única
@@ -109,7 +109,7 @@
   - [x] `Unicornio`: tabla; Mov 11, PF 44; cornada det 60-2 PT 14
   - [x] `Wyrm`: tabla 6 zonas; Otear 40+12
   - [x] `Wyverna`: verificado (Q8 POT sigue abierta, sin datos en fuente)
-- [x] QUESTIONS.md: eliminadas 9, 11-15, 17-22 y 25-44; anotada Q8; creada Q45. Quedan abiertas Q8, Q23, Q24 y Q45.
+- [x] QUESTIONS.md: eliminadas 9, 11-15, 17-22 y 25-44; anotada Q8; creada Q45. Quedan abiertas Q8 y Q45 (cotejo manual).
 
 # Q23 resuelta: desglosar rituales en notas individuales
 - [x] Crear 5 notas de encantamiento ritual (Armadura, Fortalecimiento, Ligadura, Matriz-Conjuros, Matriz-PM) con variantes por tradición
@@ -150,11 +150,11 @@
 - [x] Bloque DG-10 — Conjuros: una nota por conjuro (plantilla Conjuro) con Tipo/Culto origen/Otros cultos/Restricciones/Requisitos/Estadísticas/Efecto/Fuente; lista guía Apéndice pp. 118-120 (227 creados Caos Tierra Orlanth Agua Sur Sendero Ciudades Islas Ladrones Caza Hykim Daka Astado Oscuridad Invisible Solar Lunar Uleria Voria Estabilizar, superando ~200 por variantes y espirituales); reutilizar notas existentes (Bendecir-Cosechas, Escudo, etc.) ampliando sin duplicar (Teletransporte ampliado con variante divina, Reflexión existente cubre cíclica, Ordenar genérico cubre especies)
 - [x] Bloque DG-11 — Cierre: índices locales (Indice-Glorantha, Indice-Cultos, Indice-Magia) + 00-Indice.md (sin secciones nuevas); Panteones.md como agrupadora (13 panteones tabla completa manual p. 31, sin duplicar contenido); Tablas-Referencia solo resúmenes con sección Glorantha; vínculo bidireccional culto-conjuro verificado (Caos inicial wikilinkado 2026-10-06, resto ya traía links); tags; pies y warnings; Q24 cerrada con esta fuente; Q57 cerrada con omisión de mapas; pp. 175-184 omitidas por ser imágenes (decisión 2026-10-06)
 
-# Ingesta RuneQuest Avanzado (OCR `C:\Users\Paju\Downloads\rq\ocr\RuneQuest - Avanzado.md`, pp. 1-128) — pendiente
+# Ingesta RuneQuest Avanzado (OCR RuneQuest - Avanzado.md, pp. 1-128) — completada
 - Fuente: *RuneQuest Avanzado* (JOC Internacional, 1ª ed. 1989), pp. 7-127. Pie de nota obligatorio en cada nota nueva/ampliada.
 - Regla: localizar por TEMA en índices + búsqueda antes de crear; ampliar sin duplicar; repartir secciones multitema; wikilinks `[[Nombre-de-Nota]]`; tags jerárquicos; sin frontmatter.
 
-- [ ] Bloque 0 — Base y dudas OCR: Q8, Q24, Q45 abiertas en QUESTIONS.md; Q46 resuelta (normalizar RQ4→RQA, RQ3/RQ6/RQB→RQB en las notas); Q47 resuelta (PELEIDAD→PER, Detección combate→Detención, Rastrrear→Rastrear, Ocular/Oculatar→Ocultar, Arrojara→Arrojar, Primevos→Primeros, Invocación duplicada→Encantamiento); Q48 resuelta (Fabricantes Bárbaros: Tejedor 79-97→79-00; Bote/Canoa se transcriben literales con warning, valores confirmados en manual); Q49 resuelta (Locura: Fallo largo/Pifia corta; Vampiro: 2ª fila Brazo I; tabla Lengua/Engullimiento/Patada reasignada al Sapo, Res con Carga+pisotear); Q50 resuelta (Cazador 02-11; Soldado literal con warning); Q51 resuelta (contradicción en el propio manual: se mantiene 2 pts con warning); Q52 resuelta (tabla 7/x = Sapo Gigante)
+- [ ] Bloque 0 — Base y dudas OCR: Q8, Q45 abiertas en QUESTIONS.md (Q24 cerrada por DG); Q46 resuelta (normalizar RQ4→RQA, RQ3/RQ6/RQB→RQB en las notas); Q47 resuelta (PELEIDAD→PER, Detección combate→Detención, Rastrrear→Rastrear, Ocular/Oculatar→Ocultar, Arrojara→Arrojar, Primevos→Primeros, Invocación duplicada→Encantamiento); Q48 resuelta (Fabricantes Bárbaros: Tejedor 79-97→79-00; Bote/Canoa se transcriben literales con warning, valores confirmados en manual); Q49 resuelta (Locura: Fallo largo/Pifia corta; Vampiro: 2ª fila Brazo I; tabla Lengua/Engullimiento/Patada reasignada al Sapo, Res con Carga+pisotear); Q50 resuelta (Cazador 02-11; Soldado literal con warning); Q51 resuelta (contradicción en el propio manual: se mantiene 2 pts con warning); Q52 resuelta (tabla 7/x = Sapo Gigante)
 - [x] Bloque 1 — 01-Creación: ampliar `Experiencia-Previa` y `Caracteristicas` con métodos, culturas, profesiones por cultura
   - [x] Primitiva (conjuros aconsejados, tabla D100, Ayudante/Cazador/Pescador/Shamán)
   - [x] Nómada (tabla + 7 profesiones, nota montura→Esconderse si tribu sin monturas)
@@ -167,7 +167,7 @@
 - [x] Bloque 5 — 03-Magia espiritual (reglas): ampliar `Magia-Espiritual-Reglas` (estudiante tribu/extranjero, ayudante, shamán fetch/sacrificio/lucha, desventajas/beneficios, incorpóreo, exorcismos, capturas, focos)
 - [x] Bloque 6 — 03-Magia espiritual (23 conjuros, una nota por conjuro plantilla Conjuro): Cola, Comunicacion-Mental, Coordinacion, Detectar-Enemigos, Detectar-Magia, Enlentecer, Extinguir, Flecha-Ignea, Glamour, Inflamar, Mellar-Armas, Movilidad, Pantalla-Espiritual, Pared-de-Luz, Pared-Oscura, Proyectil-Multiple, Resistencia-Espiritual, Rielar, Silencio, Vigor, Visibilidad, Vista-Lejana, Vista-Magica
 - [x] Bloque 7 — 04-Cultos (panteón genérico 12 notas + templos en reglas divinas; Básico conservado con afinidades cruzadas)
-  - [ ] Diosa-Agricultura, Dios-Cazador, Dios-Embaucador, Dios-Guerra (cotejar Señor-de-la-Guerra), Dios-Infiernos, Diosa-Luna, Dios-Mar, Diosa-Noche (cotejar Padre-Oscuridad), Deidad-Principal, Dios-Sol, Diosa-Tierra (cotejar Madre-Luz), Dios-Tormentas
+  - [x] Diosa-Agricultura, Dios-Cazador, Dios-Embaucador, Dios-Guerra (cotejar Señor-de-la-Guerra), Dios-Infiernos, Diosa-Luna, Dios-Mar, Diosa-Noche (cotejar Padre-Oscuridad), Deidad-Principal, Dios-Sol, Diosa-Tierra (cotejar Madre-Luz), Dios-Tormentas
 - [x] Bloque 8 — 03-Magia divina: 30 notas (9 comunes + 21 especiales). Pendiente: Ilusión Solar (solo citada en sumario p. 5, sin descripción) + Q51 (coste Locura 1/2)
 - [x] Bloque 9 — 03-Hechicería: reglas (aprendiz/adepto/mago, familiar, Vínculo) + Dominar ampliada (tabla) + 24 notas (Agotar…Volar)
 - [x] Bloque 10 — 03-Plano espiritual: nota Plano-Espiritual (3 regiones + pifias, 4 tablas)
@@ -175,3 +175,9 @@
 - [x] Bloque 12 — 07-Equipo: Cc (22 filas + descripciones), arrojadizas (15 filas + ingenios + metralla), armaduras (4 tipos + CAR/zona + usos)
 - [x] Bloque 13 — 08-Escenario Los-Telmori (mapa p.122, recompensas, emboscada, guarida, botín)
 - [x] Bloque 14 — Cierre: índices locales + 00-Indice.md (sin secciones nuevas), wikilinks y bidireccional culto-conjuro verificados, tags, pies y warnings; PG-por-Localizacion en Tablas
+
+# Revisión integral post-DG (2026-10-06)
+
+- [x] Verificar 557 notas: 0 enlaces rotos reales (6 renombres DG corregidos: Mano-Hierro→Mano-de-Hierro en Gorgorma/Maran-Gor, Comunicacion-Animales-Rebano→Comunicacion-Rebano, Intercambio-Conjuros→Intercambio-Conjuros-Etyries, Separacion-Alma→variantes Humakt/Zorak)
+- [x] Crear 3 notas de conjuro faltantes con warning (Arma-Viviente Tsankth, Detectar-Espiritu Waha, Poder-Tierra Ernalda) + índice
+- [x] Sincronizar TAREAS (Q24 cerrada, Bloque 0/7 y cabecera Avanzado) — solo quedan Q8 y Q45, ambas de cotejo manual

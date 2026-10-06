@@ -22,7 +22,7 @@ Guardiana Secreto Dos Bocas maligna monstruosa oscura y Defensora; oprimidos aba
 - [[Disrupcion]] — daño.
 - [[Enlentecer]] — enlentece.
 - [[Garrotazo]] — garrote.
-- [[Mano-Hierro]] — mano.
+- [[Mano-de-Hierro]] — mano.
 
 ### Magia divina
 

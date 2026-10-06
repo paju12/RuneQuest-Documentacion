@@ -27,7 +27,7 @@ Diosa lunar comercio, mensajeros heraldos; mortal hija mercader que oyó Diosa R
 ### Magia divina
 
 - [[Adorar]] a Etyries, [[Ensenar-Conjuros]], [[Guardia]], [[Ordenar-Especies]] espíritu culto, [[Revelacion]], [[Santificar]], [[Vinculo-Mental]].
-- [[Intercambio-Conjuros]] — ritual 1 punto un solo uso cambia un espiritual con Vínculo y acuerdo previo, todo o nada, si INT-libre insuficiente falla, 96-00 ambos pierden.
+- [[Intercambio-Conjuros-Etyries]] — ritual 1 punto un solo uso cambia un espiritual con Vínculo y acuerdo previo, todo o nada, si INT-libre insuficiente falla, 96-00 ambos pierden.
 - [[Reflexion]] — cíclica: Menguante Nueva sin efecto, Creciente 1 espiritual o hechicería por punto o 1 divina por 2, Media normal, Llena refleja todos más débiles sin afectar blanco.
 - [[Vigilar-Sendero]] — 2 pts sobre camino visible alerta dirección y número no clase enemigos trampas 100 m mientras dure camino y despierto.
 - Cíclica general lunar salvo espiritual y hechicería.

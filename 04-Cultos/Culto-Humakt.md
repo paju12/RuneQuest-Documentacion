@@ -37,7 +37,7 @@ Dios guerra y muerte; templos como contratación mercenarios; fieles profesional
 - [[Juramento]] — 2 pts ritual hace pacto que si rompe ataca con Separación impulsada por PM sacrificados.
 - [[Moral]] — ritual 1 hora 1-uso campo 100 hombres +5% ataque hasta alba o anochecer +5% por punto solo humaktis.
 - [[Neutralizar-Muerto-Viviente]] — por punto afecta uno con resistencia y tabla Crítica destruye Especial paraliza 20-INT 1 mínimo esqueletos 20 Simple huye o como especial Fallo confunde esqueletos 10 resto 10 o INTx5 Pifia nada.
-- [[Separacion-Alma]] — 3 pts vence PM muere o 1D6 PG generales como veneno, espada mística.
+- [[Separacion-Alma-Humakt]] — 3 pts vence PM muere o 1D6 PG generales como veneno, espada mística.
 
 ### Hechicería
 
