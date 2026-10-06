@@ -78,3 +78,8 @@ TAREAS.md                         ← lista de tareas del trabajo en curso (ver 
 
 - Markdown estándar compatible con Obsidian (tablas GitHub OK para tablas de referencia).
 - UTF-8, saltos de línea LF. Encabezados `##` por sección; reglas en tablas, no en prosa.
+
+## Comunicación (respuestas sobre la documentación)
+
+- Al responder preguntas sobre el contenido de la bóveda, mostrar los nombres de notas y enlaces como texto plano, sin los caracteres especiales de Obsidian (`[[ ]]`, `> [!warning]`, `#tags`).
+- Los ficheros de la bóveda no cambian: esta regla afecta solo al texto del chat.

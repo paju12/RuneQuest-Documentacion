@@ -1,12 +1,10 @@
 # Índice — Glorantha
 
-*Notas pendientes de ingesta. Crear cada una al llegar su documento fuente.*
-
-## Previsto
-
-- El mundo y sus edades
-- Historia y mitos principales
-- Calendario y tiempo
-- Geografía y pueblos
+- [[Mundo-y-Tiempo]] — estructura, planos, Tiempo Solar y calendarios.
+- [[Geografia-y-Regiones]] — Genertela, Pamaltela, mares y regiones (mapas omitidos).
+- [[Historia-y-Mitologia]] — creación, monomito, edades y actualidad.
+- [[Runas-Magicas]] — 24 grandes runas.
 
 #runequest/glorantha
+
+*Fuente: Dioses de Glorantha, p. 5-24.*

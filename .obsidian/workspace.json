@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "7a70150f460df309",
+        "id": "1c96bb296d6c20ac",
         "type": "tabs",
         "children": [
           {
-            "id": "4356ac89083d777a",
+            "id": "466cd4f8420f00f8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AGENTS.md",
+                "file": "TAREAS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AGENTS"
+              "title": "TAREAS"
             }
           }
         ]
@@ -171,34 +171,34 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "4356ac89083d777a",
+  "active": "466cd4f8420f00f8",
   "lastOpenFiles": [
-    "QUESTIONS.md",
-    "TAREAS.md",
-    "Tablas-Referencia/PG-por-Localizacion.md",
-    "08-Escenarios/Los-Telmori.md",
-    "06-Bestiario/Zombie.md",
-    "06-Bestiario/Vampiro.md",
-    "06-Bestiario/Tigre.md",
-    "06-Bestiario/Tiburon.md",
-    "06-Bestiario/Serpiente-Marina.md",
-    "06-Bestiario/Satiro.md",
-    "06-Bestiario/Sapo-Gigante.md",
-    "06-Bestiario/Res.md",
-    "06-Bestiario/Pulpo.md",
-    "06-Bestiario/Plesiosaurio.md",
-    "06-Bestiario/Piton.md",
-    "06-Bestiario/Perro.md",
-    "06-Bestiario/Pantera.md",
-    "06-Bestiario/Oso-Polar.md",
-    "06-Bestiario/Ninfas.md",
-    "06-Bestiario/Necrofago.md",
-    "06-Bestiario/Momia.md",
-    "06-Bestiario/Minotauro.md",
-    "06-Bestiario/Medusa.md",
-    "06-Bestiario/Manticora.md",
-    "06-Bestiario/Lamia.md",
-    "06-Bestiario/Kon-Kon.md",
+    "03-Magia/Estabilizar-Vidrio.md",
+    "03-Magia/Estabilizar-Vida.md",
+    "03-Magia/Estabilizar-Temperatura.md",
+    "03-Magia/Estabilizar-Pocion.md",
+    "03-Magia/Estabilizar-Mente.md",
+    "03-Magia/Estabilizar-Matriz-PM.md",
+    "03-Magia/Estabilizar-Magia.md",
+    "03-Magia/Estabilizar-Construccion.md",
+    "03-Magia/Estabilizar-Arma.md",
+    "03-Magia/Restablecer-Fatiga.md",
+    "03-Magia/Hablar-Pequenos-Animales.md",
+    "03-Magia/Flores.md",
+    "03-Magia/Reproduccion.md",
+    "03-Magia/Lucidez-Erotocomatosa.md",
+    "03-Magia/Comunidad.md",
+    "03-Magia/Deteccion-Mentiras.md",
+    "03-Magia/Regalo-Caos.md",
+    "03-Magia/Intercambio-Conjuros-Etyries.md",
+    "03-Magia/Nieve.md",
+    "03-Magia/Proteccion-Caos.md",
+    "03-Magia/Afrontar-Caos.md",
+    "03-Magia/Linterna.md",
+    "03-Magia/Ojos-Gato.md",
+    "03-Magia/Luz-Solar.md",
+    "03-Magia/Maduracion-Solar.md",
+    "03-Magia/Luchar-Enfermedad.md",
     "Tablas-Referencia",
     "Plantillas",
     "08-Escenarios",
