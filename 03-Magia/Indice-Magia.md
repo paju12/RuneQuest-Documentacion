@@ -357,6 +357,7 @@ Una nota por conjuro (ver `[[Plantillas/Conjuro]]`). Este índice agrupa por tip
 - [[Circulo-Base]]
 - [[Circulo-Proteccion]]
 - [[Crear-Basilisco]]
+- [[Crear-Cocatriz]]
 - [[Crear-Familiar]]
 - [[Crear-Vampiro]]
 - [[Devolver-Conjuros]]

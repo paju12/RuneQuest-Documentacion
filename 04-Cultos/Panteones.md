@@ -39,4 +39,23 @@ Praxiano: Caos 0, Elfo 2, Enano 0, Hsunchen 3, Lunar 2, Malkionita 2, Marino 3, 
 Troll: Caos 0, Elfo 0, Enano 0, Hsunchen 2, Lunar 2, Malkionita 2, Marino 3, Oriental 1, Orlanth 1, Pamaltelano 2, Praxiano 1, Yelm 0.
 Yelm: Caos 0, Elfo 3, Enano 2, Hsunchen 2, Lunar 3, Malkionita 2, Marino 1, Oriental 3, Orlanth 1, Pamaltelano 2, Praxiano 2, Troll 0.
 
+## Dioses menores (Glorantha Mundos, sin nota propia; decisión Q58)
+
+Sin culto desarrollado en la fuente (1-3 líneas, sin habilidades ni magia propias salvo indicación). No se crean notas individuales; el detalle vive aquí hasta tener Libro de Cultos.
+
+- Daliath — Guardián del Pozo, sabiduría secreta junto al fondo del reino de Magasta.
+- Drospoli — muerte fría abisal donde no llega la luz.
+- Framanthe — alma de los océanos primordiales.
+- Ikadz — dios de la tortura que purifica malhechores; culto solo tolerado en regiones burocratizadas.
+- Iphara — neblina con monstruos e ilusiones; odiada por marineros.
+- Molucca — diosa de los moluscos; culto de dwerulanes.
+- Slor — antepasado de helechos y de elfos rojos.
+- Sokazue — dios de los animales oscuros; culto de dwerulanes.
+- Swems — diosa de los gusanos.
+- Varchulanga — madre de monstruos abisales comunes y extraños.
+- Vivamort — dios de los muertos vivientes.
+- Vronkal — Señor del bosque.
+
+*Fuente: Glorantha: El Mundo y sus Habitantes, p. 11-12.*
+
 #runequest/cultos

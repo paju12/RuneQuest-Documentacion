@@ -181,3 +181,48 @@
 - [x] Verificar 557 notas: 0 enlaces rotos reales (6 renombres DG corregidos: Mano-Hierro→Mano-de-Hierro en Gorgorma/Maran-Gor, Comunicacion-Animales-Rebano→Comunicacion-Rebano, Intercambio-Conjuros→Intercambio-Conjuros-Etyries, Separacion-Alma→variantes Humakt/Zorak)
 - [x] Crear 3 notas de conjuro faltantes con warning (Arma-Viviente Tsankth, Detectar-Espiritu Waha, Poder-Tierra Ernalda) + índice
 - [x] Sincronizar TAREAS (Q24 cerrada, Bloque 0/7 y cabecera Avanzado) — solo quedan Q8 y Q45, ambas de cotejo manual
+
+# Ingesta Glorantha - El Mundo y sus Habitantes (OCR `C:\Users\Paju\Downloads\rq\ocr\RuneQuest - Glorantha - El Mundo y sus Habitantes.md`, pp. 1-102) — en curso
+- Fuente: *Glorantha: El Mundo y sus Habitantes* (JOC Internacional 1990, Chaosium 1988; recopila Gloranthan Bestiary + parte de Genertela), pp. 5-100. Pie obligatorio `*Fuente: Glorantha: El Mundo y sus Habitantes, p. <páginas>.*` en cada nota nueva/ampliada.
+- Regla: localizar por TEMA en índices + búsqueda antes de crear; ampliar sin duplicar; una nota por culto en 04-Cultos y una por conjuro en 03-Magia con vínculo bidireccional; repartir secciones multitema; wikilinks; tags; sin frontmatter; no tocar .obsidian/*.json. Las reglas de RQA y Dioses de Glorantha tienen preferencia sobre los resúmenes de esta fuente (p. 6).
+- Estado vault: 27 de 28 conjuros de la sección avanzada ya existen (15 espirituales + 9 divinos + Vuelo/Volar); falta solo Crear-Cocatriz. Cultos mayores ya existen; 12 menores pendientes de decisión de alcance. Bestiario: ~60 criaturas nuevas pendientes; Espectro/Espíritus/Ondina/Silfo ya existen y solo se verifican. 05-Glorantha ya tiene Mundo/Geografía/Historia/Runas desde Dioses: esta fuente amplía, no duplica.
+
+- [x] Bloque GH-0 — Base e inventario + dudas OCR iniciales
+  - [x] Inventariar 28 conjuros avanzados vs notas existentes; 24 dioses vs cultos existentes; 70 entradas bestiario vs 82 notas existentes
+  - [x] Registrar Q58 alcance cultos menores, Q59 mapas omitidos por imágenes, Q60 contradicciones OCR
+- [x] Bloque GH-1 — Reglas avanzadas de combate (pp. 6-7)
+  - [x] Apuntar a localización concreta (declarar + MR-10 + mitad posibilidades) → ampliar nota Combate
+  - [x] Redes: fabricación, combate, inmovilizar, defensa, escape, características (Daño 1D4 etc.) → Combate + Equipo
+- [x] Bloque GH-2 — Magia avanzada (pp. 7-10): verificar sin duplicar + crear faltante
+  - [x] 15 espirituales existentes: cotejar valores fuente (Cola, Comunicación-Mental, Coordinación, Enlentecer, Estornudos, Extinguir, Movilidad, Pared-Oscura, Proyectil-Multiple, Recoleccion, Rielar, Silencio, Vigor, Vista-Lejana, Vista-Magica)
+  - [x] 10 divinos existentes: cotejar (Dar-Fruto, Destrozar, Fuerza-Marina, Hacer-Germinar, Portar-Enfermedad, Remolino, Revelacion, Transmitir-Enfermedad, Vinculo-Mental, Vuelo)
+  - [x] 2 hechicería: Volar existente + crear Crear-Cocatriz (ritual 4 PER fijos, huevo+gallina+sapo/culebra, 4 meses, mirada = divina 4 pts; Q60)
+  - [x] Verificar vínculo bidireccional culto-conjuro en cada nota tocada
+- [x] Bloque GH-3 — Cultos mayores: ampliar sin duplicar (pp. 10-12)
+  - [x] Aldrya, Flamal, Magasta, Malia, Orlanth, Toro-Tempestuoso, Triolina, Valind, Wachaza, Hombre-Astado/Dios Astado, Karrg (subculto Kyger)
+  - [x] Mecánica Cultos-Espirituales (lugar sagrado + Invocar + PER + adoración estacional) → nota Hombre-Astado o regla
+- [x] Bloque GH-4 — Cultos menores (pp. 11-12): decisión Q58 aplicada 2026-10-07
+  - [x] Daliath, Drospoli, Framanthe, Ikadz, Iphara, Molucca, Slor, Sokazue, Swems, Varchulanga, Vivamort, Vronkal → solo Panteones, sin nota propia; Q58 cerrada, Q59 cerrada, Q60 cerrada 2026-10-07
+- [x] Bloque GH-5 — Mundo y vida (pp. 16-25)
+  - [x] Seis mundos (Divino, Espiritual, Heroico Exterior/Superior/Inferior, Interior) → ampliar Mundo-y-Tiempo
+  - [x] Naturaleza física + ecología + zonas Genertela/Pamaltela/islas → ampliar Geografia-y-Regiones
+  - [x] Vida cotidiana (civilización, razas Agimori/Kralori/Veldang/Warerani, economía, magia-religión, demografía, vida-muerte, política) + PJ conocimiento + papel aventureros → ampliar o crear Vida-Cotidiana
+- [x] Bloque GH-6 — Historia, tiempo e idiomas (pp. 29-51)
+  - [x] Historia: prehistoria 5 épocas, orígenes, Alba (Seshnela, Osentalka, Gbaji, Arkat), Imperial (IAW, Aprendices, ceguera, catástrofes, Bloqueo, fin), Tercera (Prohibición Syndica, Lunar, Apertura, Guerras Héroes) + tablas I-III → ampliar Historia-y-Mitologia
+  - [x] Tiempo: 8 sistemas + calendario kralorelano + días sagrados Pavis → ampliar Mundo-y-Tiempo
+  - [x] Idiomas: 12 familias humanas + 17 no humanos → ampliar o crear Idiomas-Glorantha
+- [x] Bloque GH-7 — Bestiario I: Genertela y Prax (pp. 53-56, 73-74, 82-84, 90-96)
+  - [x] Alticamello, Antílope-Sable, Bisonte, Impala, Jabalí-Gigante, Morocanthe, Jinete-Colmillos, Toro-Celestial, Tigre-Dientes-Sable, Titanotero
+  - [x] Elfos (Amarillo, Marrón, Negro, Verde) y Trolls (Gran, Marino, Montañas, Nieves, Señorial, Selvas, Trollkin) → ampliar Elfo/Troll-Negro o notas propias
+  - [x] Babuino-Gigante, Gárgola-Menor, Gato-Sombrío, Hijo-Viento, Tritonido
+- [x] Bloque GH-8 — Bestiario II: Pamaltela (pp. 54-66, 68-89)
+  - [x] Asaltante-Nocturno, Baluquitero, Charnjibber, Enanito-Voraz, Garguero, Gigante-Gris, Hoon, Horror, Huanto, Jelmre, Jinete-Nocturno
+  - [x] Limpia-Escombros, Lucan, Magisaurio (peq/med/grande), Miron, Myrmidon, Orveltor, Rascullu, Scythanni, Simidendro, Slarge (gigante/peq), Tragon, Trasgo-Slorifingo
+  - [x] Cocatriz, Hijo-Krarsht, Hidra-Menor, Hoolar (sin valores), Succubus, Timinitido
+- [x] Bloque GH-9 — Bestiario III: mares y especiales (pp. 59-61, 66-68, 76-82, 85-86, 92-99)
+  - [x] Habitantes-Mar (general Piscoides/Cetoides) + Dwerulan, Surutran, Gnydron, Ludoch, Malaspo, Manati, Ouori, Ysabbau, Zabdamar-M/H, Elfo-Azul
+  - [x] Devorador, Gremlin, Nilmerg (donde haya enanos), Jolanti
+  - [x] Verificar existentes: Espectro, Espiritus-Enfermedad/Pasiones, Ondina, Silfo (en Elementos-Menores)
+- [x] Bloque GH-10 — Cierre
+  - [x] Actualizar Indice-Glorantha, Indice-Bestiario, Indice-Cultos, Indice-Magia + 00-Indice (sin secciones nuevas); Panteones solo agrupa
+  - [x] Verificar bidireccional culto-conjuro, tags, pies y warnings; TAREAS todo marcado; QUESTIONS sin las resueltas

@@ -84,6 +84,23 @@ Tirar 1D100 en la tabla que toque (ataque/parada, natural, arrojadiza). Efectos 
 
 Declarar la localización en la declaración de intenciones y esperar al final del MR 10. Ataque a mitad de posibilidades + todos los modificadores; si entra, golpea la localización deseada (el aventurero espera una apertura en la defensa).
 
+*Confirmado en Glorantha: El Mundo y sus Habitantes, p. 6.*
+
+### Redes y su uso en combate
+
+Fabricación de Redes es habilidad de Conocimiento. Toda red tiene TAM (área/volumen que cubre) y FUE/PG (FUE 2D6+14 de media 21; PG iguales a FUE en un área; PA 3-8, combate 6). Combate rara vez supera TAM 20 (máximo manejable con una mano con FUE normal); pesca/trampa cualquier TAM (1 hombre por cada 20 TAM). Para atrapar, TAM de la red debe superar al de la víctima.
+
+| Uso | Regla |
+|---|---|
+| Combate con red (TAM 15 típica) | Golpe como toalla mojada 1D4 daño, o atrapar. Se lleva en brazo izquierdo y sirve como escudo; al absorber filo pierde PA como arma, no contra empalantes/contundentes |
+| Inmovilizar | Ataque con extremo + cuerda para tensión. Si entra sin detener: 2 tiradas en tabla de localizaciones, ambas atrapadas. Cabeza: visión empañada (ataque/detención/esquiva a mitad). Abdomen/pecho: FUE vs FUE y si vence cae. Brazo: inmovilizado. Pierna: sin moverse sin caer; FUE vs FUE del atacante la derriba. Liberar cortando/rasgando/quemando; sin tensión DESx1 libera; ambos brazos cogidos = sin ayuda no se libera |
+| Defensa contra red | Cualquier arma detiene; escudo detenido queda atrapado salvo especial/crítico (brazo inmovilizado). Otra arma queda atrapada salvo detención ≤ doble del especial (soltarla evita inmovilizar brazo). Esquivar −10%. Red de pesca/trampa caída desde arriba sin aviso: no detenible, esquivable a −20% |
+| Escape | FUE vs FUE de la red abre agujero para escapar. Solo filo daña redes; daño acumulado = TAM víctima abre agujero. Combustibles pero no prenden solas; mantener llama en contacto |
+
+Características de red de combate: Daño 1D4; FUE/DES 12/10; CAR 3; BS 05%; ARM 6; MR 1; precio 150.
+
+*Fuente: Glorantha: El Mundo y sus Habitantes, p. 6-7.*
+
 ### Marcar golpes
 
 Declarar que se marca el golpe para hacer menos daño: usar modificador de daño inferior, omitirlo, o lanzar menos/menores dados del arma (p. ej. espada ancha 1D8+1 con +1D4 puede pasar a 1D4+1 sin modificador).
@@ -160,3 +177,4 @@ Como a pie, pero la montura mueve (sin gastar MR). % de arma a caballo limitado 
 
 *Fuente: RuneQuest Básico 2ª Edición (Joc Internacional), Libro de Reglas, cap. El Combate.*
 *Fuente: RuneQuest Avanzado, pp. 25-33.*
+*Fuente: Glorantha: El Mundo y sus Habitantes, p. 6-7 (apuntar y redes).*

@@ -1,6 +1,6 @@
 # Culto-Hombre-Astado
 
-Gran Shamán dios shamanes; directa o indirecta fuente toda magia shamánica. No culto convencional: sin PER donaciones templos altares ni divinos por adorar.
+También llamado Dios Astado u Hombre Astado, padre de los shamanes; visita a niños dormidos y si no lloran quedan destinados a shamanes. Gran Shamán dios shamanes; directa o indirecta fuente toda magia shamánica. No culto convencional: sin PER donaciones templos altares ni divinos por adorar.
 
 ## Panteón y afinidades
 
@@ -31,9 +31,11 @@ Gran Shamán dios shamanes; directa o indirecta fuente toda magia shamánica. No
 
 ## Habilidades y beneficios
 
+- Habilidades de religión: Conocimiento Animal, Conocimiento del Mundo, Conocimiento Vegetal, Primeros Auxilios; magia espiritual toda la que el Master permita, sin divina.
 - Fabricante Mundo Gran Espíritu más allá dioses omnipotente, solo Hombre Astado contacta, nunca representa; Hombre Perverso Primer Enemigo aparece múltiple detiene magia y destruye shamanes antes nacer, forma más temida.
 - Sin espíritu aliado.
 
 ## Fuente
 
 *Fuente: Dioses de Glorantha, p. 72-73.*
+*Fuente: Glorantha: El Mundo y sus Habitantes, p. 11 (alias Dios Astado, habilidades y magia a criterio del Master).*

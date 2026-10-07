@@ -1,7 +1,9 @@
 # Índice — Glorantha
 
-- [[Mundo-y-Tiempo]] — estructura, planos, Tiempo Solar y calendarios.
+- [[Mundo-y-Tiempo]] — estructura, planos, seis mundos, Tiempo Solar y calendarios.
 - [[Geografia-y-Regiones]] — Genertela, Pamaltela, mares y regiones (mapas omitidos).
+- [[Vida-Cotidiana]] — civilización, razas, economía, política y aventureros.
+- [[Idiomas-Glorantha]] — familias humanas y lenguas no humanas.
 - [[Historia-y-Mitologia]] — creación, monomito, edades y actualidad.
 - [[Runas-Magicas]] — 24 grandes runas.
 
