@@ -241,3 +241,18 @@
 - [x] Bloque GG-4 — Historia: prehistoria, orígenes, Alba/Arkat, Imperial IAW/Aprendices/Bloqueo, Tercera Lunar/Apertura/Guerras (pp. 29-45 OCR) → ampliar Historia-y-Mitologia
 - [x] Bloque GG-5 — Tiempo e idiomas: 8 sistemas, kralorelano, Pavis, 12 familias + no humanos (pp. 46-51 OCR) → ampliar Mundo-y-Tiempo + Idiomas-Glorantha
 - [x] Bloque GG-6 — Cierre: índices sin cambios (sin notas nuevas), pies Guía en 3 notas ampliadas, sin preguntas nuevas (mapas/imágenes por Q57/Q59, OCR p. 3 y sello p. 19 omitidos como artefactos)
+
+# Ingesta Tipos de PJ más comunes (OCR `C:\Users\Paju\Downloads\rq\ocr\02 Tipos de PJ mas comunes.md`, 23 pp. OCR / manual pp. 108-130 según numeración visible) — en curso
+- Fuente: *PJ mas comunes* (OCR `C:\Users\Paju\Downloads\rq\ocr\02 Tipos de PJ mas comunes.md`, 23 pp. OCR / numeración manual pp. 108-130). Pie `*Fuente: PJ mas comunes, p. <página manual>.*` en cada nota nueva/ampliada. Q61 cerrada con este título por decisión del usuario (sin datos editoriales).
+- Regla: localizar por TEMA en índices + búsqueda antes de crear; ampliar sin duplicar; repartir secciones multitema; wikilinks; tags; sin frontmatter; no tocar .obsidian/*.json. Experiencia-Previa ya trae mecánica de las 4 culturas (primitiva/nómada/bárbara/civilizada): esta fuente añade caracterización gloranthana jugable (hsunchen/praxiana/orlanthi/occidental), no duplica tablas.
+- Estado vault: 01-Creacion-de-Personaje solo tiene Caracteristicas, Atributos-Derivados, Experiencia-Previa; 05-Glorantha ya tiene Mundo/Geografía/Vida/Idiomas/Historia/Runas. No existen notas de cultura gloranthana: se crean 5 nuevas en 01-Creacion-de-Personaje.
+
+- [x] Bloque TPJ-0 — Base e inventario + dudas OCR iniciales
+  - [x] Inventariar secciones OCR vs notas existentes (intro + 4 culturas vs Experiencia-Previa, Vida-Cotidiana, cultos Orlanth/Waha/Eiritha/Hykim/Dios Invisible)
+  - [x] Registrar Q61 identidad del manual y Q62 huecos OCR (nombres tribales vacíos, Tempos, erratas)
+- [x] Bloque TPJ-1 — Intro Personajes Gloranthanos (pp. 108-109 OCR): crear Personajes-Gloranthanos (4 arquetipos, cómo jugar, personalizar con ejemplo Onak/Grimwal/Ragnar, secciones narrativas Lo Que Me Contó Mi Padre/Tío)
+- [x] Bloque TPJ-2 — Cultura Hsunchen (pp. 109-113): crear Cultura-Hsunchen (distribución, sociedad, vida, religión/magia, visión del tío Gaskor)
+- [x] Bloque TPJ-3 — Cultura Praxiana (pp. 114-118): crear Cultura-Praxiana (tribus, sociedad, vida, leyes/conflictos, religión Waha/Eiritha/Toro, visión de Wahagrim)
+- [x] Bloque TPJ-4 — Cultura Orlanthi (pp. 118-125): crear Cultura-Orlanthi (distribución reinos/tribus/clanes, clan/tribu/reino, virtudes, vida, leyes/conflictos, religión Orlanth/Ernalda, visión de Aski)
+- [x] Bloque TPJ-5 — Cultura Occidental (pp. 125-130): crear Cultura-Occidental (Seshnela/Loskalm/Seguredo/Carmania/Umathela, feudalismo, vida, leyes/conflictos, Dios Invisible Malkion/Hrestol, visión de Sir Harfien)
+- [x] Bloque TPJ-6 — Cierre: actualizar Indice-Creacion-de-Personaje + 00-Indice (sin secciones nuevas), wikilinks cruzados a cultos y Glorantha, tags, pies y warnings; TAREAS todo marcado; QUESTIONS sin las resueltas

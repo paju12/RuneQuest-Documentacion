@@ -7,6 +7,11 @@
 - [[Caracteristicas]] — las siete, tiradas y límites (PER = POD).
 - [[Atributos-Derivados]] — PM, PF, PG, modificador al daño, MR y modificadores de categoría.
 - [[Experiencia-Previa]] — edad, cultura, magia inicial, 30%/año, armas culturales y equipo.
+- [[Personajes-Gloranthanos]] — cuatro arquetipos jugables y personalización.
+- [[Cultura-Hsunchen]] — cazador primitivo.
+- [[Cultura-Praxiana]] — guerrero nómada.
+- [[Cultura-Orlanthi]] — guerrero bárbaro.
+- [[Cultura-Occidental]] — soldado medieval.
 
 ## Previsto (siguientes fuentes)
 
