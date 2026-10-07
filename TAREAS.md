@@ -226,3 +226,18 @@
 - [x] Bloque GH-10 — Cierre
   - [x] Actualizar Indice-Glorantha, Indice-Bestiario, Indice-Cultos, Indice-Magia + 00-Indice (sin secciones nuevas); Panteones solo agrupa
   - [x] Verificar bidireccional culto-conjuro, tags, pies y warnings; TAREAS todo marcado; QUESTIONS sin las resueltas
+
+# Ingesta Guía a Glorantha (OCR `C:\Users\Paju\Downloads\rq\ocr\RuneQuest - Guia a Glorantha.md`, pp. 1-36 OCR / manual pp. 16-51) — completada
+- Fuente: *Guía a Glorantha* (suplemento RQ2 Classic, JOC Internacional), pp. 16-51 según numeración manual visible en OCR. Pie obligatorio `*Fuente: Guía a Glorantha, p. <páginas>.*` en cada nota ampliada.
+- Regla: localizar por TEMA en índices + búsqueda antes de crear; ampliar sin duplicar; repartir secciones multitema; wikilinks; tags; sin frontmatter; no tocar .obsidian/*.json. 05-Glorantha ya tiene Mundo/Geografía/Vida/Idiomas/Historia desde Dioses + Mundo y sus Habitantes: esta fuente coteja y amplía, no duplica.
+- Estado: solapa casi total con GH (seis mundos, ecología, vida cotidiana, historia Alba/Imperial/Tercera, tiempo, idiomas). Solo se añade lo que falte o matice.
+
+- [x] Bloque GG-0 — Base e inventario + dudas OCR iniciales
+  - [x] Inventariar secciones OCR vs notas existentes (Mundo-y-Tiempo, Geografia-y-Regiones, Vida-Cotidiana, Historia-y-Mitologia, Idiomas-Glorantha)
+  - [x] Registrar mapas pp. 1-2 e ilustraciones pp. 10/20-22/33 como omitidos por imágenes (criterio Q57/Q59) y OCR corrupto p. 3 (`●WRA∆Φ†…`) y sello `SWENSTON oct 75` p. 19
+- [x] Bloque GG-1 — Naturaleza física y ecología (pp. 18-20 OCR) → ampliar Mundo-y-Tiempo + Geografia-y-Regiones
+- [x] Bloque GG-2 — Vida cotidiana, razas, política, PJ y aventureros (pp. 20-25 OCR) → ampliar Vida-Cotidiana
+- [x] Bloque GG-3 — Seis mundos + Mundo Interior (pp. 26-28 OCR) → ampliar Mundo-y-Tiempo
+- [x] Bloque GG-4 — Historia: prehistoria, orígenes, Alba/Arkat, Imperial IAW/Aprendices/Bloqueo, Tercera Lunar/Apertura/Guerras (pp. 29-45 OCR) → ampliar Historia-y-Mitologia
+- [x] Bloque GG-5 — Tiempo e idiomas: 8 sistemas, kralorelano, Pavis, 12 familias + no humanos (pp. 46-51 OCR) → ampliar Mundo-y-Tiempo + Idiomas-Glorantha
+- [x] Bloque GG-6 — Cierre: índices sin cambios (sin notas nuevas), pies Guía en 3 notas ampliadas, sin preguntas nuevas (mapas/imágenes por Q57/Q59, OCR p. 3 y sello p. 19 omitidos como artefactos)

@@ -4,7 +4,9 @@ Cómo vive la gente común: niveles de civilización, razas, economía, religió
 
 ## Niveles de civilización
 
-La mayoría humana vive en nivel neolítico o bronce (agricultura incipiente, herramientas primitivas, gobierno simple); algunas áreas llegan a medievo o más por magia o legado antiguo. Razas antiguas en niveles variados: trolls y marinos los más primitivos a ojos humanos, dragonuts los más altos, enanos con mejor tecnología; aplicar criterios humanos a otras especies induce a error (los trolls se ven sofisticados en sonido y olfato de cavernas).
+La mayoría humana vive en nivel neolítico o bronce (agricultura incipiente, herramientas primitivas, gobierno simple); algunas áreas llegan a medievo o más por magia o legado antiguo. Los humanos son especie joven y predominante solo desde la Segunda Edad (hace unos 1000 años), un 85% de los inteligentes; subsisten cuatro razas antiguas principales: enanos, elfos, dragonuts y trolls. Razas antiguas en niveles variados: trolls y marinos los más primitivos a ojos humanos, dragonuts los más altos, enanos con mejor tecnología; aplicar criterios humanos a otras especies induce a error (los trolls se ven sofisticados en sonido y olfato de cavernas).
+
+*Fuente: Guía a Glorantha, p. 18.*
 
 ## Tipos raciales humanos
 

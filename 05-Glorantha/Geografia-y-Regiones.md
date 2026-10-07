@@ -22,7 +22,9 @@ Detalle completo de cada región vive en su ficha cuando se cree; aquí solo mar
 
 ## Ecología y Caos
 
-La magia altera clima, biología y vida (evolución individual dragonut, bosques élficos como un solo organismo). El Caos no reemplaza el sistema local: lo elimina; nidos antiguos solo aparentan estabilidad. En Genertela el Caos forma especies (necrófagos, hombres escorpión, jack o hoyos); en Pamaltela criaturas únicas (Madre de Monstruos, Horror Rezumante, Árbol Chupaconejos), con excepciones en ambos lados.
+La magia altera clima, biología y vida (evolución individual dragonut, bosques élficos como un solo organismo). El Caos no reemplaza el sistema local: lo elimina; nidos antiguos solo aparentan estabilidad. En Genertela el Caos forma especies (necrófagos, hombres escorpión, jack o hoyos); en Pamaltela criaturas únicas (Madre de Monstruos, Horror Rezumante, Árbol Chupaconejos), con excepciones en ambos lados. Como regla práctica de la fuente: en Genertela lo normal es banda de una docena de broos medio-cabríos, en Pamaltela un solo broo con 12 rasgos; únicas genertelanas (Cwim, Terror Celeste, Murciélago Carmesí) y especies pamaltelanas (horrores, jinetes nocturnos, mirones).
+
+*Fuente: Guía a Glorantha, p. 19.*
 
 ## Zonas ecológicas de Genertela
 
