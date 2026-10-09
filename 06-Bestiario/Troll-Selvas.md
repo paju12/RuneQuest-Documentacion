@@ -18,6 +18,14 @@ Como Troll Negro. Hablan Sombrío.
 
 Selvas nororientales de Laskal al lindero de Dinal.
 
+## Biología (Libro de los Trolls)
+
+- Muri o cálidos; derivados de la Raza Señorial tras caer Kwalyorni el Frígido (Moorgarki) ante Pamalt con lanza de Lodril: incapaces ya de frío, convertidos en raza aparte.
+- Aspecto general de negros pero delgados, sin capa aislante ni panza; mismo tamaño aproximado; solo jungla y sabana, no desiertos del sur.
+- Tribus pequeñas, carnívoros feroces como primos fríos; menos odiados por elfos, a menudo aliados contra humanos; dicen inmunes a la Maldición, quizá por descendencia señorial directa.
+- Armas no siempre ancestrales: lanzas y cerbatanas además de mazas y hondas.
+
 #runequest/bestiario
 
 *Fuente: Glorantha: El Mundo y sus Habitantes, p. 96.*
+*Fuente: El Libro de los Trolls, pp. 31-32, 48, 75-77.*

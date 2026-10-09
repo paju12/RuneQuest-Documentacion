@@ -109,4 +109,17 @@ Un documento independiente por culto (ver `[[Plantillas/Culto]]`). Prohibido agr
 - [[Culto-Xiola-Umbar]]
 - [[Culto-Zorak-Zoran]]
 
+## Cultos (El Libro de los Trolls, panteón troll ampliado)
+
+- [[Culto-Annilla]] — Luna Azul, mareas y secreto.
+- [[Culto-Aranea]] — arañas, Telaraña.
+- [[Culto-Arkat-Troll]] — héroe vencedor de Gbaji, hechicería.
+- [[Culto-Basko-Sol-Negro]] — Sol Negro de Ignorancia.
+- [[Culto-Gorakiki]] — Madre de los insectos.
+- [[Culto-Himile]] — frío, hermano de Subere.
+- [[Culto-Mee-Vorala]] — hongos.
+- [[Culto-Qualyorni]] — Moorgarki el Frío, selvas.
+- [[Culto-Xentha]] — noche en superficie.
+- [[Culto-Zong-Cazador]] — caza troll.
+
 #runequest/cultos

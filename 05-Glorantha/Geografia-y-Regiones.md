@@ -62,8 +62,67 @@ La magia altera clima, biología y vida (evolución individual dragonut, bosques
 
 Mapas de distribución por especie omitidos por ser imágenes (decisión Q59); distribución solo desde texto.
 
+## Tierras troll (El Libro de los Trolls)
+
+Detalle desde texto pp. 33-47; mito-historia en [[Historia-y-Mitologia]], cultos en [[Panteones]] y [[Culto-Kyger-Litor]].
+
+Mapas pp. 35, 38-47 y 155-162 omitidos por ser imágenes (Q65 cerrada); cifras Dagori literales según el texto (Q64 cerrada).
+
+### Baile de las Sombras
+
+Tierras al norte del chaparral de Prax y al sur de las Petrificadas; seco y montañoso con matorral y pinos de taiga. Centro occidental en el Castillo de Plomo, residencia de [[Culto-Kyger-Litor]]. Restos uz: la Antorcha (herramienta de dios olvidado capturada como señuelo contra el Caos, resistió con elfos verdes), hoy adorada y cuidada por elfos del Bosque Rojo (Shanasse destruido, solo tocón); arroyos al este forman lagos del asentamiento élfico. El Trono hoy vacío: el hombre de piedra se lo llevó Pavis para su ciudad.
+
+| Rasgo | Efecto |
+|---|---|
+| Sombras | Restos de Oscuridad activos; Espíritu Ejército (~22 km diámetro), Sombra de Natchland (120-480 km²); seres cuasi-sólidos gigantes |
+| Baile de luz | La Antorcha emite espíritus luminosos (5-22 km radio) que viajan erráticos al oeste hasta el Valle de las Flores; las sombras se apartan y vuelven: de ahí el nombre |
+| Bosque de las Esporas | Bosque de Setas de 45 x 15 km en lo más oscuro; hogar de elfos negros, hongos y seta gigante de la Espora de la Inmortalidad; hostil sin escolta élfica, troll o magia |
+
+### Dagori Inkarth: geografía
+
+Nombre ancestral de las tierras trolls al norte de Prax y sur de Petrificadas; reina esquiva en el Castillo de Plomo. Límites: oeste Paso del Dragón, este Nueve Gigantes al sur y Lagos Redondos al norte, más allá chaparral del País de los Buitres.
+
+| Lugar | Rasgos |
+|---|---|
+| Montañas Indigo | Volcanes modernos de la Era Tormentas; cimas escarpadas con nieves al norte; valles a 1200-1300 m inundados por deshielo; flores gigantes entre Indigo y Araña |
+| Riscos Ladrones y Menores | Granito paralelo a Petrificadas, arista fina transitable por trolls; Menores desvaneciéndose al este hacia Gors |
+| Tierra de Gors | Entre Centinela (Indigo) y Puerta (Petrificadas); sedimentos con cordilleras volcánicas; agua de deshielo en Lagos de la Señora |
+| Colinas Guijarros | Granito con guiñajos; frontera Gors-Gash |
+| Tierra de Gash | Seca y rocosa, mitad oriental; riscos NE-SO de cimas planas; Riscos Vientogusano erosionados al sur |
+| Nueve Gigantes Buenos | Nueve picachos yermos; dudoso si volcanes o vivientes |
+| Lagos Redondos | Tres calderones malolientes; solo el mayor permanente |
+| Bosques Rojos y Folanni | Resto del bosque prehistórico con tocón de Shanassae; elfos adoran Antorcha; Folanni fragmentado por Gigantes en cuatro afluentes y lagos |
+| Tierra de Natch y Cráneo de Gash | Lagos de pesca renovados por deshielo; concentración de la tribu Gash |
+| Cavernas Gigantes | Al sur de Indigo; estatua de Karrg de 130 m con Ejército Petrificado; al sur Piedra Roja; ríos intermitentes, pozos y ecología de oscuridad |
+| Planicies Bisontes y Adari | Llano árido de herbívoros con Adari a menudo seco; praxianos y cazadores Indigo |
+| Ciudad Durmiente y Túmulo de Tada | Restos de Tada; cúpula ovoidal de 600 x 300 x 600 m de granito con musgo |
+
+Teocracia matriarcal de [[Culto-Kyger-Litor]]: Parientes Ancianos ([[Troll-Senorial]] que recuerdan el Éxodo) en Plomo; tribus por parentesco con hembra ancestro, jefes también líderes de culto.
+
+| Tribu | Asiento y base | Población / ejército |
+|---|---|---|
+| Primera | Plomo subterráneo; hongos e insectos; domina [[Culto-Subere]] | 12.000 / ~6.000 |
+| Ongafi | Superficie, Laca y Gors | 8.400 / 5.200 |
+| Abeja | Valle Flores, Colmena con abejas gigantes; domina Gorakiki; paz con elfos; mercader Joh Mith anual | 11.000 / 5.360 (1.400 jinetes abeja) |
+| Indigo | Valles Indigo, Zhantalis, Gigantes; cazadores; regimiento Primero de Byls | 8.000 / 4.250 |
+| Gash | Natch y Gran Mina; Dios Cazador; 1.000 [[Trollkin]] rebeldes dispersos | 4.000 / 1.500 |
+| Guijarros | Ancestral militarista; disputa Lago Noli con Gash | 2.000 / 1.000 |
+| Korzant | Riscos Menores, 3ª Edad, hija rebelde de Primera; cultos Gorakiki aislados; [[Trollkin]] bien tratados con clubes de jinetes | 3.400 / 1.900 (800 jinetes) |
+
+Total texto: ~60.000 en tribus (mitad movilizables) + ~12.000 sueltos con tributo.
+
+### Piedra Roja (resumen)
+
+Hogar de la tribu central Indigo en caliza de la Montaña de Piedra Roja; 4.000 habitantes con comida importada por el Clan Maza de Pedernal Negro; caída dos veces (Caos y dragonuts con mapa de Cantor de las Rosas). Cuatro entradas: inferior (extranjeros, trampas y espera en bucle), barranco (a 120 m, trepa -25%, voladores y ritos), alta (800 m ladera sur, excavada por hijos de Krarsht en 497), pozo (secretos de [[Culto-Subere]], repliegue y repoblación). Nueve sectores: bucle [[Trollkin]], lado abierto (suburbios, no trolls, elfos negros), estancias del terror ([[Culto-Zorak-Zoran]] y fuego esclavo), zona pública (tierra común de la Señora con Grandes de guardia), túneles insectos (clan Sesoescarabajo), túnel Kogad (linaje de Rompe, 1500 años), sector sagrado (kygerlito, templos Kyger interior-exterior y [[Culto-Subere]], aposento Señora), barrio alto (una entrada, secreto respiración agua perdido), barrio bajo (clan Morgslod, charca babosas). Habitación por habitación omitida a propósito; detalle de juego en futuro Los-Hongos-Magicos (Bloque LT-8, pp. 125-154).
+
+### Tierras Sombrías
+
+Al sur del Paso, antiguo reino de [[Culto-Argan-Argar]] bajo la Nación Santa. Meseta Sombría (45 x 90 km, 1 km sobre el entorno, resto del palacio de Lodril a Argan; Colinas Penumbra; fantasmas, torbellinos, tormenta de arena negra, espíritus selectivos; plagas de [[Trollkin]]). Colinas de Plomo (monstruo de Argan muerto por el Faraón, retiene Arroyocañada). Pantano Maldito (remanso tras Plomo; Río Nuevo del Faraón no lo seca). Gruta Ciega (río subterráneo con cascadas, lagos y formaciones; habitación troll inmemorial). Pozo de Alquitrán (escalera del Anciano Único, descenso casi imposible). Pozo Negro (fuerte troll que guarda sesos del monstruo por orden del Faraón).
+
 *Fuente: Glorantha: El Mundo y sus Habitantes, p. 19-20.*
 
 #runequest/glorantha
 
 *Fuente: Dioses de Glorantha, p. 6-9.*
+
+*Fuente: El Libro de los Trolls, p. 33-47.*

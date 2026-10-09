@@ -33,6 +33,45 @@ Uno o dos ptos. a elección del amo (Curación, Disrupción, Dardo Veloz). Bases
 
 Toda tierra negra como casta servil y combustible.
 
+## Biología (Libro de los Trolls)
+
+## Maldición y nacimiento
+
+- Gran Maldición de Gbaji sobre Korasting: embarazos que terminan antes de tiempo; muchos mortinatos, en especial hijos de trollkins; supervivientes tullidos e incompletos, de crecimiento errático.
+- Todo nacimiento múltiple se considera camada trollkin; gemelos naturales de troll (4%) forman el núcleo de comunidades trollkin libres; Rompe y Rasga se dicen señoriales para salvar la regla.
+- Madre que da a luz trollkin queda impura y humillada; toda camada posterior será trollkin salvo largo ritual de purificación: un año entera casta y pura antes de encinta, más ceremonias.
+- Mitad de nacimientos son camadas trollkin, mitad únicos negros; madres sin trollkins muy honradas; hembras trollkin quedan preñadas fácil pero rara vez llevan a término, por lo que sirven de nodrizas (Xiola Umbar las reparte).
+
+## Cifras
+
+| Hito | Valor |
+|---|---|
+| Nacimiento | semanas 35-40; dieta blanda hasta dientes (barrillo con moho, insectos, excrementos) |
+| Dientes | desde 2 años |
+| Madurez sexual | 15 años, sin rito oficial; ya con años de esclavitud |
+| Muerte | antes de 35 años, por sobrecarga; media en libertad desconocida |
+
+- Aparato digestivo primitivo, más de señorial inmaduro que de negro; ojos sobredesarrollados, muy sensibles a luz; a pleno sol Desmoralizado.
+
+## Clases y propiedad
+
+| Clase | Uso |
+|---|---|
+| Guerreros | armados y entrenados, magia de pelea; exigen obediencia; leales pasan a valiosos, cobardes a comida |
+| Valiosos | inteligentes y laboriosos sin ambición; propiedad privada reconocida lejos del amo; capataces, sanadores, oficios liberales |
+| Trabajadores | mano de obra pesada (cargar, construir, cavar); solo Curación-2 por Xiola Umbar; perezosos a comida, capaces a valiosos |
+| Comida | sin estatus, como animales; reserva para trabajos imprevistos o matanza |
+
+- Reparto: mitad para familia materna como patrimonio, mitad al clan como esclavos de la reina; si impares, el sobrante para la comadrona (Xiola Umbar); únicos y cadáveres para la madre.
+- Marcas en Dagori Inkarth y Paso del Dragón: perforaciones en orejas, nariz o rostro con cintas, pendientes u objetos del dueño; ejemplo clan Sazdorf con cordón de cuero de nudos rojos (valiosos tres, guerreros dos, trabajadores uno), más símbolo de familia (Martoz pluma de codorniz, Dozkal cola de lagarto, Dorsnon doble fila de cuentas).
+
+## Filosofía del Devorador Negro
+
+- Los enlos dicen creer en el Devorador Negro: verdad del mundo, nada sin fondo ni fin que todo lo devora empezando por ellos; vida sin propósito salvo mejor que muerte; dolor diario preferible al Devorador; secreto que uzkos y uzuz ocultan tras muerte, miedo y oscuridad.
+
+Ver también [[Troll-Negro]] e [[Insectos-Troll]].
+
 #runequest/bestiario
 
 *Fuente: Glorantha: El Mundo y sus Habitantes, p. 96-97.*
+*Fuente: El Libro de los Trolls, pp. 48, 55, 65-69.*

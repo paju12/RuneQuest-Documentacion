@@ -12,6 +12,7 @@
 - [[Fatiga-Carga-y-Movimiento]] — PF, CAR, tiempos y tasas de viaje.
 - [[Experiencia-Entrenamiento-y-Caracteristicas]] — experiencia, entrenamiento, estudio, subida de PER y características.
 - [[Barcos-y-Navegacion]] — tipos, velocidades, daño, tempestades y reparaciones (Avanzado).
+- [[Sociedad-Troll]] — familia, ecología, hospitalidad, ejército de 9 bandas, encuentros y tribus (Libro de los Trolls).
 
 ## Previsto
 

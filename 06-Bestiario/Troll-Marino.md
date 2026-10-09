@@ -37,6 +37,12 @@ Costas centro-occidentales genertelanas y profundidades (Kahar neblinoso donde e
 
 Regenera 1 pto. por asalto y localización como cavernas; no a sol directo.
 
+## Biología (Libro de los Trolls)
+
+- Tipo primitivo más cercano a la Raza Señorial que a negros; sonar inmejorable, copiado en parte por otras criaturas marinas.
+- Estómago unicameral: perdida la digestión de la mayoría de plantas; solo ciertos tipos y porciones, más casi todo animal terrestre y pescado; vistos comer arena, quizá por oxígeno.
+
 #runequest/bestiario
 
 *Fuente: Glorantha: El Mundo y sus Habitantes, p. 94.*
+*Fuente: El Libro de los Trolls, pp. 55-56, 60.*

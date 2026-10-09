@@ -40,6 +40,14 @@ La que le enseñen (idiotas incluidos). Olfatear 50-2, Oscuro Otear/Buscar 50-2.
 
 Bosques y montañas, cubiles en cuevas, grupos-familia pequeños. Carnívoros nocturnos. Sentido Oscuro como el [[Troll-Negro]].
 
+## Biología (Libro de los Trolls)
+
+- Romal ("Corta Narices"); mutantes caóticos de la Gran Oscuridad: ejército troll convertido por Pocharngo el Corruptor, luego aplastado y dispersado por Boztakang.
+- Digestivo como negros, con ojos grandes de trollkin, rostro alargado y sonar algo inferior; temibles en oscuridad, temerosos al sol; INT media 7.
+- Tenidos por parientes pese a mancha de Caos, no perseguidos; a veces pastoreados por negros como ovejas o perros.
+- Cráneo de capacidad reducida, frente huidiza y colmillos exagerados.
+
 #runequest/bestiario
 
 *Fuente: RuneQuest Básico 2ª Edición, Libro de Reglas, cap. Las Criaturas.*
+*Fuente: El Libro de los Trolls, pp. 48, 55, 61.*

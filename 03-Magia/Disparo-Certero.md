@@ -10,7 +10,8 @@ Divina.
 
 ## Otros cultos que lo enseñan
 
-Exclusivo del culto de origen.
+- [[Culto-Zong-Cazador]] — variante troll (caza y despedazar; ver también [[Culto-Dioses-Cazadores]]).
+- [[Culto-Dioses-Cazadores]] — resto de variantes (Odayla, Rasout, Hijo Pródigo).
 
 ## Restricciones (quién NO puede usarlo)
 
@@ -37,3 +38,4 @@ El proyectil alcanza siempre en alcance (móvil, escondido o lejano) salvo 96-00
 ## Fuente
 
 *Fuente: RuneQuest Avanzado, p. 68.*
+*Fuente: El Libro de los Trolls, p. 84 (variante Zong).*

@@ -6,7 +6,7 @@ Divina.
 
 ## Culto de origen
 
-[[Culto-Kyger-Litor]] altares; asociado [[Culto-Subere]] [[Culto-Xiola-Umbar]] [[Culto-Zorak-Zoran]] [[Culto-Toro-Tempestuoso]]? No, Kyger principal.
+[[Culto-Kyger-Litor]] (sus altares la enseñan).
 
 ## Otros cultos que lo enseñan
 
@@ -16,11 +16,11 @@ Divina.
 
 ## Restricciones (quién NO puede usarlo)
 
-Niega sol trollkin cavernas y Cegar.
+Sin restricciones conocidas.
 
 ## Requisitos
 
-1 punto 6 h.
+Iniciado; sacrificar PER = coste (1 punto).
 
 ## Estadísticas
 
@@ -34,8 +34,9 @@ Niega sol trollkin cavernas y Cegar.
 
 ## Efecto
 
-Ve oscuridad como día y día como oscuridad.
+Quienes ven mejor con luz ven en oscuridad como a plena luz; los nocturnos cegados por el sol ven de día como en oscuridad. Niega el sol sobre trollkins y trolls cavernas. Contrarresta Cegar.
 
 ## Fuente
 
 *Fuente: Dioses de Glorantha, p. 83.*
+*Fuente: El Libro de los Trolls, p. 97 (altares), 102 (versión vigente coincidente).*

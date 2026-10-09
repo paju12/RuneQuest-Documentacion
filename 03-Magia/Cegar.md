@@ -10,15 +10,15 @@ Divina.
 
 ## Otros cultos que lo enseñan
 
-- Exclusivo; nocturnos inmunes.
+Exclusivo del culto de origen.
 
 ## Restricciones (quién NO puede usarlo)
 
--75% golpear detener no visualiza aunque Cura Vista sí.
+Sin restricciones conocidas para aprenderlo; inmunes las criaturas que ven sin vista o sin luz (trolls, enanos).
 
 ## Requisitos
 
-1 punto apilable +25% afectar.
+Iniciado; sacrificar PER = coste (1 punto, apilable: cada punto extra +25% posibilidades de afectar).
 
 ## Estadísticas
 
@@ -32,8 +32,9 @@ Divina.
 
 ## Efecto
 
-Ciega como 18 PM 2 pts resiste 23.
+Ciega a la víctima: -75% golpear y detener con armas; no puede lanzar conjuros que exijan visualizar blanco (sí Curación o Vista Mágica, que no necesitan vista). Cada punto extra +25% afectar (ej. lanzador 18 PM con 2 pts: blanco resiste como si mago tuviera 23 PM). No afecta a trolls ni enanos.
 
 ## Fuente
 
 *Fuente: Dioses de Glorantha, p. 83.*
+*Fuente: El Libro de los Trolls, p. 101 (versión vigente coincidente).*

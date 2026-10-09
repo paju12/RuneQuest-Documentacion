@@ -12,6 +12,7 @@
 - [[Cultura-Praxiana]] — guerrero nómada.
 - [[Cultura-Orlanthi]] — guerrero bárbaro.
 - [[Cultura-Occidental]] — soldado medieval.
+- [[Personaje-Troll]] — regiones, subtipos, profesiones y equipo (Libro de los Trolls).
 
 ## Previsto (siguientes fuentes)
 

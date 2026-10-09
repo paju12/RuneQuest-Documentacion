@@ -33,6 +33,11 @@ Habitualmente ninguna.
 
 Montañas de Tarmo, Mari y Palarkri; rara vez baja.
 
+## Evolución (Libro de los Trolls, resumen)
+
+- Snang solitario pamaltelano; solo se añade cráneo y árbol: sin cráneos barbados en templos conocidos; árbol pp. 62-63 en prosa como en [[Enanito-Voraz]], con ramas señoriales hacia cornudo, come-piedras, ciego, negro, trollkin, marino, cavernas, gigante, mastodóntico y voraz, y pérdida de la Runa del Hombre en jinetes, asaltantes, hoons, espantos y diablos.
+
 #runequest/bestiario
 
 *Fuente: Glorantha: El Mundo y sus Habitantes, p. 95.*
+*Fuente: El Libro de los Trolls, pp. 61-63, 85.*

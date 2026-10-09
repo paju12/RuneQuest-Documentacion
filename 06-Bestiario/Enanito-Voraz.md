@@ -32,6 +32,12 @@ Esconderse 70+4, Rastrear 35-2.
 
 Sabana pamaltelana en jaurías cazadoras.
 
+## Evolución (Libro de los Trolls, resumen)
+
+- Subespecie menor que humano, con dientes vueltos a colmillos y caninos casi solo útiles para carne; hipótesis de sobrevivir arrancando carne a animales enormes vivos.
+- Sin cráneos barbados conocidos en templos; árbol pp. 62-63 en prosa: del tronco señorial salen ramas a cornudo, come-piedras, ciego, negro y trollkin, con pérdida de la Runa del Hombre hacia jinetes nocturnos, asaltantes, hoons, espantos y diablos terrestres (ya no uz auténticos), más ramas a marino, cavernas, gigante, mastodóntico y voraz frente a cráneo humano.
+
 #runequest/bestiario
 
 *Fuente: Glorantha: El Mundo y sus Habitantes, p. 63.*
+*Fuente: El Libro de los Trolls, pp. 61-63, 84.*

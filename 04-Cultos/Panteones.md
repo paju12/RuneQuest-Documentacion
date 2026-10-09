@@ -19,7 +19,7 @@ Sin panteón definido en esta fuente. Arquetipos sueltos:
 
 ## Panteones (Dioses de Glorantha, 13)
 
-Caos, Elfo, Enano, Hsunchen, Lunar, Malkionita, Marino, Oriental, Orlanth, Pamaltelano, Praxiano, Troll, Yelm. Detalle en cada Culto-Nombre, no aquí.
+Caos, Elfo, Enano, Hsunchen, Lunar, Malkionita, Marino, Oriental, Orlanth, Pamaltelano, Praxiano, Troll, Yelm. Detalle en cada Culto-Nombre, no aquí. Panteón troll ampliado en El Libro de los Trolls: [[Culto-Kyger-Litor]], [[Culto-Zorak-Zoran]], [[Culto-Xiola-Umbar]], [[Culto-Subere]], [[Culto-Argan-Argar]] más [[Culto-Annilla]], [[Culto-Aranea]], [[Culto-Gorakiki]], [[Culto-Himile]], [[Culto-Mee-Vorala]], [[Culto-Qualyorni]], [[Culto-Xentha]], [[Culto-Zong-Cazador]], [[Culto-Basko-Sol-Negro]] y [[Culto-Arkat-Troll]] (Dehore = [[Culto-Hombre-Astado]], sin duplicar).
 
 Relaciones 0 enemigas con combate o huida, 1 hostiles tensas, 2 neutrales ambivalentes o sin contacto, 3 amigas que cooperan. Factor individual puede cambiar reacción; cada culto puede variar.
 

@@ -256,3 +256,45 @@
 - [x] Bloque TPJ-4 — Cultura Orlanthi (pp. 118-125): crear Cultura-Orlanthi (distribución reinos/tribus/clanes, clan/tribu/reino, virtudes, vida, leyes/conflictos, religión Orlanth/Ernalda, visión de Aski)
 - [x] Bloque TPJ-5 — Cultura Occidental (pp. 125-130): crear Cultura-Occidental (Seshnela/Loskalm/Seguredo/Carmania/Umathela, feudalismo, vida, leyes/conflictos, Dios Invisible Malkion/Hrestol, visión de Sir Harfien)
 - [x] Bloque TPJ-6 — Cierre: actualizar Indice-Creacion-de-Personaje + 00-Indice (sin secciones nuevas), wikilinks cruzados a cultos y Glorantha, tags, pies y warnings; TAREAS todo marcado; QUESTIONS sin las resueltas
+
+# Ingesta El Libro de los Trolls (OCR `Rune Quest - El Libro de los Trolls.md`, Troll Pack JOC 1992 / Chaosium 1988, pp. 1-163) — completada 2026-10-09
+- Fuente: *El Libro de los Trolls* (JOC Internacional 1992, original Trollpak Chaosium/Avalon Hill 1988), pp. 5-163 según OCR. Pie obligatorio `*Fuente: El Libro de los Trolls, p. <páginas>.*` en cada nota nueva/ampliada.
+- Regla: localizar por TEMA en índices + búsqueda antes de crear; ampliar sin duplicar; una nota por culto en 04-Cultos y una por conjuro en 03-Magia con vínculo bidireccional; repartir secciones multitema; wikilinks; tags; sin frontmatter; no tocar .obsidian/*.json. Dioses de Glorantha y RQA tienen preferencia en reglas; esta fuente manda en biología/sociedad/geografía troll y culto Kyger detallado.
+- Estado vault: Culto-Kyger-Litor existe resumido (DG-9) por ampliar; Argan/Subere/Xiola/Zorak existen; faltan Annilla, Aranea, Gorakiki, Himile, Mee-Vorala, Qualyorni, Xentha, Zong, Basko, Dehore, Arkat-Troll. Bestiario troll existe (Negro/Cavernas/Gran/Marino/Montañas/Nieves/Selvas/Señorial/Trollkin/Enanito-Voraz) por ampliar; faltan artrópodos detallados. 05-Glorantha ya tiene Historia/Geografía: esta fuente amplía mito-historia troll y Dagori Inkarth, no duplica.
+
+- [x] Bloque LT-0 — Base e inventario + dudas OCR iniciales
+  - [x] Inventariar secciones OCR vs notas existentes (mitología, historia, geografía, biología, Libro Uz, panteón, sociedad, artrópodos, encuentros, Hongos Mágicos)
+  - [x] Registrar Q63 nombres variantes — cerrada 2026-10-09 (Kyger Litor y provisionales confirmados; warnings retirados de Historia-y-Mitologia, Culto-Kyger-Litor y Culto-Qualyorni), Q64 cifras — cerrada 2026-10-09 (literales confirmados; constancia en Geografia-y-Regiones), Q65 mapas — cerrada 2026-10-09 (omisión correcta; marcas retiradas de Historia-y-Mitologia y Geografia-y-Regiones); Q66 erratas — cerrada 2026-10-09 (Talado confirmado; hierro corregido a plomo en Encantar-Plomo), Q67 recuento — cerrada 2026-10-09 (quince confirmados; warning retirado de Insectos-Troll), Q68 conjuros panteón — cerrada 2026-10-09 (resúmenes definitivos; warnings y menciones retirados)
+- [x] Bloque LT-1 — 05-Glorantha: mitología e historia troll (pp. 9-32) — en curso 2026-10-09
+  - [x] LT-1a Ampliar Historia-y-Mitologia (Elección Kyger, Siete Ancestros, Rastreador, Yelm, Tierra Maravillas, Primeras Batallas, Éxodo, Viajes Genertelanos, vs Caos, Once Batallas, Fin Oscuridad, Alba-3ª Edad por regiones, actualidad)
+  - [x] LT-1b Ampliar Geografia-y-Regiones (Baile Sombras, Dagori Inkarth, Piedra Roja resumen; mapas pp. 155-162 omitidos por imágenes Q65)
+- [x] Bloque LT-2 — 06-Bestiario: biología troll (pp. 48-72)
+  - [x] Ampliar Troll-Negro, Troll-Senorial, Troll-Gran, Trollkin, Troll-Cavernas, Troll-Marino, Troll-Nieves, Troll-Selvas, Enanito-Voraz, Troll-Montanas (tipos, Uz, sentidos, dieta, anatomía, dientes, cráneos/evolución, ropa, Maldición trollkin, Gemelos)
+  - [x] Crear/ampliar Insectos-Troll (estudio Lorzalius: 16 insectos uso troll)
+- [x] Bloque LT-3 — 01-Creación: Libro de los Uz PJ troll (pp. 75-82)
+  - [x] Crear Personaje-Troll (región/subtipo/características/transfondo/profesión/equipo/dioses; tablas región y subtipo)
+- [x] Bloque LT-4 — 04-Cultos: panteón troll (pp. 81-84)
+  - [x] Ampliar Culto-Kyger-Litor (rito adopción, Hijos Karrg, sacerdotisa, Furias Grises, héroes) + Argan/Subere/Xiola/Zorak solo vínculos
+  - [x] Crear Culto-Annilla, Culto-Aranea, Culto-Gorakiki, Culto-Himile, Culto-Mee-Vorala, Culto-Qualyorni, Culto-Xentha, Culto-Zong-Cazador, Culto-Basko-Sol-Negro, Culto-Arkat-Troll (Dehore = Hombre-Astado, sin duplicar)
+- [x] Bloque LT-5 — 03-Magia: conjuros trolls (pp. 91-104)
+  - [x] Verificar/cotejar Cegar, Contra-Caos, Vision-Oscuridad (ya existen; versión Troll Pack manda)
+  - [x] Crear Salto, Morder-Piedras, Cancion-Talado, Encantar-Plomo (plantilla Conjuro + vínculo bidireccional)
+  - [x] Documentar Piedras-Mata-Caos y Maldice-Enemigos en Culto-Kyger-Litor (no notas propias)
+  - [x] Crear 8 resúmenes panteón (Exoesqueleto, Helar, Enmohecer, Fijar-Oscuridad, Invisibilidad, Telarana, Aliento-Negro, Festival-Sangriento) (Q68 cerrada; warnings retirados)
+- [x] Bloque LT-6 — Sociedad y ejército (pp. 85-96, 115-123)
+  - [x] Crear 02-Sistema/Sociedad-Troll.md (familia, ecología Colnar, gestos, hospitalidad, metalurgia, viviendas, aspecto, ejército 9 bandas Dagori, encuentros resumen, creación tribus, tácticas)
+- [x] Bloque LT-7 — 06-Bestiario: artrópodos gigantes (pp. 106-115)
+  - [x] Verificar Grampus, Hormiga-Gigante, Enjambre-Insectos sin duplicar
+  - [x] Crear Arana-Gigante, Avispa-Gigante, Cangrejo-Gigante, Ciempies-Gigante, Escarabajo-Centinela, Escarabajo-Jamon, Escorpion-Gigante, Garrapata-Gigante, Gusano-Punzante, Larva-Arena, Mantis-Gigante, Oruga-Gigante, Solpugido-Gigante, Termita-Gigante
+- [x] Bloque LT-8 — 08-Escenarios: Los-Hongos-Magicos (pp. 125-154)
+  - [x] Crear 08-Escenarios/Los-Hongos-Magicos.md (plantilla Escenario, 3 escenarios, setas, Pozo, PNJ resumen sin bloques, recompensas)
+# Ingesta Libro de los Trolls LT-4/LT-5 (encargo pp. 81-104, sin índices — cierre aparte)
+- [x] LT-4a Ampliar Culto-Kyger-Litor (rito adopción, Karrg plomo/aliados, Quemacarne, Furias, héroes, asociados, fiesta, funeral, piedras/maldice)
+- [x] LT-4b Crear 10 cultos nuevos (Gorakiki, Himile, Mee-Vorala, Xentha, Zong-Cazador, Annilla, Aranea, Qualyorni, Basko-Sol-Negro, Arkat-Troll) + Dehore solo vínculo sin duplicar
+- [x] LT-5a Verificar Cegar, Contra-Caos, Vision-Oscuridad (Troll Pack manda, pie añadido sin borrar)
+- [x] LT-5b Crear Salto, Morder-Piedras, Cancion-Talado, Encantar-Plomo + Piedras-Mata-Caos y Maldice-Enemigos en Kyger
+- [x] LT-5c Vínculo bidireccional culto-conjuro verificado (Disparo-Certero↔Zong incluido); índices NO actualizados
+
+- [x] Bloque LT-9 — Cierre
+  - [x] Actualizar Indice-Glorantha (sin notas nuevas, ampliado), Indice-Bestiario (+Insectos-Troll y 14 artrópodos), Indice-Cultos (+10 trolls), Indice-Magia (+4 completos y +8 resúmenes), Indice-Creacion-de-Personaje (+Personaje-Troll), Indice-Sistema (+Sociedad-Troll), Indice-Escenarios (+Los-Hongos-Magicos) + 00-Indice (sin secciones nuevas); Panteones solo agrupa (+lista troll)
+  - [x] Verificar bidireccional culto-conjuro (Kyger↔Salto/Morder/Canción/Plomo/Cegar/Contra/Vision; Zong↔Disparo-Certero; 8 panteón↔culto), tags, pies y warnings; TAREAS todo marcado; QUESTIONS solo con Q8, Q45 y Q62 (Q63-Q68 del Libro de los Trolls cerradas 2026-10-09, cotejo manual)

@@ -340,6 +340,18 @@ Una nota por conjuro (ver `[[Plantillas/Conjuro]]`). Este índice agrupa por tip
 - [[Separacion-Alma-Zorak]] — [[Culto-Zorak-Zoran]]
 - [[Trance-Curativo]] — [[Culto-Xiola-Umbar]]
 - [[Vision-Oscuridad]] — [[Culto-Kyger-Litor]]
+- [[Salto]] — [[Culto-Kyger-Litor]] (subculto Gerak Kag, espiritual)
+- [[Morder-Piedras]] — [[Culto-Kyger-Litor]] (héroe Muerdepiedras, solo vs enanos)
+- [[Cancion-Talado]] — [[Culto-Kyger-Litor]] (héroe Tala Árboles, ritual vs aldryani)
+- [[Encantar-Plomo]] — [[Culto-Kyger-Litor]] + [[Culto-Argan-Argar]] + [[Culto-Subere]] + [[Culto-Zorak-Zoran]] (ritual, na-metal)
+- [[Exoesqueleto]] — [[Culto-Gorakiki]] (resumen p. 83)
+- [[Helar]] — [[Culto-Himile]] (resumen p. 83)
+- [[Enmohecer]] — [[Culto-Mee-Vorala]] (resumen p. 83)
+- [[Fijar-Oscuridad]] — [[Culto-Xentha]] (resumen p. 84)
+- [[Invisibilidad]] — [[Culto-Annilla]] (resumen p. 83)
+- [[Telarana]] — [[Culto-Aranea]] (resumen p. 83)
+- [[Aliento-Negro]] — [[Culto-Qualyorni]] (resumen p. 84)
+- [[Festival-Sangriento]] — [[Culto-Basko-Sol-Negro]] (resumen p. 83)
 - [[Transmitir-Enfermedad]] — [[Culto-Malia]] + [[Culto-Thed]]
 - [[Encantamiento-de-Armadura]] — ritual divino (ver nota)
 - [[Encantamiento-de-Fortalecimiento]] — ritual divino (ver nota)

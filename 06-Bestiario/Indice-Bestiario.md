@@ -177,4 +177,24 @@ Ampliadas con experiencia previa del Avanzado: [[Broo]], [[Elfo]], [[Enano]], [[
 
 Verificadas sin duplicar: [[Espectro]], [[Espiritus]] (enfermedad y pasiones), [[Elementos-Menores]] (ondina y silfo).
 
+## Criaturas (El Libro de los Trolls)
+
+- [[Insectos-Troll]] — grupo; estudio Lorzalius (15 usos).
+- [[Arana-Gigante]] — pequeña, mediana y grande; telaraña FUE = PER.
+- [[Avispa-Gigante]]
+- [[Cangrejo-Gigante]]
+- [[Ciempies-Gigante]]
+- [[Escarabajo-Centinela]] — mascota guardiana; larva [[Gusano-Punzante]].
+- [[Escarabajo-Jamon]] — comestible, guía de enjambre.
+- [[Escorpion-Gigante]]
+- [[Garrapata-Gigante]]
+- [[Gusano-Punzante]] — larva de centinela.
+- [[Larva-Arena]]
+- [[Mantis-Gigante]]
+- [[Oruga-Gigante]]
+- [[Solpugido-Gigante]]
+- [[Termita-Gigante]] — obrera, soldado y nasuta.
+
+Verificadas sin duplicar: [[Grampus]], [[Hormiga-Gigante]], [[Enjambre-Insectos]].
+
 #runequest/bestiario

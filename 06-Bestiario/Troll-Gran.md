@@ -33,6 +33,15 @@ Al menos 1 pto. de Cuchilla Afilada, Fanatismo o Protección.
 
 Civilización negra genertelana como músculo y choque.
 
+## Biología (Libro de los Trolls)
+
+- Uzdo ("la gente grande"); intento de Cragaraña en la Segunda Edad por romper la Maldición; primeros grandes hacia 732 cerca de Hogar-Barranca tras invocar dehoris, héroes y dioses en padres y madres.
+- Tamaño señorial con INT media 9 (apenas sobre humano más tonto); digestivo y sensorial como negros; cráneo mayor que negro con menos capacidad, mandíbulas y salientes muy desarrollados.
+- Mayoría varones; cerca de mitad estériles; la otra mitad engendra casi siempre negros y a veces camadas trollkins, casi nunca grandes.
+
+Ver también [[Insectos-Troll]].
+
 #runequest/bestiario
 
 *Fuente: Glorantha: El Mundo y sus Habitantes, p. 93-94.*
+*Fuente: El Libro de los Trolls, pp. 48, 55, 65.*
