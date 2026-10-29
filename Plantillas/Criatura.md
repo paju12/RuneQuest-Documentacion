@@ -4,12 +4,26 @@
 
 ## Datos básicos
 
-| Campo | Valor |
-|---|---|
-| FUE / CON / TAM / INT / POD / DES / APA | |
-| Puntos de vida | |
-| Modificador al daño | |
-| Puntos de magia | |
+### Caracteristicas
+
+|       | FUE | CON | TAM | INT | PER | DES | ASP |
+| ----- | --- | --- | --- | --- | --- | --- | --- |
+| Dado  |     |     |     |     |     |     |     |
+| Media |     |     |     |     |     |     |     |
+
+*FUE — Fuerza*
+*CON — Constitución*
+*TAM — Tamaño*
+*INT — Inteligencia*
+*PER — Personalidad / Poder*
+*DES — Destreza*
+*ASP — Apariencia*
+
+| Puntos de vida      |     |
+| ------------------- | --- |
+| Modificador al daño |     |
+| Puntos de magia     |     |
+| Movimiento          |     |
 
 ## Ataques y armadura
 
