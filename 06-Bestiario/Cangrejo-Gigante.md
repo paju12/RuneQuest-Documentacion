@@ -4,12 +4,27 @@ Cancer maximus. Mayores artrópodos; los enormes viven en profundidad. Carroñer
 
 ## Datos básicos
 
-| Campo | Valor |
-|---|---|
-| FUE / CON / TAM / INT / PER / DES | 3D6+24 / 3D6+6 / 3D6+24 / 2 / 3D6 / 2D6 (medias ~34 / 16 / 34 / 2 / 10 / 7) |
-| Puntos de vida | 26 |
+### Caracteristicas
+
+|       | FUE | CON | TAM | INT | PER | DES | ASP |
+| ----- | --- | --- | --- | --- | --- | --- | --- |
+| Dado  | 3D6+24 | 3D6+6 | 3D6+24 | 2 | 3D6 | 2D6 | — |
+| Media | ~34 | ~16 | ~34 | ~2 | ~10 | ~7 | — |
+
+*FUE — Fuerza*
+*CON — Constitución*
+*TAM — Tamaño*
+*INT — Inteligencia*
+*PER — Personalidad / Poder*
+*DES — Destreza*
+*ASP — Apariencia*
+
+| Puntos de vida      | 26 |
+| ------------------- | --- |
 | Modificador al daño | +3D6 |
-| Puntos de magia | No; Mov 3, PF 48 |
+| Puntos de magia     | No |
+| Movimiento          | 3 |
+| Puntos de fatiga    | 48 |
 
 ## Localizaciones (resumen)
 

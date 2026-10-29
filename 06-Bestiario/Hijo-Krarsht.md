@@ -4,12 +4,27 @@ Horror subterráneo arácnido que tunela Genertela y Jrustela; nunca en superfic
 
 ## Datos básicos
 
-| Campo | Valor |
-|---|---|
-| FUE / CON / TAM / INT / POD / DES / APA | 2D6+6 / 3D6 / 2D6 / 3D6 / 2D6+12 / 3D6+6 / — (medias ~13 / 10 / 7 / 10 / 19 / 16) |
-| Puntos de vida | 9 |
+### Caracteristicas
+
+|       | FUE | CON | TAM | INT | PER | DES | ASP |
+| ----- | --- | --- | --- | --- | --- | --- | --- |
+| Dado  | 2D6+6 | 3D6 | 2D6 | 3D6 | 2D6+12 | 3D6+6 | — |
+| Media | ~13 | ~10 | ~7 | ~10 | ~19 | ~16 | — |
+
+*FUE — Fuerza*
+*CON — Constitución*
+*TAM — Tamaño*
+*INT — Inteligencia*
+*PER — Personalidad / Poder*
+*DES — Destreza*
+*ASP — Apariencia*
+
+| Puntos de vida      | 9 |
+| ------------------- | --- |
 | Modificador al daño | — |
-| Puntos de magia | 19; Mov 1, PF 24, MR-DES 2 |
+| Puntos de magia     | 19 |
+| Movimiento          | 1 |
+| Puntos de fatiga    | 24 |
 
 ## Localizaciones
 

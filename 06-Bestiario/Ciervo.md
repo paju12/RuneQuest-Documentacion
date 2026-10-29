@@ -2,12 +2,27 @@
 
 ## Datos básicos
 
-| Campo | Valor |
-|---|---|
-| FUE / CON / TAM / INT / POD / DES / APA | 2D6+6 / 3D6 / 3D6+12 / 4 / 2D6 / 3D6+6 / — (medias ~13 / 10 / 22 / 4 / 7 / 16; ciervo rojo; hembras −6 FUE/TAM sin cuernos; cola blanca FUE 2D6+2 TAM 3D6+4; gamo FUE 2D6 TAM 3D6, hembra 2D6/2D6+2) |
-| Puntos de vida | 17 |
+### Caracteristicas
+
+|       | FUE | CON | TAM | INT | PER | DES | ASP |
+| ----- | --- | --- | --- | --- | --- | --- | --- |
+| Dado  | 2D6+6 | 3D6 | 3D6+12 | 4 | 2D6 | 3D6+6 | — |
+| Media | ~13 | ~10 | ~22 | ~4 | ~7 | ~16 | — |
+
+*FUE — Fuerza*
+*CON — Constitución*
+*TAM — Tamaño*
+*INT — Inteligencia*
+*PER — Personalidad / Poder*
+*DES — Destreza*
+*ASP — Apariencia*
+
+| Puntos de vida      | 17 |
+| ------------------- | --- |
 | Modificador al daño | +1D6 |
-| Puntos de magia | No; Mov 11, PF 24 |
+| Puntos de magia     | No |
+| Movimiento          | 11 |
+| Puntos de fatiga    | 24 |
 
 ## Localizaciones
 

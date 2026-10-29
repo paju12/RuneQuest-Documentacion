@@ -4,12 +4,27 @@
 
 ## Datos básicos
 
-| Campo | Valor |
-|---|---|
-| FUE / CON / TAM / INT / POD / DES / APA | 10D6 / 3D6+12 / 10D6 / 3D6 / 3D6+6 / 1D6 / — (medias ~35 / 22 / 35 / 10 / 16 / 3) |
-| Puntos de vida | 29 |
+### Caracteristicas
+
+|       | FUE | CON | TAM | INT | PER | DES | ASP |
+| ----- | --- | --- | --- | --- | --- | --- | --- |
+| Dado  | 10D6 | 3D6+12 | 10D6 | 3D6 | 3D6+6 | 1D6 | — |
+| Media | ~35 | ~22 | ~35 | ~10 | ~16 | ~3 | — |
+
+*FUE — Fuerza*
+*CON — Constitución*
+*TAM — Tamaño*
+*INT — Inteligencia*
+*PER — Personalidad / Poder*
+*DES — Destreza*
+*ASP — Apariencia*
+
+| Puntos de vida      | 29 |
+| ------------------- | --- |
 | Modificador al daño | +3D6 aprox. |
-| Puntos de magia | = POD; Mov 2 / 5 vuelo, PF 58 |
+| Puntos de magia     | = POD |
+| Movimiento          | 2 / 5 vuelo |
+| Puntos de fatiga    | 58 |
 
 Reptiles alados sin patas, óseos y draconianos; llanuras, estepas y montañas (no bosque, salvo linderos de caza); solitarios o partidas con propósito.
 

@@ -2,13 +2,26 @@
 
 ## Datos básicos
 
-| Campo | Valor |
-|---|---|
-| FUE / CON / TAM / INT / POD / DES / APA | 6D6+32 / 4D6+21 / 4D6+32 / 3 (fija) / 2D6+6 / 2D6+9 / — (medias ~53 / 35 / 46 / 3 / 13 / 16) |
-| Puntos de vida | 41 |
+### Caracteristicas
+
+|       | FUE | CON | TAM | INT | PER | DES | ASP |
+| ----- | --- | --- | --- | --- | --- | --- | --- |
+| Dado  | 6D6+32 | 4D6+21 | 4D6+32 | 3 (fija) | 2D6+6 | 2D6+9 | — |
+| Media | ~53 | ~35 | ~46 | ~3 | ~13 | ~16 | — |
+
+*FUE — Fuerza*
+*CON — Constitución*
+*TAM — Tamaño*
+*INT — Inteligencia*
+*PER — Personalidad / Poder*
+*DES — Destreza*
+*ASP — Apariencia*
+
+| Puntos de vida      | 41 |
+| ------------------- | --- |
 | Modificador al daño | +5D6 aprox. |
-| Puntos de magia | No |
-| Movimiento | 6 |
+| Puntos de magia     | No |
+| Movimiento          | 6 |
 
 > [!warning]
 > PF 18 del OCR probablemente con dígito perdido (FUE+CON ≈ 88); cotejar p. 75 del manual.

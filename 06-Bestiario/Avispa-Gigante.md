@@ -4,12 +4,27 @@ Vespa gigantics. Colonia carnívora voladora de más de 2 m de cabeza a aguijón
 
 ## Datos básicos
 
-| Campo | Valor |
-|---|---|
-| FUE / CON / TAM / INT / PER / DES | 4D6 / 3D6 / 3D6+6 / 2 / 2D6 / 2D6+12 |
-| Puntos de vida | 14 |
+### Caracteristicas
+
+|       | FUE | CON | TAM | INT | PER | DES | ASP |
+| ----- | --- | --- | --- | --- | --- | --- | --- |
+| Dado  | 4D6 | 3D6 | 3D6+6 | 2 | 2D6 | 2D6+12 | — |
+| Media | — | — | — | — | — | — | — |
+
+*FUE — Fuerza*
+*CON — Constitución*
+*TAM — Tamaño*
+*INT — Inteligencia*
+*PER — Personalidad / Poder*
+*DES — Destreza*
+*ASP — Apariencia*
+
+| Puntos de vida      | 14 |
+| ------------------- | --- |
 | Modificador al daño | +1D4 |
-| Puntos de magia | No; Mov 2 (25 volando), PF 25 |
+| Puntos de magia     | No |
+| Movimiento          | 2 (25 volando) |
+| Puntos de fatiga    | 25 |
 
 ## Localizaciones (resumen)
 

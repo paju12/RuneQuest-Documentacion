@@ -2,12 +2,27 @@
 
 ## Datos básicos
 
-| Campo | Valor |
-|---|---|
-| FUE / CON / TAM / INT / POD / DES / APA | 3D6×2 / 3D6×2 / 2D6+6 / 2D6+6 / — / 3D6 / 3D6 (medias ~21 / 21 / 13 / 13 / — / 10 / 10; FUE y CON dobles que en vida) |
-| Puntos de vida | 18 |
+### Caracteristicas
+
+|       | FUE | CON | TAM | INT | PER | DES | ASP |
+| ----- | --- | --- | --- | --- | --- | --- | --- |
+| Dado  | 3D6×2 | 3D6×2 | 2D6+6 | 2D6+6 | — | 3D6 | 3D6 |
+| Media | ~21 | ~21 | ~13 | ~13 | — | ~10 | ~10 |
+
+*FUE — Fuerza*
+*CON — Constitución*
+*TAM — Tamaño*
+*INT — Inteligencia*
+*PER — Personalidad / Poder*
+*DES — Destreza*
+*ASP — Apariencia*
+
+| Puntos de vida      | 18 |
+| ------------------- | --- |
 | Modificador al daño | Mordisco = mod. (mín. 1D3) |
-| Puntos de magia | PM 2D6+6 (3D6/noche sin sarcófago con tierra; 1D6/noche en movimiento; a cero inconsciente en cripta); Mov de la raza +1, PF variables (pierde PM actuales/noche; solo se recuperan con sangre) |
+| Puntos de magia     | PM 2D6+6 (3D6/noche sin sarcófago con tierra; 1D6/noche en movimiento; a cero inconsciente en cripta) |
+| Movimiento          | de la raza +1 |
+| Puntos de fatiga    | variables (pierde PM actuales/noche; solo se recuperan con sangre) |
 
 ## Localizaciones
 

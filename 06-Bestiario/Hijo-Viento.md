@@ -4,12 +4,27 @@ Humano con alas emplumadas; cruce blasfemo de humanidad y tormentas ligado a la 
 
 ## Datos básicos
 
-| Campo | Valor |
-|---|---|
-| FUE / CON / TAM / INT / POD / DES / APA | 2D6 / 3D6 / 2D6 / 2D6+6 / 2D6+6 / 3D6+6 / 2D6+6 (medias ~7 / 10 / 7 / 13 / 13 / 16 / 13) |
-| Puntos de vida | 9 |
+### Caracteristicas
+
+|       | FUE | CON | TAM | INT | PER | DES | ASP |
+| ----- | --- | --- | --- | --- | --- | --- | --- |
+| Dado  | 2D6 | 3D6 | 2D6 | 2D6+6 | 2D6+6 | 3D6+6 | 2D6+6 |
+| Media | ~7 | ~10 | ~7 | ~13 | ~13 | ~16 | ~13 |
+
+*FUE — Fuerza*
+*CON — Constitución*
+*TAM — Tamaño*
+*INT — Inteligencia*
+*PER — Personalidad / Poder*
+*DES — Destreza*
+*ASP — Apariencia*
+
+| Puntos de vida      | 9 |
+| ------------------- | --- |
 | Modificador al daño | — |
-| Puntos de magia | 13; Mov 3 (10 volando), PF 18, MR-DES 2 |
+| Puntos de magia     | 13 |
+| Movimiento          | 3 (10 volando) |
+| Puntos de fatiga    | 18 |
 
 ## Localizaciones
 

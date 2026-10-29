@@ -4,12 +4,27 @@ Aberración primitiva emparentada con la Señorial; sonar sin rival copiado por 
 
 ## Datos básicos
 
-| Campo | Valor |
-|---|---|
-| FUE / CON / TAM / INT / POD / DES / APA | 2D6+12 / 2D6+6 / 3D6+12 / 2D4 / 2D6 / 3D6 / 2D6 (medias ~19 / 13 / 22 / 5 / 7 / 10 / 7) |
-| Puntos de vida | 18 |
+### Caracteristicas
+
+|       | FUE | CON | TAM | INT | PER | DES | ASP |
+| ----- | --- | --- | --- | --- | --- | --- | --- |
+| Dado  | 2D6+12 | 2D6+6 | 3D6+12 | 2D4 | 2D6 | 3D6 | 2D6 |
+| Media | ~19 | ~13 | ~22 | ~5 | ~7 | ~10 | ~7 |
+
+*FUE — Fuerza*
+*CON — Constitución*
+*TAM — Tamaño*
+*INT — Inteligencia*
+*PER — Personalidad / Poder*
+*DES — Destreza*
+*ASP — Apariencia*
+
+| Puntos de vida      | 18 |
+| ------------------- | --- |
 | Modificador al daño | +2D6 |
-| Puntos de magia | 7; Mov 3 (5 nadando), PF 32, MR-DES 3 |
+| Puntos de magia     | 7 |
+| Movimiento          | 3 (5 nadando) |
+| Puntos de fatiga    | 32 |
 
 ## Localizaciones
 

@@ -4,12 +4,27 @@ También llamado llama gigante; camello altísimo como jirafa en rebaños de Yer
 
 ## Datos básicos
 
-| Campo | Valor |
-|---|---|
-| FUE / CON / TAM / INT / POD / DES / APA | 3D6+24 / 2D6+9 / 3D6+30 / 4 / 3D6 / 3D6 / — (medias ~35 / 16 / 40 / 4 / 10 / 10; hembras FUE 3D6+18, TAM 3D6+24) |
-| Puntos de vida | 29 |
+### Caracteristicas
+
+|       | FUE | CON | TAM | INT | PER | DES | ASP |
+| ----- | --- | --- | --- | --- | --- | --- | --- |
+| Dado  | 3D6+24 | 2D6+9 | 3D6+30 | 4 | 3D6 | 3D6 | — |
+| Media | ~35 | ~16 | ~40 | ~4 | ~10 | ~10 | — |
+
+*FUE — Fuerza*
+*CON — Constitución*
+*TAM — Tamaño*
+*INT — Inteligencia*
+*PER — Personalidad / Poder*
+*DES — Destreza*
+*ASP — Apariencia*
+
+| Puntos de vida      | 29 |
+| ------------------- | --- |
 | Modificador al daño | +4D6 |
-| Puntos de magia | —; Mov 10, PF 52, MR-DES 3 |
+| Puntos de magia     | — |
+| Movimiento          | 10 |
+| Puntos de fatiga    | 52 |
 
 ## Localizaciones
 

@@ -2,12 +2,27 @@
 
 ## Datos básicos
 
-| Campo | Valor |
-|---|---|
-| FUE / CON / TAM / INT / POD / DES / APA | 2D6+6 / 2D6+6 / 4D6 / 2 (fija) / 2D6 / 2D6+3 / — (medias ~13 / 13 / 14 / 2 / 7 / 10) |
-| Puntos de vida | 14 |
+### Caracteristicas
+
+|       | FUE | CON | TAM | INT | PER | DES | ASP |
+| ----- | --- | --- | --- | --- | --- | --- | --- |
+| Dado  | 2D6+6 | 2D6+6 | 4D6 | 2 (fija) | 2D6 | 2D6+3 | — |
+| Media | ~13 | ~13 | ~14 | ~2 | ~7 | ~10 | — |
+
+*FUE — Fuerza*
+*CON — Constitución*
+*TAM — Tamaño*
+*INT — Inteligencia*
+*PER — Personalidad / Poder*
+*DES — Destreza*
+*ASP — Apariencia*
+
+| Puntos de vida      | 14 |
+| ------------------- | --- |
 | Modificador al daño | +1D4 aprox. |
-| Puntos de magia | No; Mov 3, PF 26 |
+| Puntos de magia     | No |
+| Movimiento          | 3 |
+| Puntos de fatiga    | 26 |
 
 Gigantes de colinas, cavernas y ruinas; carnívoros y carroñeros; solanas matinales en grupo; lentos y estúpidos.
 

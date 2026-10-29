@@ -4,12 +4,27 @@ Caótico como ninfa de fertilidad del residuo psíquico tras perversión, violac
 
 ## Datos básicos
 
-| Campo | Valor |
-|---|---|
-| FUE / CON / TAM / INT / POD / DES / APA | 5D6 / 2D6+15 / hasta POD / 3D6+6 / 2D6+12 / 4D6 / 2D6+18 (medias ~17 / 22 / variable / 16 / 19 / 14 / 25) |
-| Puntos de vida | Iguales a CON |
+### Caracteristicas
+
+|       | FUE | CON | TAM | INT | PER | DES | ASP |
+| ----- | --- | --- | --- | --- | --- | --- | --- |
+| Dado  | 5D6 | 2D6+15 | hasta POD | 3D6+6 | 2D6+12 | 4D6 | 2D6+18 |
+| Media | ~17 | ~22 | variable | ~16 | ~19 | ~14 | ~25 |
+
+*FUE — Fuerza*
+*CON — Constitución*
+*TAM — Tamaño*
+*INT — Inteligencia*
+*PER — Personalidad / Poder*
+*DES — Destreza*
+*ASP — Apariencia*
+
+| Puntos de vida      | Iguales a CON |
+| ------------------- | --- |
 | Modificador al daño | Variable |
-| Puntos de magia | 19; Mov 4, PF 33, MR-DES 3 |
+| Puntos de magia     | 19 |
+| Movimiento          | 4 |
+| Puntos de fatiga    | 33 |
 
 ## Localizaciones
 

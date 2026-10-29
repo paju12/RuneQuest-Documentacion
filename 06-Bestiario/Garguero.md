@@ -4,12 +4,27 @@ Inhumano desnutrido de brazos delgados, garras y cabezota deforme con melena. Gu
 
 ## Datos básicos
 
-| Campo | Valor |
-|---|---|
-| FUE / CON / TAM / INT / POD / DES / APA | 2D6+12 / 2D6+6 / 3D6+12 / 3D6 / 1D6+12 / 1D6+18 / 2D6 (medias ~19 / 13 / 22 / 10 / 15 / 21 / 7) |
-| Puntos de vida | 18 |
+### Caracteristicas
+
+|       | FUE | CON | TAM | INT | PER | DES | ASP |
+| ----- | --- | --- | --- | --- | --- | --- | --- |
+| Dado  | 2D6+12 | 2D6+6 | 3D6+12 | 3D6 | 1D6+12 | 1D6+18 | 2D6 |
+| Media | ~19 | ~13 | ~22 | ~10 | ~15 | ~21 | ~7 |
+
+*FUE — Fuerza*
+*CON — Constitución*
+*TAM — Tamaño*
+*INT — Inteligencia*
+*PER — Personalidad / Poder*
+*DES — Destreza*
+*ASP — Apariencia*
+
+| Puntos de vida      | 18 |
+| ------------------- | --- |
 | Modificador al daño | +2D6 |
-| Puntos de magia | 15-16; Mov 9, PF 32, MR-DES 1 |
+| Puntos de magia     | 15-16 |
+| Movimiento          | 9 |
+| Puntos de fatiga    | 32 |
 
 ## Localizaciones
 

@@ -4,12 +4,27 @@ Pacífico acuático de ríos cálidos y costas (Enkloso y Vralos con criaderos d
 
 ## Datos básicos
 
-| Campo | Valor |
-|---|---|
-| FUE / CON / TAM / INT / POD / DES / APA | 2D6+6 / 2D6+6 / 3D6+12 / 4 / 2D6 / 1D6+6 / — (medias ~13 / 13 / 22 / 4 / 7 / 9; hembras FUE 3D6+6, TAM 4D6+12) |
-| Puntos de vida | 18 |
+### Caracteristicas
+
+|       | FUE | CON | TAM | INT | PER | DES | ASP |
+| ----- | --- | --- | --- | --- | --- | --- | --- |
+| Dado  | 2D6+6 | 2D6+6 | 3D6+12 | 4 | 2D6 | 1D6+6 | — |
+| Media | ~13 | ~13 | ~22 | ~4 | ~7 | ~9 | — |
+
+*FUE — Fuerza*
+*CON — Constitución*
+*TAM — Tamaño*
+*INT — Inteligencia*
+*PER — Personalidad / Poder*
+*DES — Destreza*
+*ASP — Apariencia*
+
+| Puntos de vida      | 18 |
+| ------------------- | --- |
 | Modificador al daño | +1D6 |
-| Puntos de magia | —; Mov 1 nadando, PF 26, MR-DES 3-4 |
+| Puntos de magia     | — |
+| Movimiento          | 1 nadando |
+| Puntos de fatiga    | 26 |
 
 ## Localizaciones
 

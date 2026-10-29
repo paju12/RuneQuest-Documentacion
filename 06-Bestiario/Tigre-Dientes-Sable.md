@@ -4,12 +4,27 @@ Piel marrón y dorada; doraddis lo respetan. Varias especies pamaltelanas (una r
 
 ## Datos básicos
 
-| Campo | Valor |
-|---|---|
-| FUE / CON / TAM / INT / POD / DES / APA | 4D6+18 / 2D6+10 / 4D6+12 / 4 / 2D6+6 / 2D6+10 / — (medias ~32 / 17 / 26 / 4 / 13 / 17) |
-| Puntos de vida | 22 |
+### Caracteristicas
+
+|       | FUE | CON | TAM | INT | PER | DES | ASP |
+| ----- | --- | --- | --- | --- | --- | --- | --- |
+| Dado  | 4D6+18 | 2D6+10 | 4D6+12 | 4 | 2D6+6 | 2D6+10 | — |
+| Media | ~32 | ~17 | ~26 | ~4 | ~13 | ~17 | — |
+
+*FUE — Fuerza*
+*CON — Constitución*
+*TAM — Tamaño*
+*INT — Inteligencia*
+*PER — Personalidad / Poder*
+*DES — Destreza*
+*ASP — Apariencia*
+
+| Puntos de vida      | 22 |
+| ------------------- | --- |
 | Modificador al daño | +2D6 |
-| Puntos de magia | —; Mov 4, PF 49, MR-DES 2 |
+| Puntos de magia     | — |
+| Movimiento          | 4 |
+| Puntos de fatiga    | 49 |
 
 ## Localizaciones
 

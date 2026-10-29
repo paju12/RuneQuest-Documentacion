@@ -4,12 +4,27 @@ Monstruo artificial como basilisco siniestro donde haya hechiceros: gallo grande
 
 ## Datos básicos
 
-| Campo | Valor |
-|---|---|
-| FUE / CON / TAM / INT / POD / DES / APA | 2D6+6 / 3D6 / 2D6+3 / 4 / 1D6+12 / 3D6+12 / — (medias ~13 / 10 / 10 / 4 / 15 / 22) |
-| Puntos de vida | 11 |
+### Caracteristicas
+
+|       | FUE | CON | TAM | INT | PER | DES | ASP |
+| ----- | --- | --- | --- | --- | --- | --- | --- |
+| Dado  | 2D6+6 | 3D6 | 2D6+3 | 4 | 1D6+12 | 3D6+12 | — |
+| Media | ~13 | ~10 | ~10 | ~4 | ~15 | ~22 | — |
+
+*FUE — Fuerza*
+*CON — Constitución*
+*TAM — Tamaño*
+*INT — Inteligencia*
+*PER — Personalidad / Poder*
+*DES — Destreza*
+*ASP — Apariencia*
+
+| Puntos de vida      | 11 |
+| ------------------- | --- |
 | Modificador al daño | — |
-| Puntos de magia | —; Mov 3 (5 volando), PF 24, MR-DES 2 |
+| Puntos de magia     | — |
+| Movimiento          | 3 (5 volando) |
+| Puntos de fatiga    | 24 |
 
 ## Localizaciones
 

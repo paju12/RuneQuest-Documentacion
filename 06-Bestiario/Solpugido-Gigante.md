@@ -4,12 +4,27 @@ Solpuga hypotheticus. Arácnido feroz nocturno del desierto, mezcla de hormiga a
 
 ## Datos básicos
 
-| Campo | Valor |
-|---|---|
-| FUE / CON / TAM / INT / PER / DES | 3D6+24 / 3D6+9 / 2D6+18 / 2 / 2D6+3 / 2D6+18 (medias ~34 / 19 / 25 / 2 / 10 / 25) |
-| Puntos de vida | 23 |
+### Caracteristicas
+
+|       | FUE | CON | TAM | INT | PER | DES | ASP |
+| ----- | --- | --- | --- | --- | --- | --- | --- |
+| Dado  | 3D6+24 | 3D6+9 | 2D6+18 | 2 | 2D6+3 | 2D6+18 | — |
+| Media | ~34 | ~19 | ~25 | ~2 | ~10 | ~25 | — |
+
+*FUE — Fuerza*
+*CON — Constitución*
+*TAM — Tamaño*
+*INT — Inteligencia*
+*PER — Personalidad / Poder*
+*DES — Destreza*
+*ASP — Apariencia*
+
+| Puntos de vida      | 23 |
+| ------------------- | --- |
 | Modificador al daño | Palpo mitad del modificador |
-| Puntos de magia | No; Mov 12, PF 54 |
+| Puntos de magia     | No |
+| Movimiento          | 12 |
+| Puntos de fatiga    | 54 |
 
 ## Localizaciones (resumen)
 

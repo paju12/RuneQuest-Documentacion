@@ -4,12 +4,26 @@ Liso y escurridizo sin escamas como anguila; cruce de feto humano y renacuajo co
 
 ## Datos básicos
 
-| Campo | Valor |
-|---|---|
-| FUE / CON / TAM / INT / POD / DES / APA | 3D6 / 6D6 / 2D6+4 / 2D6+6 / 2D6 / 3D6+6 / 2D6 (medias ~10 / 21 / 11 / 13 / 7 / 16 / 7) |
-| Puntos de vida | 16 |
+### Caracteristicas
+
+|       | FUE | CON | TAM | INT | PER | DES | ASP |
+| ----- | --- | --- | --- | --- | --- | --- | --- |
+| Dado  | 3D6 | 6D6 | 2D6+4 | 2D6+6 | 2D6 | 3D6+6 | 2D6 |
+| Media | ~10 | ~21 | ~11 | ~13 | ~7 | ~16 | ~7 |
+
+*FUE — Fuerza*
+*CON — Constitución*
+*TAM — Tamaño*
+*INT — Inteligencia*
+*PER — Personalidad / Poder*
+*DES — Destreza*
+*ASP — Apariencia*
+
+| Puntos de vida      | 16 |
+| ------------------- | --- |
 | Modificador al daño | — |
-| Puntos de magia | 7; Mov 1, PF 32, MR-DES 2 |
+| Puntos de magia     | 7 |
+| Movimiento          | 1 |
 
 ## Localizaciones
 

@@ -4,12 +4,27 @@ Fila genérica de ataques verificada: MR 5 (+tipo de arma), Ataque +9, Daño seg
 
 ## Datos básicos
 
-| Campo | Valor |
-|---|---|
-| FUE / CON / TAM / INT / POD / DES / APA | 2D6+12 / 2D6+6 / 2D6+6 / 2D6+6 / 2D6+6 / 3D6 / 3D6+3 (medias ~19 / 13 / 13 / 13 / 13 / 10 / 13) |
-| Puntos de vida | 13 |
+### Caracteristicas
+
+|       | FUE | CON | TAM | INT | PER | DES | ASP |
+| ----- | --- | --- | --- | --- | --- | --- | --- |
+| Dado  | 2D6+12 | 2D6+6 | 2D6+6 | 2D6+6 | 2D6+6 | 3D6 | 3D6+3 |
+| Media | ~19 | ~13 | ~13 | ~13 | ~13 | ~10 | ~13 |
+
+*FUE — Fuerza*
+*CON — Constitución*
+*TAM — Tamaño*
+*INT — Inteligencia*
+*PER — Personalidad / Poder*
+*DES — Destreza*
+*ASP — Apariencia*
+
+| Puntos de vida      | 13 |
+| ------------------- | --- |
 | Modificador al daño | +1D4/+1D6 según suma |
-| Puntos de magia | = POD; Mov 3, PF 32 |
+| Puntos de magia     | = POD |
+| Movimiento          | 3 |
+| Puntos de fatiga    | 32 |
 
 Semejan humanos de Cornwall: talla humana, dientes puntiagudos carnívoros; raros, a veces agraciados. Hembras igual de altas que varones.
 

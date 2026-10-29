@@ -2,12 +2,27 @@
 
 ## Datos básicos
 
-| Campo | Valor |
-|---|---|
-| FUE / CON / TAM / INT / POD / DES / APA | 2D6 / 2D6+12 / 2D3 / 2D6+6 / 2D6+3 / 2D6+10 / 3D6 (medias ~7 / 19 / 4 / 13 / 10 / 17 / 10) |
-| Puntos de vida | 12 |
+### Caracteristicas
+
+|       | FUE | CON | TAM | INT | PER | DES | ASP |
+| ----- | --- | --- | --- | --- | --- | --- | --- |
+| Dado  | 2D6 | 2D6+12 | 2D3 | 2D6+6 | 2D6+3 | 2D6+10 | 3D6 |
+| Media | ~7 | ~19 | ~4 | ~13 | ~10 | ~17 | ~10 |
+
+*FUE — Fuerza*
+*CON — Constitución*
+*TAM — Tamaño*
+*INT — Inteligencia*
+*PER — Personalidad / Poder*
+*DES — Destreza*
+*ASP — Apariencia*
+
+| Puntos de vida      | 12 |
+| ------------------- | --- |
 | Modificador al daño | −1D4/0 |
-| Puntos de magia | = POD; Mov 2, PF 26 |
+| Puntos de magia     | = POD |
+| Movimiento          | 2 |
+| Puntos de fatiga    | 26 |
 
 Pequeños robustos de clima templado, subterráneos en colinas; aldeas prósperas, cocina y despensas famosas. Sin dimorfismo notable.
 

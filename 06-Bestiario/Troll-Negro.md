@@ -2,12 +2,27 @@
 
 ## Datos básicos
 
-| Campo | Valor |
-|---|---|
-| FUE / CON / TAM / INT / POD / DES / APA | 3D6+6 / 3D6 / 3D6+8 / 2D6+6 / 3D6 / 3D6 / 3D6 (medias ~16 / 10 / 18 / 13 / 10 / 10 / 10; hembras TAM 3D6+10) |
-| Puntos de vida | 15 |
+### Caracteristicas
+
+|       | FUE | CON | TAM | INT | PER | DES | ASP |
+| ----- | --- | --- | --- | --- | --- | --- | --- |
+| Dado  | 3D6+6 | 3D6 | 3D6+8 | 2D6+6 | 3D6 | 3D6 | 3D6 |
+| Media | ~16 | ~10 | ~18 | ~13 | ~10 | ~10 | ~10 |
+
+*FUE — Fuerza*
+*CON — Constitución*
+*TAM — Tamaño*
+*INT — Inteligencia*
+*PER — Personalidad / Poder*
+*DES — Destreza*
+*ASP — Apariencia*
+
+| Puntos de vida      | 15 |
+| ------------------- | --- |
 | Modificador al daño | +1D6 aprox. |
-| Puntos de magia | = POD; Mov 3, PF 27 |
+| Puntos de magia     | = POD |
+| Movimiento          | 3 |
+| Puntos de fatiga    | 27 |
 
 Uzko: ~2 m y 130 kg, hocico, colmillos, piel gris moteada, obesidad musculosa agachada lista. Raza antiquísima con gigantes y enanos propios.
 

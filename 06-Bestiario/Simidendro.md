@@ -4,12 +4,27 @@ Elfo degenerado atrofiado con cultura propia entre árboles aldryanis (verdes, m
 
 ## Datos básicos
 
-| Campo | Valor |
-|---|---|
-| FUE / CON / TAM / INT / POD / DES / APA | 2D6 / 2D6+6 / 2D6 / 3D6 / 3D6 / 2D6+6 / 3D6 (medias ~7 / 13 / 7 / 10 / 10 / 13 / 10) |
-| Puntos de vida | 10 |
+### Caracteristicas
+
+|       | FUE | CON | TAM | INT | PER | DES | ASP |
+| ----- | --- | --- | --- | --- | --- | --- | --- |
+| Dado  | 2D6 | 2D6+6 | 2D6 | 3D6 | 3D6 | 2D6+6 | 3D6 |
+| Media | ~7 | ~13 | ~7 | ~10 | ~10 | ~13 | ~10 |
+
+*FUE — Fuerza*
+*CON — Constitución*
+*TAM — Tamaño*
+*INT — Inteligencia*
+*PER — Personalidad / Poder*
+*DES — Destreza*
+*ASP — Apariencia*
+
+| Puntos de vida      | 10 |
+| ------------------- | --- |
 | Modificador al daño | — |
-| Puntos de magia | 10-11; Mov 2 (3 en árboles), PF 20, MR-DES 3 |
+| Puntos de magia     | 10-11 |
+| Movimiento          | 2 (3 en árboles) |
+| Puntos de fatiga    | 20 |
 
 ## Localizaciones
 

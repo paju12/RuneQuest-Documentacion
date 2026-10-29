@@ -4,12 +4,27 @@ Caótico montañés de Kalorela de cabezota ósea como el torso, miembros nervud
 
 ## Datos básicos
 
-| Campo | Valor |
-|---|---|
-| FUE / CON / TAM / INT / POD / DES / APA | 3D6+12 / 3D6+6 / 4D6+12 / 3D6+6 / 1D6+12 / 3D6 / 2D6 (medias ~22 / 16 / 26 / 16 / 15 / 10 / 7) |
-| Puntos de vida | 22 |
+### Caracteristicas
+
+|       | FUE | CON | TAM | INT | PER | DES | ASP |
+| ----- | --- | --- | --- | --- | --- | --- | --- |
+| Dado  | 3D6+12 | 3D6+6 | 4D6+12 | 3D6+6 | 1D6+12 | 3D6 | 2D6 |
+| Media | ~22 | ~16 | ~26 | ~16 | ~15 | ~10 | ~7 |
+
+*FUE — Fuerza*
+*CON — Constitución*
+*TAM — Tamaño*
+*INT — Inteligencia*
+*PER — Personalidad / Poder*
+*DES — Destreza*
+*ASP — Apariencia*
+
+| Puntos de vida      | 22 |
+| ------------------- | --- |
 | Modificador al daño | +2D6 |
-| Puntos de magia | 15-16; Mov 5, PF 39, MR-DES 3 |
+| Puntos de magia     | 15-16 |
+| Movimiento          | 5 |
+| Puntos de fatiga    | 39 |
 
 ## Localizaciones
 

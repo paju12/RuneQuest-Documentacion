@@ -2,12 +2,26 @@
 
 ## Datos básicos
 
-| Campo | Valor |
-|---|---|
-| FUE / CON / TAM / INT / POD / DES / APA | — / — / — / 2D6+6 / 4D6 / — / — (medias ~13 / 14) |
-| Puntos de vida | Sin PG (incorpóreo; solo PM) |
+### Caracteristicas
+
+|       | FUE | CON | TAM | INT | PER | DES | ASP |
+| ----- | --- | --- | --- | --- | --- | --- | --- |
+| Dado  | — | — | — | 2D6+6 | 4D6 | — | — |
+| Media | — | — | — | ~13 | ~14 | — | — |
+
+*FUE — Fuerza*
+*CON — Constitución*
+*TAM — Tamaño*
+*INT — Inteligencia*
+*PER — Personalidad / Poder*
+*DES — Destreza*
+*ASP — Apariencia*
+
+| Puntos de vida      | Sin PG (incorpóreo; solo PM) |
+| ------------------- | --- |
 | Modificador al daño | — |
-| Puntos de magia | = POD; Mov = POD |
+| Puntos de magia     | = POD |
+| Movimiento          | = POD |
 
 Espíritus de muertos atados a lugar u objeto (no lo abandonan o deben volver). Mayoría malignos, locos, odian vivos.
 

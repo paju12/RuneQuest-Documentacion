@@ -2,12 +2,27 @@
 
 ## Datos básicos
 
-| Campo | Valor |
-|---|---|
-| FUE / CON / TAM / INT / POD / DES / APA | 0 / 3D6 / 6D6 / 1 / 3D6 / 0 / — (medias — / 10 / 21 / 1 / 10 / —) |
-| Puntos de vida | 16 (localización única: cuerpo 01-20 en Cc y Proyectiles) |
+### Caracteristicas
+
+|       | FUE | CON | TAM | INT | PER | DES | ASP |
+| ----- | --- | --- | --- | --- | --- | --- | --- |
+| Dado  | 0 | 3D6 | 6D6 | 1 | 3D6 | 0 | — |
+| Media | — | ~10 | ~21 | ~1 | ~10 | — | — |
+
+*FUE — Fuerza*
+*CON — Constitución*
+*TAM — Tamaño*
+*INT — Inteligencia*
+*PER — Personalidad / Poder*
+*DES — Destreza*
+*ASP — Apariencia*
+
+| Puntos de vida      | 16 (localización única: cuerpo 01-20 en Cc y Proyectiles) |
+| ------------------- | --- |
 | Modificador al daño | — (ácido fijo) |
-| Puntos de magia | No regenera (criatura sin alma); Mov 1, MR 1 |
+| Puntos de magia     | No regenera (criatura sin alma) |
+| Movimiento          | 1 |
+| Puntos de fatiga    | MR 1 |
 
 Borrones informes pútridos de cursos de agua y ruinas; anfibios.
 

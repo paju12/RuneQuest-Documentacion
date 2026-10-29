@@ -2,12 +2,27 @@
 
 ## Datos básicos
 
-| Campo | Valor |
-|---|---|
-| FUE / CON / TAM / INT / POD / DES / APA | 1D6+1 / 3D6 / 1D6 / 5 / 1D6+6 / 2D6+6 / — (medias ~4 / 10 / 3 / 5 / 9 / 13; dholes, licaones, huskys, dingos; otras razas a diseño del Master) |
-| Puntos de vida | 7 |
+### Caracteristicas
+
+|       | FUE | CON | TAM | INT | PER | DES | ASP |
+| ----- | --- | --- | --- | --- | --- | --- | --- |
+| Dado  | 1D6+1 | 3D6 | 1D6 | 5 | 1D6+6 | 2D6+6 | — |
+| Media | ~4 | ~10 | ~3 | ~5 | ~9 | ~13 | — |
+
+*FUE — Fuerza*
+*CON — Constitución*
+*TAM — Tamaño*
+*INT — Inteligencia*
+*PER — Personalidad / Poder*
+*DES — Destreza*
+*ASP — Apariencia*
+
+| Puntos de vida      | 7 |
+| ------------------- | --- |
 | Modificador al daño | −1D4 |
-| Puntos de magia | No; Mov 7, PF 15 |
+| Puntos de magia     | No |
+| Movimiento          | 7 |
+| Puntos de fatiga    | 15 |
 
 ## Localizaciones
 

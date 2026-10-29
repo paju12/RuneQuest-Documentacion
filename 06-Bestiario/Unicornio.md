@@ -2,12 +2,27 @@
 
 ## Datos básicos
 
-| Campo | Valor |
-|---|---|
-| FUE / CON / TAM / INT / POD / DES / APA | 2D6+24 / 2D6+6 / 2D6+18 / 2D6+6 / 2D6+12 / 2D6+6 / 4D6 (medias ~31 / 13 / 25 / 13 / 19 / 13 / 14) |
-| Puntos de vida | 19 |
+### Caracteristicas
+
+|       | FUE | CON | TAM | INT | PER | DES | ASP |
+| ----- | --- | --- | --- | --- | --- | --- | --- |
+| Dado  | 2D6+24 | 2D6+6 | 2D6+18 | 2D6+6 | 2D6+12 | 2D6+6 | 4D6 |
+| Media | ~31 | ~13 | ~25 | ~13 | ~19 | ~13 | ~14 |
+
+*FUE — Fuerza*
+*CON — Constitución*
+*TAM — Tamaño*
+*INT — Inteligencia*
+*PER — Personalidad / Poder*
+*DES — Destreza*
+*ASP — Apariencia*
+
+| Puntos de vida      | 19 |
+| ------------------- | --- |
 | Modificador al daño | +2D6 aprox. |
-| Puntos de magia | = POD; Mov 11, PF 44 |
+| Puntos de magia     | = POD |
+| Movimiento          | 11 |
+| Puntos de fatiga    | 44 |
 
 Caballo blanco de cascos hendidos, cola leonina y cuerno espiral; solo bosques frondosos; solitarios; inteligentes e inmortales salvo muerte; solo tratan con elfas o vírgenes.
 

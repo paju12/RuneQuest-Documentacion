@@ -2,12 +2,27 @@
 
 ## Datos básicos
 
-| Campo | Valor |
-|---|---|
-| FUE / CON / TAM / INT / POD / DES / APA | 2-12D6 / mitad del TAM en D6 / 2-12D6 / 2 / 3D6 / 3D6 / — (medias ~7-42 / 3-21 / 7-42 / 2 / 10 / 10; renacuajos de 1 m acuáticos hasta perder cola) |
-| Puntos de vida | 5-32 |
+### Caracteristicas
+
+|       | FUE | CON | TAM | INT | PER | DES | ASP |
+| ----- | --- | --- | --- | --- | --- | --- | --- |
+| Dado  | 2-12D6 | mitad del TAM en D6 | 2-12D6 | 2 | 3D6 | 3D6 | — |
+| Media | ~7-42 | 3-21 | ~7-42 | ~2 | ~10 | ~10 | — |
+
+*FUE — Fuerza*
+*CON — Constitución*
+*TAM — Tamaño*
+*INT — Inteligencia*
+*PER — Personalidad / Poder*
+*DES — Destreza*
+*ASP — Apariencia*
+
+| Puntos de vida      | 5-32 |
+| ------------------- | --- |
 | Modificador al daño | Lengua = mod.; Patada ver abajo |
-| Puntos de magia | No; Mov salto 2 m/D6 de TAM cada 2 MR; PF 10-63 |
+| Puntos de magia     | No |
+| Movimiento          | salto 2 m/D6 de TAM cada 2 MR |
+| Puntos de fatiga    | 10-63 |
 
 ## Localizaciones (ejemplar de la fuente, Q52)
 

@@ -2,12 +2,26 @@
 
 ## Datos básicos
 
-| Campo | Valor |
-|---|---|
-| FUE / CON / TAM / INT / POD / DES / APA | 2D6+2 / 3D6 / 2D4+4 / 3D6+6 / 2D6+6 / 3D6+3 / 3D6 (medias ~9 / 10 / 9 / 16 / 13 / 13 / 10) |
-| Puntos de vida | 10 |
+### Caracteristicas
+
+|       | FUE | CON | TAM | INT | PER | DES | ASP |
+| ----- | --- | --- | --- | --- | --- | --- | --- |
+| Dado  | 2D6+2 | 3D6 | 2D4+4 | 3D6+6 | 2D6+6 | 3D6+3 | 3D6 |
+| Media | ~9 | ~10 | ~9 | ~16 | ~13 | ~13 | ~10 |
+
+*FUE — Fuerza*
+*CON — Constitución*
+*TAM — Tamaño*
+*INT — Inteligencia*
+*PER — Personalidad / Poder*
+*DES — Destreza*
+*ASP — Apariencia*
+
+| Puntos de vida      | 10 |
+| ------------------- | --- |
 | Modificador al daño | +0 (media) |
-| Puntos de magia | = POD; Mov 4 |
+| Puntos de magia     | = POD |
+| Movimiento          | 4 |
 
 Razas: Verdes (pinos norte), Marrones (caduca, duermen invierno), Amarillos (jungla), Negros (soterraños de setas).
 

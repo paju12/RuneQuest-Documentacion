@@ -4,12 +4,27 @@ Pequeño horror caótico nocturno de ojos rojos aspillera, joroba, cráneo plano
 
 ## Datos básicos
 
-| Campo | Valor |
-|---|---|
-| FUE / CON / TAM / INT / POD / DES / APA | 1D6+12 / 1D6+12 / 2D4 / 3D6 / 1D6+12 / 2D6+15 / 1D6 (medias ~15 / 15 / 5 / 10 / 15 / 22 / 3) |
-| Puntos de vida | 11 |
+### Caracteristicas
+
+|       | FUE | CON | TAM | INT | PER | DES | ASP |
+| ----- | --- | --- | --- | --- | --- | --- | --- |
+| Dado  | 1D6+12 | 1D6+12 | 2D4 | 3D6 | 1D6+12 | 2D6+15 | 1D6 |
+| Media | ~15 | ~15 | ~5 | ~10 | ~15 | ~22 | ~3 |
+
+*FUE — Fuerza*
+*CON — Constitución*
+*TAM — Tamaño*
+*INT — Inteligencia*
+*PER — Personalidad / Poder*
+*DES — Destreza*
+*ASP — Apariencia*
+
+| Puntos de vida      | 11 |
+| ------------------- | --- |
 | Modificador al daño | — |
-| Puntos de magia | 15-16; Mov 4 (3 nadando), PF 31, MR-DES 1 |
+| Puntos de magia     | 15-16 |
+| Movimiento          | 4 (3 nadando) |
+| Puntos de fatiga    | 31 |
 
 ## Localizaciones
 

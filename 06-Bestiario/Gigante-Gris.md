@@ -4,12 +4,27 @@ Violento gris pamaltelano que rastrea por olfato y a menudo gatea; carnívoro de
 
 ## Datos básicos
 
-| Campo | Valor |
-|---|---|
-| FUE / CON / TAM / INT / POD / DES / APA | 9D6+18 / 6D6+18 / 9D6+18 / 2D6 / 3D6 / 3D6+6 / 2D6 (medias ~49 / 39 / 49 / 7 / 10 / 16 / 7) |
-| Puntos de vida | 45 |
+### Caracteristicas
+
+|       | FUE | CON | TAM | INT | PER | DES | ASP |
+| ----- | --- | --- | --- | --- | --- | --- | --- |
+| Dado  | 9D6+18 | 6D6+18 | 9D6+18 | 2D6 | 3D6 | 3D6+6 | 2D6 |
+| Media | ~49 | ~39 | ~49 | ~7 | ~10 | ~16 | ~7 |
+
+*FUE — Fuerza*
+*CON — Constitución*
+*TAM — Tamaño*
+*INT — Inteligencia*
+*PER — Personalidad / Poder*
+*DES — Destreza*
+*ASP — Apariencia*
+
+| Puntos de vida      | 45 |
+| ------------------- | --- |
 | Modificador al daño | +5D6 |
-| Puntos de magia | 10-11; Mov 8, PF 89, MR-DES 2 |
+| Puntos de magia     | 10-11 |
+| Movimiento          | 8 |
+| Puntos de fatiga    | 89 |
 
 ## Localizaciones
 

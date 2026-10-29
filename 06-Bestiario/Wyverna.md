@@ -7,14 +7,27 @@ Primas de dragones (Dracopterus Pelorus): dos patas + dos alas, sin superiores, 
 
 ## Datos básicos
 
-| Campo | Valor |
-|---|---|
-| FUE / CON / TAM / INT / POD / DES / APA | 4D6+12 / 2D6+12 / 2D6+24 / 2D6 / 3D6 / 2D6+6 / — (medias ~26 / 19 / 31 / 7 / 10 / 13) |
-| Puntos de vida | 25 |
+### Caracteristicas
+
+|       | FUE | CON | TAM | INT | PER | DES | ASP |
+| ----- | --- | --- | --- | --- | --- | --- | --- |
+| Dado  | 4D6+12 | 2D6+12 | 2D6+24 | 2D6 | 3D6 | 2D6+6 | — |
+| Media | ~26 | ~19 | ~31 | ~7 | ~10 | ~13 | — |
+
+*FUE — Fuerza*
+*CON — Constitución*
+*TAM — Tamaño*
+*INT — Inteligencia*
+*PER — Personalidad / Poder*
+*DES — Destreza*
+*ASP — Apariencia*
+
+| Puntos de vida      | 25 |
+| ------------------- | --- |
 | Modificador al daño | +3D6 |
-| Puntos de magia | = POD |
-| Movimiento | 2 / 8 vuelo |
-| Puntos de fatiga | 45 |
+| Puntos de magia     | = POD |
+| Movimiento          | 2 / 8 vuelo |
+| Puntos de fatiga    | 45 |
 
 ## Localización de golpe
 

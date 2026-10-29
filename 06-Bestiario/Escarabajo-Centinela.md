@@ -4,12 +4,27 @@ Carabus uzdomestica. Cazador carnívoro criado por selección troll como mascota
 
 ## Datos básicos
 
-| Campo | Valor |
-|---|---|
-| FUE / CON / TAM / INT / PER / DES | 2D6+12 / 3D6+6 / 3D6+6 / 2 / 1D6+6 / 2D6+6 (medias ~19 / 16 / 16 / 2 / 9 / 13) |
-| Puntos de vida | 16-17 |
+### Caracteristicas
+
+|       | FUE | CON | TAM | INT | PER | DES | ASP |
+| ----- | --- | --- | --- | --- | --- | --- | --- |
+| Dado  | 2D6+12 | 3D6+6 | 3D6+6 | 2 | 1D6+6 | 2D6+6 | — |
+| Media | ~19 | ~16 | ~16 | ~2 | ~9 | ~13 | — |
+
+*FUE — Fuerza*
+*CON — Constitución*
+*TAM — Tamaño*
+*INT — Inteligencia*
+*PER — Personalidad / Poder*
+*DES — Destreza*
+*ASP — Apariencia*
+
+| Puntos de vida      | 16-17 |
+| ------------------- | --- |
 | Modificador al daño | +1D6 |
-| Puntos de magia | No; Mov 6, PF 36 |
+| Puntos de magia     | No |
+| Movimiento          | 6 |
+| Puntos de fatiga    | 36 |
 
 ## Localizaciones (resumen)
 

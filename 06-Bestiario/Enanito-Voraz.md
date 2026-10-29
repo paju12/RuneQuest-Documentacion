@@ -4,12 +4,27 @@ Carnívoro puro sin parentesco mostali; piernas largas, torso pequeño, boca eno
 
 ## Datos básicos
 
-| Campo | Valor |
-|---|---|
-| FUE / CON / TAM / INT / POD / DES / APA | 3D6 / 2D6+6 / 1D6+6 / 1D6+2 / 1D6+6 / 4D6 / — (medias ~10 / 13 / 9 / 5 / 9 / 14) |
-| Puntos de vida | 12 |
+### Caracteristicas
+
+|       | FUE | CON | TAM | INT | PER | DES | ASP |
+| ----- | --- | --- | --- | --- | --- | --- | --- |
+| Dado  | 3D6 | 2D6+6 | 1D6+6 | 1D6+2 | 1D6+6 | 4D6 | — |
+| Media | ~10 | ~13 | ~9 | ~5 | ~9 | ~14 | — |
+
+*FUE — Fuerza*
+*CON — Constitución*
+*TAM — Tamaño*
+*INT — Inteligencia*
+*PER — Personalidad / Poder*
+*DES — Destreza*
+*ASP — Apariencia*
+
+| Puntos de vida      | 12 |
+| ------------------- | --- |
 | Modificador al daño | — |
-| Puntos de magia | —; Mov 4, PF 24, MR-DES 3 |
+| Puntos de magia     | — |
+| Movimiento          | 4 |
+| Puntos de fatiga    | 24 |
 
 ## Localizaciones
 

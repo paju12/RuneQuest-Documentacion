@@ -2,12 +2,26 @@
 
 ## Datos básicos
 
-| Campo | Valor |
-|---|---|
-| FUE / CON / TAM / INT / POD / DES / APA | — / 6D10 / — / 2D6+6 / — / — / — (medias CON 33, INT 13) |
-| Puntos de vida | = CON |
+### Caracteristicas
+
+|       | FUE | CON | TAM | INT | PER | DES | ASP |
+| ----- | --- | --- | --- | --- | --- | --- | --- |
+| Dado  | — | 6D10 | — | 2D6+6 | — | — | — |
+| Media | — | ~33 | — | ~13 | — | — | — |
+
+*FUE — Fuerza*
+*CON — Constitución*
+*TAM — Tamaño*
+*INT — Inteligencia*
+*PER — Personalidad / Poder*
+*DES — Destreza*
+*ASP — Apariencia*
+
+| Puntos de vida      | = CON |
+| ------------------- | --- |
 | Modificador al daño | 1D6 a zona (Proy) sin armadura ni protección (Bloqueo/Pantalla reducen éxito) |
-| Puntos de magia | PM 3D6+6; Mov = PM |
+| Puntos de magia     | PM 3D6+6 |
+| Movimiento          | = PM |
 
 ## Ataques y armadura
 

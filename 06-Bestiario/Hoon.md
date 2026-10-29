@@ -4,12 +4,27 @@ Volador montañés pamaltelano de cola pesada con espinas dardo, piel peluda, ca
 
 ## Datos básicos
 
-| Campo | Valor |
-|---|---|
-| FUE / CON / TAM / INT / POD / DES / APA | 5D6+12 / 2D6+10 / 8D6+12 / 7 / 3D6 / 2D6+6 / — (medias ~29 / 17 / 40 / 7 / 10 / 13) |
-| Puntos de vida | 29 |
+### Caracteristicas
+
+|       | FUE | CON | TAM | INT | PER | DES | ASP |
+| ----- | --- | --- | --- | --- | --- | --- | --- |
+| Dado  | 5D6+12 | 2D6+10 | 8D6+12 | 7 | 3D6 | 2D6+6 | — |
+| Media | ~29 | ~17 | ~40 | ~7 | ~10 | ~13 | — |
+
+*FUE — Fuerza*
+*CON — Constitución*
+*TAM — Tamaño*
+*INT — Inteligencia*
+*PER — Personalidad / Poder*
+*DES — Destreza*
+*ASP — Apariencia*
+
+| Puntos de vida      | 29 |
+| ------------------- | --- |
 | Modificador al daño | +3D6 |
-| Puntos de magia | —; Mov 2 (5 volando), PF 47, MR-DES 3 |
+| Puntos de magia     | — |
+| Movimiento          | 2 (5 volando) |
+| Puntos de fatiga    | 47 |
 
 ## Localizaciones
 

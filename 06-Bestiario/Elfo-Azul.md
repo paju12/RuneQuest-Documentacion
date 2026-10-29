@@ -4,12 +4,27 @@ Murthoi cuidador de bosques submarinos de algas; tan distinto como el negro. Tre
 
 ## Datos básicos
 
-| Campo | Valor |
-|---|---|
-| FUE / CON / TAM / INT / POD / DES / APA | 2D4+1 / 3D6 / 2D6 / 1D6+12 / 2D6+6 / 3D6+3 / 3D6 (medias ~6 / 10 / 7 / 15 / 13 / 13 / 10) |
-| Puntos de vida | 9 |
+### Caracteristicas
+
+|       | FUE | CON | TAM | INT | PER | DES | ASP |
+| ----- | --- | --- | --- | --- | --- | --- | --- |
+| Dado  | 2D4+1 | 3D6 | 2D6 | 1D6+12 | 2D6+6 | 3D6+3 | 3D6 |
+| Media | ~6 | ~10 | ~7 | ~15 | ~13 | ~13 | ~10 |
+
+*FUE — Fuerza*
+*CON — Constitución*
+*TAM — Tamaño*
+*INT — Inteligencia*
+*PER — Personalidad / Poder*
+*DES — Destreza*
+*ASP — Apariencia*
+
+| Puntos de vida      | 9 |
+| ------------------- | --- |
 | Modificador al daño | — |
-| Puntos de magia | 13; Mov 0 (5 nadando), PF 16, MR-DES 3 |
+| Puntos de magia     | 13 |
+| Movimiento          | 0 (5 nadando) |
+| Puntos de fatiga    | 16 |
 
 ## Localizaciones
 

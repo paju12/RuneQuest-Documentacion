@@ -2,12 +2,27 @@
 
 ## Datos básicos
 
-| Campo | Valor |
-|---|---|
-| FUE / CON / TAM / INT / POD / DES / APA | 8D6+30 / 6D6+20 / 8D6+30 / 3 / 5D6 / 2D6 / — (medias ~58 / 41 / 58 / 3 / 17 / 7; 20 m por 1 m de grueso) |
-| Puntos de vida | 50 |
+### Caracteristicas
+
+|       | FUE | CON | TAM | INT | PER | DES | ASP |
+| ----- | --- | --- | --- | --- | --- | --- | --- |
+| Dado  | 8D6+30 | 6D6+20 | 8D6+30 | 3 | 5D6 | 2D6 | — |
+| Media | ~58 | ~41 | ~58 | ~3 | ~17 | ~7 | — |
+
+*FUE — Fuerza*
+*CON — Constitución*
+*TAM — Tamaño*
+*INT — Inteligencia*
+*PER — Personalidad / Poder*
+*DES — Destreza*
+*ASP — Apariencia*
+
+| Puntos de vida      | 50 |
+| ------------------- | --- |
 | Modificador al daño | +6D6 (constricción entera) |
-| Puntos de magia | No; Mov 3 (5 nadando), PF 99 |
+| Puntos de magia     | No |
+| Movimiento          | 3 (5 nadando) |
+| Puntos de fatiga    | 99 |
 
 ## Localizaciones
 

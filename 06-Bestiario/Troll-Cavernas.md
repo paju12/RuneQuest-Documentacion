@@ -2,12 +2,27 @@
 
 ## Datos básicos
 
-| Campo | Valor |
-|---|---|
-| FUE / CON / TAM / INT / POD / DES / APA | 3D6+12 / 2D6+6 / 4D6+12 / 2D6 / 2D6 / 2D6+3 / 1D6 (medias ~22 / 13 / 26 / 7 / 7 / 10 / 3) |
-| Puntos de vida | 20 |
+### Caracteristicas
+
+|       | FUE | CON | TAM | INT | PER | DES | ASP |
+| ----- | --- | --- | --- | --- | --- | --- | --- |
+| Dado  | 3D6+12 | 2D6+6 | 4D6+12 | 2D6 | 2D6 | 2D6+3 | 1D6 |
+| Media | ~22 | ~13 | ~26 | ~7 | ~7 | ~10 | ~3 |
+
+*FUE — Fuerza*
+*CON — Constitución*
+*TAM — Tamaño*
+*INT — Inteligencia*
+*PER — Personalidad / Poder*
+*DES — Destreza*
+*ASP — Apariencia*
+
+| Puntos de vida      | 20 |
+| ------------------- | --- |
 | Modificador al daño | +2D6 aprox. |
-| Puntos de magia | = POD; Mov 3, PF 36 |
+| Puntos de magia     | = POD |
+| Movimiento          | 3 |
+| Puntos de fatiga    | 36 |
 
 Enormes deformes negro-verdosos, brazos/hombros peludos, garras; >2,5 m el mediano. Ropas bastas de pieles.
 

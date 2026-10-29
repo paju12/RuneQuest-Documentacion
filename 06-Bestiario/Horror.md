@@ -4,12 +4,27 @@ Asesino negro bípedo de rostro deforme, cuernos negros y lengua ósea; astucia 
 
 ## Datos básicos
 
-| Campo | Valor |
-|---|---|
-| FUE / CON / TAM / INT / POD / DES / APA | 2D6+12 / 3D6+12 / 2D6+12 / 2D6+6 / 2D6+6 / 2D6+12 / 2D6 (medias ~19 / 22 / 19 / 13 / 13 / 19 / 7) |
-| Puntos de vida | 21 |
+### Caracteristicas
+
+|       | FUE | CON | TAM | INT | PER | DES | ASP |
+| ----- | --- | --- | --- | --- | --- | --- | --- |
+| Dado  | 2D6+12 | 3D6+12 | 2D6+12 | 2D6+6 | 2D6+6 | 2D6+12 | 2D6 |
+| Media | ~19 | ~22 | ~19 | ~13 | ~13 | ~19 | ~7 |
+
+*FUE — Fuerza*
+*CON — Constitución*
+*TAM — Tamaño*
+*INT — Inteligencia*
+*PER — Personalidad / Poder*
+*DES — Destreza*
+*ASP — Apariencia*
+
+| Puntos de vida      | 21 |
+| ------------------- | --- |
 | Modificador al daño | +1D6 |
-| Puntos de magia | 13; Mov 5, PF 42, MR-DES 2 |
+| Puntos de magia     | 13 |
+| Movimiento          | 5 |
+| Puntos de fatiga    | 42 |
 
 ## Localizaciones
 

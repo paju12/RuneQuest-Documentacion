@@ -2,12 +2,27 @@
 
 ## Datos básicos
 
-| Campo | Valor |
-|---|---|
-| FUE / CON / TAM / INT / POD / DES / APA | 3D6 / 3D6 / 3D6+6 / 4D6 / — / 4D6 / 3D6+6 (medias ~10 / 10 / 16 / 14 / — / 14 / 16) |
-| Puntos de vida | 14 |
+### Caracteristicas
+
+|       | FUE | CON | TAM | INT | PER | DES | ASP |
+| ----- | --- | --- | --- | --- | --- | --- | --- |
+| Dado  | 3D6 | 3D6 | 3D6+6 | 4D6 | — | 4D6 | 3D6+6 |
+| Media | ~10 | ~10 | ~16 | ~14 | — | ~14 | ~16 |
+
+*FUE — Fuerza*
+*CON — Constitución*
+*TAM — Tamaño*
+*INT — Inteligencia*
+*PER — Personalidad / Poder*
+*DES — Destreza*
+*ASP — Apariencia*
+
+| Puntos de vida      | 14 |
+| ------------------- | --- |
 | Modificador al daño | Constricción = 2× mod. (mín. 1D6) |
-| Puntos de magia | PM 2D6+6; Mov 3, PF 21 (−1D6/día sin sangre; solo se recupera bebiendo FUE) |
+| Puntos de magia     | PM 2D6+6 |
+| Movimiento          | 3 |
+| Puntos de fatiga    | 21 (−1D6/día sin sangre; solo se recupera bebiendo FUE) |
 
 ## Localizaciones
 

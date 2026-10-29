@@ -4,12 +4,27 @@ Therevis horribilis. Cría monstruosa de mosca gigante; adulta efímera e inofen
 
 ## Datos básicos
 
-| Campo | Valor |
-|---|---|
-| FUE / CON / TAM / INT / PER / DES | 3D6+18 / 2D6+12 / 4D6+12 / 1 / 1D6+6 / 2D6 (medias ~28 / 19 / 26 / 1 / 9 / 7) |
-| Puntos de vida | 23 |
+### Caracteristicas
+
+|       | FUE | CON | TAM | INT | PER | DES | ASP |
+| ----- | --- | --- | --- | --- | --- | --- | --- |
+| Dado  | 3D6+18 | 2D6+12 | 4D6+12 | 1 | 1D6+6 | 2D6 | — |
+| Media | ~28 | ~19 | ~26 | ~1 | ~9 | ~7 | — |
+
+*FUE — Fuerza*
+*CON — Constitución*
+*TAM — Tamaño*
+*INT — Inteligencia*
+*PER — Personalidad / Poder*
+*DES — Destreza*
+*ASP — Apariencia*
+
+| Puntos de vida      | 23 |
+| ------------------- | --- |
 | Modificador al daño | +2D6 |
-| Puntos de magia | No; Mov 2, PF 48 |
+| Puntos de magia     | No |
+| Movimiento          | 2 |
+| Puntos de fatiga    | 48 |
 
 ## Localizaciones (resumen)
 

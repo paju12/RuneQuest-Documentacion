@@ -8,22 +8,27 @@ Forma degenerada de los elfos; ambas razas alimentan un odio especial entre sí,
 
 Características dadas para un tipo intermedio. Por lo demás, todas las razas son idénticas entre sí.
 
-| Característica | Dados | Valor medio |
-|---|---|---|
-| FUE | 4D6 | 14 |
-| CON | 3D6 | 10-11 |
-| TAM | 2D6+2 | 9 |
-| INT | 3D6 | 10-11 |
-| POD | 2D6+3 | 10 |
-| DES | 4D6 | 14 |
-| APA | 2D6 | 7 |
+### Caracteristicas
 
-| Campo | Valor |
-|---|---|
-| Movimiento | 3* |
-| Puntos de golpe | 3* |
-| Puntos de fatiga | 25* |
-| Puntos de magia | = POD |
+|       | FUE | CON | TAM | INT | PER | DES | ASP |
+| ----- | --- | --- | --- | --- | --- | --- | --- |
+| Dado  | 4D6 | 3D6 | 2D6+2 | 3D6 | 2D6+3 | 4D6 | 2D6 |
+| Media | 14 | 10-11 | 9 | 10-11 | 10 | 14 | 7 |
+
+*FUE — Fuerza*
+*CON — Constitución*
+*TAM — Tamaño*
+*INT — Inteligencia*
+*PER — Personalidad / Poder*
+*DES — Destreza*
+*ASP — Apariencia*
+
+| Puntos de vida      | 3* |
+| ------------------- | --- |
+| Modificador al daño | — |
+| Puntos de magia     | = POD |
+| Movimiento          | 3* |
+| Puntos de fatiga    | 25* |
 
 > [!warning]
 > PG 3 imposible con CON 3D6 + TAM 2D6+2; el OCR nuevo no trae este bloque (ver Pregunta 45). Mov y PF sin confirmar.

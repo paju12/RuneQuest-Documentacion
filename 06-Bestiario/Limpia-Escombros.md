@@ -4,12 +4,27 @@ Rata de medio metro con boca de 60 grados hasta hombros, dientes afilados y esca
 
 ## Datos básicos
 
-| Campo | Valor |
-|---|---|
-| FUE / CON / TAM / INT / POD / DES / APA | 1D6 / 3D6 / 1D4 / 4 / 1D6+6 / 2D6+6 / — (medias ~3 / 10 / 2 / 4 / 9 / 13) |
-| Puntos de vida | 7 |
+### Caracteristicas
+
+|       | FUE | CON | TAM | INT | PER | DES | ASP |
+| ----- | --- | --- | --- | --- | --- | --- | --- |
+| Dado  | 1D6 | 3D6 | 1D4 | 4 | 1D6+6 | 2D6+6 | — |
+| Media | ~3 | ~10 | ~2 | ~4 | ~9 | ~13 | — |
+
+*FUE — Fuerza*
+*CON — Constitución*
+*TAM — Tamaño*
+*INT — Inteligencia*
+*PER — Personalidad / Poder*
+*DES — Destreza*
+*ASP — Apariencia*
+
+| Puntos de vida      | 7 |
+| ------------------- | --- |
 | Modificador al daño | — |
-| Puntos de magia | —; Mov 3, PF 14, MR-DES 3 |
+| Puntos de magia     | — |
+| Movimiento          | 3 |
+| Puntos de fatiga    | 14 |
 
 ## Localizaciones
 

@@ -4,12 +4,27 @@ Cerdo de combate doméstico del tamaño de un búfalo; montura de sanguinarios j
 
 ## Datos básicos
 
-| Campo | Valor |
-|---|---|
-| FUE / CON / TAM / INT / POD / DES / APA | 4D6+12 / 2D6+12 / 4D6+18 / 4 / 3D6 / 1D6 / — (medias ~26 / 19 / 32 / 4 / 10 / 3) |
-| Puntos de vida | 26 |
+### Caracteristicas
+
+|       | FUE | CON | TAM | INT | PER | DES | ASP |
+| ----- | --- | --- | --- | --- | --- | --- | --- |
+| Dado  | 4D6+12 | 2D6+12 | 4D6+18 | 4 | 3D6 | 1D6 | — |
+| Media | ~26 | ~19 | ~32 | ~4 | ~10 | ~3 | — |
+
+*FUE — Fuerza*
+*CON — Constitución*
+*TAM — Tamaño*
+*INT — Inteligencia*
+*PER — Personalidad / Poder*
+*DES — Destreza*
+*ASP — Apariencia*
+
+| Puntos de vida      | 26 |
+| ------------------- | --- |
 | Modificador al daño | +3D6 |
-| Puntos de magia | 10-11; Mov 8, PF 45, MR-DES 4 |
+| Puntos de magia     | 10-11 |
+| Movimiento          | 8 |
+| Puntos de fatiga    | 45 |
 
 ## Localizaciones
 

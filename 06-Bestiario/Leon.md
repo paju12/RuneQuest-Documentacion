@@ -2,12 +2,27 @@
 
 ## Datos básicos
 
-| Campo | Valor |
-|---|---|
-| FUE / CON / TAM / INT / POD / DES / APA | 5D6+12 / 3D6 / 4D6+12 / 5 (fija) / 2D6+6 / 3D6+6 / — (medias ~29 / 10 / 26 / 5 / 13 / 16; hembras FUE 4D6+12, TAM 3D6+12) |
-| Puntos de vida | 19 |
+### Caracteristicas
+
+|       | FUE | CON | TAM | INT | PER | DES | ASP |
+| ----- | --- | --- | --- | --- | --- | --- | --- |
+| Dado  | 5D6+12 | 3D6 | 4D6+12 | 5 (fija) | 2D6+6 | 3D6+6 | — |
+| Media | ~29 | ~10 | ~26 | ~5 | ~13 | ~16 | — |
+
+*FUE — Fuerza*
+*CON — Constitución*
+*TAM — Tamaño*
+*INT — Inteligencia*
+*PER — Personalidad / Poder*
+*DES — Destreza*
+*ASP — Apariencia*
+
+| Puntos de vida      | 19 |
+| ------------------- | --- |
 | Modificador al daño | +2D6 aprox. |
-| Puntos de magia | No; Mov 6, PF 19 |
+| Puntos de magia     | No |
+| Movimiento          | 6 |
+| Puntos de fatiga    | 19 |
 
 Felinos de zonas áridas y sabanas; camadas con macho dominante (o coaliciones de hermanos/machos solteros); cazan las leonas con batidas.
 

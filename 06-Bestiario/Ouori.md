@@ -4,12 +4,27 @@ Cetoide feo arrugado voluminoso (hombre morsa); amistoso, nunca sin provocación
 
 ## Datos básicos
 
-| Campo | Valor |
-|---|---|
-| FUE / CON / TAM / INT / POD / DES / APA | 6D6 / 2D6+6 / 2D6+12 / 2D6+6 / 3D6 / 3D6+6 / 2D6 (medias ~21 / 13 / 19 / 13 / 10 / 16 / 7) |
-| Puntos de vida | 16 |
+### Caracteristicas
+
+|       | FUE | CON | TAM | INT | PER | DES | ASP |
+| ----- | --- | --- | --- | --- | --- | --- | --- |
+| Dado  | 6D6 | 2D6+6 | 2D6+12 | 2D6+6 | 3D6 | 3D6+6 | 2D6 |
+| Media | ~21 | ~13 | ~19 | ~13 | ~10 | ~16 | ~7 |
+
+*FUE — Fuerza*
+*CON — Constitución*
+*TAM — Tamaño*
+*INT — Inteligencia*
+*PER — Personalidad / Poder*
+*DES — Destreza*
+*ASP — Apariencia*
+
+| Puntos de vida      | 16 |
+| ------------------- | --- |
 | Modificador al daño | +1D6 |
-| Puntos de magia | 10-11; Mov 3, PF 34, MR-DES 2 |
+| Puntos de magia     | 10-11 |
+| Movimiento          | 3 |
+| Puntos de fatiga    | 34 |
 
 ## Localizaciones
 

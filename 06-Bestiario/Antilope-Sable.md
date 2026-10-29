@@ -4,12 +4,27 @@ Grande, cuernos en luna creciente (Ciervo Lunar). Jinetes de Antílopes Sable us
 
 ## Datos básicos
 
-| Campo | Valor |
-|---|---|
-| FUE / CON / TAM / INT / POD / DES / APA | 3D6+12 / 2D6+6 / 4D6+12 / 4 / 3D6 / 3D6 / — (medias ~22 / 13 / 26 / 4 / 10 / 10) |
-| Puntos de vida | 20 |
+### Caracteristicas
+
+|       | FUE | CON | TAM | INT | PER | DES | ASP |
+| ----- | --- | --- | --- | --- | --- | --- | --- |
+| Dado  | 3D6+12 | 2D6+6 | 4D6+12 | 4 | 3D6 | 3D6 | — |
+| Media | ~22 | ~13 | ~26 | ~4 | ~10 | ~10 | — |
+
+*FUE — Fuerza*
+*CON — Constitución*
+*TAM — Tamaño*
+*INT — Inteligencia*
+*PER — Personalidad / Poder*
+*DES — Destreza*
+*ASP — Apariencia*
+
+| Puntos de vida      | 20 |
+| ------------------- | --- |
 | Modificador al daño | +2D6 (+2D3 cornada) |
-| Puntos de magia | —; Mov 9, PF 36, MR-DES 3 |
+| Puntos de magia     | — |
+| Movimiento          | 9 |
+| Puntos de fatiga    | 36 |
 
 ## Localizaciones
 

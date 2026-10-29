@@ -2,12 +2,27 @@
 
 ## Datos básicos
 
-| Campo | Valor |
-|---|---|
-| FUE / CON / TAM / INT / POD / DES / APA | 3D6+6 / 2D6+6 / 3D6+6 / 2D6 / 4D6 / 3D6 / 3D6 (medias ~16 / 13 / 16 / 7 / 14 / 10 / 10) |
-| Puntos de vida | 15 |
+### Caracteristicas
+
+|       | FUE | CON | TAM | INT | PER | DES | ASP |
+| ----- | --- | --- | --- | --- | --- | --- | --- |
+| Dado  | 3D6+6 | 2D6+6 | 3D6+6 | 2D6 | 4D6 | 3D6 | 3D6 |
+| Media | ~16 | ~13 | ~16 | ~7 | ~14 | ~10 | ~10 |
+
+*FUE — Fuerza*
+*CON — Constitución*
+*TAM — Tamaño*
+*INT — Inteligencia*
+*PER — Personalidad / Poder*
+*DES — Destreza*
+*ASP — Apariencia*
+
+| Puntos de vida      | 15 |
+| ------------------- | --- |
 | Modificador al daño | +1D6 aprox. |
-| Puntos de magia | = POD; Mov 4, PF 30 |
+| Puntos de magia     | = POD |
+| Movimiento          | 4 |
+| Puntos de fatiga    | 30 |
 
 Peludos musculosos con cabezas naranjas como calabazas; bosques y montañas; carnívoros caóticos.
 

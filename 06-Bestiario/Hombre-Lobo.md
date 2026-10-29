@@ -4,12 +4,27 @@ Forma humana: FUE 3D6 + CON 3D6 + TAM 2D6+6 + INT 2D6+6 + POD/DES/APA 3D6 (media
 
 ## Datos básicos
 
-| Campo | Valor |
-|---|---|
-| FUE / CON / TAM / INT / POD / DES / APA | 3D6 / 3D6 / 2D6+6 / 2D6+6 (7 en lobo) / 3D6 / 3D6 / 3D6 (medias 10/10/13/13/10/10/10); lobo FUE x2 (20-22) |
-| Puntos de vida | 12 |
+### Caracteristicas
+
+|       | FUE | CON | TAM | INT | PER | DES | ASP |
+| ----- | --- | --- | --- | --- | --- | --- | --- |
+| Dado  | 3D6 | 3D6 | 2D6+6 | 2D6+6 (7 en lobo) | 3D6 | 3D6 | 3D6 |
+| Media | 10 | 10 | 13 | 13 | 10 | 10 | 10 |
+
+*FUE — Fuerza*
+*CON — Constitución*
+*TAM — Tamaño*
+*INT — Inteligencia*
+*PER — Personalidad / Poder*
+*DES — Destreza*
+*ASP — Apariencia*
+
+| Puntos de vida      | 12 |
+| ------------------- | --- |
 | Modificador al daño | +1D4 (humano) |
-| Puntos de magia | = POD; Mov 3 (7 en lobo), PF 21 (32 en lobo) |
+| Puntos de magia     | = POD |
+| Movimiento          | 3 (7 en lobo) |
+| Puntos de fatiga    | 21 (32 en lobo) |
 
 ## Localizaciones — forma humana
 

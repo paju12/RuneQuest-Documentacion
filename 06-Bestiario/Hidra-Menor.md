@@ -4,12 +4,27 @@ Caótico multicéfalo reptil de selvas y pantanos pamaltelanos. Típica 2D6 cabe
 
 ## Datos básicos
 
-| Campo | Valor |
-|---|---|
-| FUE / CON / TAM / INT / POD / DES / APA | 2D6+12 / 1D6+12 / 2D6+18 / 2 / 2D6+6 / 2D6+12 / — (medias ~19 / 15 / 25 / 2 / 13 / 19) |
-| Puntos de vida | 21 |
+### Caracteristicas
+
+|       | FUE | CON | TAM | INT | PER | DES | ASP |
+| ----- | --- | --- | --- | --- | --- | --- | --- |
+| Dado  | 2D6+12 | 1D6+12 | 2D6+18 | 2 | 2D6+6 | 2D6+12 | — |
+| Media | ~19 | ~15 | ~25 | ~2 | ~13 | ~19 | — |
+
+*FUE — Fuerza*
+*CON — Constitución*
+*TAM — Tamaño*
+*INT — Inteligencia*
+*PER — Personalidad / Poder*
+*DES — Destreza*
+*ASP — Apariencia*
+
+| Puntos de vida      | 21 |
+| ------------------- | --- |
 | Modificador al daño | +2D6 |
-| Puntos de magia | —; Mov 2 (3 nadando), PF 35, MR-DES 2 |
+| Puntos de magia     | — |
+| Movimiento          | 2 (3 nadando) |
+| Puntos de fatiga    | 35 |
 
 ## Localizaciones
 

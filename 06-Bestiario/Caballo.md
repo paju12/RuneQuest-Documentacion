@@ -2,11 +2,27 @@
 
 ## Datos básicos
 
-| Campo | Valor |
-|---|---|
-| FUE / CON / TAM / INT / POD / DES / APA | 4D6+18 / 3D6 / 4D6+18 / 4 (fija) / 3D6 / 2D6+6 / — (medias ~32 / 10 / 32 / 4 / 10 / 13) |
-| Puntos de vida | 22 |
-| Puntos de fatiga / Movimiento | 43 / 10 |
+### Caracteristicas
+
+|       | FUE | CON | TAM | INT | PER | DES | ASP |
+| ----- | --- | --- | --- | --- | --- | --- | --- |
+| Dado  | 4D6+18 | 3D6 | 4D6+18 | 4 (fija) | 3D6 | 2D6+6 | — |
+| Media | ~32 | ~10 | ~32 | ~4 | ~10 | ~13 | — |
+
+*FUE — Fuerza*
+*CON — Constitución*
+*TAM — Tamaño*
+*INT — Inteligencia*
+*PER — Personalidad / Poder*
+*DES — Destreza*
+*ASP — Apariencia*
+
+| Puntos de vida      | 22 |
+| ------------------- | --- |
+| Modificador al daño | +3D6 aprox. |
+| Puntos de magia     | No (INT fija; sin alma salvo que gane POD) |
+| Movimiento          | 10 |
+| Puntos de fatiga    | 43 |
 
 ## Localizaciones
 

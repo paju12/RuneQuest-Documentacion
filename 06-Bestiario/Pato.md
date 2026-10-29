@@ -2,12 +2,27 @@
 
 ## Datos básicos
 
-| Campo | Valor |
-|---|---|
-| FUE / CON / TAM / INT / POD / DES / APA | 2D6+1 / 2D6+6 / 1D6+2 / 2D6+6 / 3D6 / 2D6+6 / 2D6 (medias ~8 / 13 / 5 / 13 / 10 / 13 / 7) |
-| Puntos de vida | 10 |
+### Caracteristicas
+
+|       | FUE | CON | TAM | INT | PER | DES | ASP |
+| ----- | --- | --- | --- | --- | --- | --- | --- |
+| Dado  | 2D6+1 | 2D6+6 | 1D6+2 | 2D6+6 | 3D6 | 2D6+6 | 2D6 |
+| Media | ~8 | ~13 | ~5 | ~13 | ~10 | ~13 | ~7 |
+
+*FUE — Fuerza*
+*CON — Constitución*
+*TAM — Tamaño*
+*INT — Inteligencia*
+*PER — Personalidad / Poder*
+*DES — Destreza*
+*ASP — Apariencia*
+
+| Puntos de vida      | 10 |
+| ------------------- | --- |
 | Modificador al daño | −1D4/0 |
-| Puntos de magia | = POD; Mov 2, PF 21 |
+| Puntos de magia     | = POD |
+| Movimiento          | 2 |
+| Puntos de fatiga    | 21 |
 
 Maldición antigua: humanos emplumados con pies palmeados o patos inteligentes sin vuelo. Varios colores cruzables.
 

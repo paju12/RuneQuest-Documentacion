@@ -2,12 +2,26 @@
 
 ## Datos básicos
 
-| Campo | Valor |
-|---|---|
-| FUE / CON / TAM / INT / POD / DES / APA | — / — / 1D6 / 4D6 / — / — / — (medias TAM 1, INT 14, PG/PM/PA 16) |
-| Puntos de vida | 3D6+6 (= PM = PA; todo baja junto: gastar 3 PM = −3 PG y PA) |
+### Caracteristicas
+
+|       | FUE | CON | TAM | INT | PER | DES | ASP |
+| ----- | --- | --- | --- | --- | --- | --- | --- |
+| Dado  | — | — | 1D6 | 4D6 | — | — | — |
+| Media | — | — | ~1 | ~14 | — | — | — |
+
+*FUE — Fuerza*
+*CON — Constitución*
+*TAM — Tamaño*
+*INT — Inteligencia*
+*PER — Personalidad / Poder*
+*DES — Destreza*
+*ASP — Apariencia*
+
+| Puntos de vida      | 3D6+6 (= PM = PA; todo baja junto: gastar 3 PM = −3 PG y PA) |
+| ------------------- | --- |
 | Modificador al daño | Drenaje 1D10 PF por PM gastado |
-| Puntos de magia | PM = PG; Mov 20 |
+| Puntos de magia     | PM = PG |
+| Movimiento          | 20 |
 
 ## Localizaciones
 

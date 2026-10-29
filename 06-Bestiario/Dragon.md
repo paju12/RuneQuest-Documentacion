@@ -4,12 +4,26 @@ Mov 3 / 7 en vuelo. Mayoría con INT fija (astutos); concretos inteligentes con 
 
 ## Datos básicos
 
-| Campo | Valor |
-|---|---|
-| FUE / CON / TAM / INT / POD / DES / APA | 20D6 (~70) / 10D6 (~35) / 20D6 (~70) / fija (astuto) o 4D6 si inteligente / 4D6+6 (~20) / 3D6 (~10) / — |
-| Puntos de vida | 53 |
+### Caracteristicas
+
+|       | FUE | CON | TAM | INT | PER | DES | ASP |
+| ----- | --- | --- | --- | --- | --- | --- | --- |
+| Dado  | 20D6 | 10D6 | 20D6 | fija (astuto) o 4D6 si inteligente | 4D6+6 | 3D6 | — |
+| Media | ~70 | ~35 | ~70 | — | ~20 | ~10 | — |
+
+*FUE — Fuerza*
+*CON — Constitución*
+*TAM — Tamaño*
+*INT — Inteligencia*
+*PER — Personalidad / Poder*
+*DES — Destreza*
+*ASP — Apariencia*
+
+| Puntos de vida      | 53 |
+| ------------------- | --- |
 | Modificador al daño | +8D6 aprox. |
-| Puntos de magia | = POD; Mov 3 / 7 en vuelo, PF 105 |
+| Puntos de magia     | = POD |
+| Movimiento          | 3 / 7 en vuelo |
 
 ## Localizaciones
 

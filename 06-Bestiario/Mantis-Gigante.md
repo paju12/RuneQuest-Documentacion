@@ -4,12 +4,27 @@ Mantis immanis. Insecto dragón con patas zanco, cabeza triangular con mandíbul
 
 ## Datos básicos
 
-| Campo | Valor |
-|---|---|
-| FUE / CON / TAM / INT / PER / DES | 6D6+12 / 3D6+9 / 8D6+12 / 3 / 3D6 / 2D6+18 (medias ~33 / 19 / 40 / 3 / 10 / 25) |
-| Puntos de vida | 30 |
+### Caracteristicas
+
+|       | FUE | CON | TAM | INT | PER | DES | ASP |
+| ----- | --- | --- | --- | --- | --- | --- | --- |
+| Dado  | 6D6+12 | 3D6+9 | 8D6+12 | 3 | 3D6 | 2D6+18 | — |
+| Media | ~33 | ~19 | ~40 | ~3 | ~10 | ~25 | — |
+
+*FUE — Fuerza*
+*CON — Constitución*
+*TAM — Tamaño*
+*INT — Inteligencia*
+*PER — Personalidad / Poder*
+*DES — Destreza*
+*ASP — Apariencia*
+
+| Puntos de vida      | 30 |
+| ------------------- | --- |
 | Modificador al daño | Mordisco mitad del modificador (mínimo 1D3) |
-| Puntos de magia | No; Mov 4 (4 volando), PF 53 |
+| Puntos de magia     | No |
+| Movimiento          | 4 (4 volando) |
+| Puntos de fatiga    | 53 |
 
 ## Localizaciones (resumen)
 

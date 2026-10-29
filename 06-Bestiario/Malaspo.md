@@ -4,12 +4,27 @@ Piscoides escamoso de aletas que trata pacífico con humanos a diferencia de la 
 
 ## Datos básicos
 
-| Campo | Valor |
-|---|---|
-| FUE / CON / TAM / INT / POD / DES / APA | 3D6 / 3D6 / 3D6+6 / 3D6+6 / 4D6 / 3D6 / 3D6 (medias ~10 / 10 / 16 / 16 / 14 / 10 / 10) |
-| Puntos de vida | 14 |
+### Caracteristicas
+
+|       | FUE | CON | TAM | INT | PER | DES | ASP |
+| ----- | --- | --- | --- | --- | --- | --- | --- |
+| Dado  | 3D6 | 3D6 | 3D6+6 | 3D6+6 | 4D6 | 3D6 | 3D6 |
+| Media | ~10 | ~10 | ~16 | ~16 | ~14 | ~10 | ~10 |
+
+*FUE — Fuerza*
+*CON — Constitución*
+*TAM — Tamaño*
+*INT — Inteligencia*
+*PER — Personalidad / Poder*
+*DES — Destreza*
+*ASP — Apariencia*
+
+| Puntos de vida      | 14 |
+| ------------------- | --- |
 | Modificador al daño | +1D4 |
-| Puntos de magia | 14; Mov 3, PF 21, MR-DES 3 |
+| Puntos de magia     | 14 |
+| Movimiento          | 3 |
+| Puntos de fatiga    | 21 |
 
 ## Localizaciones
 

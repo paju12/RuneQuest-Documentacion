@@ -4,12 +4,27 @@ Segundo intento de Pamalt con Eurmal de vida inteligente; exitoso pero no prósp
 
 ## Datos básicos
 
-| Campo | Valor |
-|---|---|
-| FUE / CON / TAM / INT / POD / DES / APA | 2D6 / 3D6 / 3D6 / 3D6 / 3D6 / 3D6+18 / 3D6 (medias ~7 / 10 / 10 / 10 / 10 / 28 / 10) |
-| Puntos de vida | 11 |
+### Caracteristicas
+
+|       | FUE | CON | TAM | INT | PER | DES | ASP |
+| ----- | --- | --- | --- | --- | --- | --- | --- |
+| Dado  | 2D6 | 3D6 | 3D6 | 3D6 | 3D6 | 3D6+18 | 3D6 |
+| Media | ~7 | ~10 | ~10 | ~10 | ~10 | ~28 | ~10 |
+
+*FUE — Fuerza*
+*CON — Constitución*
+*TAM — Tamaño*
+*INT — Inteligencia*
+*PER — Personalidad / Poder*
+*DES — Destreza*
+*ASP — Apariencia*
+
+| Puntos de vida      | 11 |
+| ------------------- | --- |
 | Modificador al daño | — |
-| Puntos de magia | 10-11; Mov 2 (3 trepando), PF 18, MR-DES 1 |
+| Puntos de magia     | 10-11 |
+| Movimiento          | 2 (3 trepando) |
+| Puntos de fatiga    | 18 |
 
 ## Localizaciones
 

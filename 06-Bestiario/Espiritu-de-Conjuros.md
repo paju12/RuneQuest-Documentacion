@@ -4,12 +4,26 @@ INT fija = PM del conjuro que porta; POD 3D6 (mínimo = PM del conjuro).
 
 ## Datos básicos
 
-| Campo | Valor |
-|---|---|
-| FUE / CON / TAM / INT / POD / DES / APA | — / — / — / fija (= PM del conjuro) / 3D6 (mín. = PM del conjuro) / — / — |
-| Puntos de vida | Sin PG (incorpóreo; solo PM) |
+### Caracteristicas
+
+|       | FUE | CON | TAM | INT | PER | DES | ASP |
+| ----- | --- | --- | --- | --- | --- | --- | --- |
+| Dado  | — | — | — | fija (= PM del conjuro) | 3D6 (mín. = PM del conjuro) | — | — |
+| Media | — | — | — | — | — | — | — |
+
+*FUE — Fuerza*
+*CON — Constitución*
+*TAM — Tamaño*
+*INT — Inteligencia*
+*PER — Personalidad / Poder*
+*DES — Destreza*
+*ASP — Apariencia*
+
+| Puntos de vida      | Sin PG (incorpóreo; solo PM) |
+| ------------------- | --- |
 | Modificador al daño | — |
-| Puntos de magia | = POD; Mov = POD |
+| Puntos de magia     | = POD |
+| Movimiento          | = POD |
 
 Solo almacena un conjuro espiritual y nada más; sin pensamiento racional.
 

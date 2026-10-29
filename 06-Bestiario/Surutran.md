@@ -4,12 +4,27 @@ Variante estéril autofecundada del Dwerulan; sin colonias de más de una genera
 
 ## Datos básicos
 
-| Campo | Valor |
-|---|---|
-| FUE / CON / TAM / INT / POD / DES / APA | 2D6 / 6D6 / 2D6 / 3D6 / 1D6 / 3D6+6 / 1D6 (medias ~7 / 21 / 7 / 10 / 3 / 16 / 3) |
-| Puntos de vida | 14 |
+### Caracteristicas
+
+|       | FUE | CON | TAM | INT | PER | DES | ASP |
+| ----- | --- | --- | --- | --- | --- | --- | --- |
+| Dado  | 2D6 | 6D6 | 2D6 | 3D6 | 1D6 | 3D6+6 | 1D6 |
+| Media | ~7 | ~21 | ~7 | ~10 | ~3 | ~16 | ~3 |
+
+*FUE — Fuerza*
+*CON — Constitución*
+*TAM — Tamaño*
+*INT — Inteligencia*
+*PER — Personalidad / Poder*
+*DES — Destreza*
+*ASP — Apariencia*
+
+| Puntos de vida      | 14 |
+| ------------------- | --- |
 | Modificador al daño | — |
-| Puntos de magia | 3-4; Mov 1, PF 28, MR-DES 2 |
+| Puntos de magia     | 3-4 |
+| Movimiento          | 1 |
+| Puntos de fatiga    | 28 |
 
 ## Localizaciones
 

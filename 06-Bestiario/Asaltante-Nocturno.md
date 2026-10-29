@@ -4,12 +4,27 @@ Alto y delgado de cuatro miembros con manos humanas, fuerza enorme bajo piel gri
 
 ## Datos básicos
 
-| Campo | Valor |
-|---|---|
-| FUE / CON / TAM / INT / POD / DES / APA | 12D6 / 4D6 / 6D6 / 2D6 / 3D6 / 2D6+10 / 2D6 (medias ~42 / 14 / 21 / 7 / 10 / 17 / 7) |
-| Puntos de vida | 18 |
+### Caracteristicas
+
+|       | FUE | CON | TAM | INT | PER | DES | ASP |
+| ----- | --- | --- | --- | --- | --- | --- | --- |
+| Dado  | 12D6 | 4D6 | 6D6 | 2D6 | 3D6 | 2D6+10 | 2D6 |
+| Media | ~42 | ~14 | ~21 | ~7 | ~10 | ~17 | ~7 |
+
+*FUE — Fuerza*
+*CON — Constitución*
+*TAM — Tamaño*
+*INT — Inteligencia*
+*PER — Personalidad / Poder*
+*DES — Destreza*
+*ASP — Apariencia*
+
+| Puntos de vida      | 18 |
+| ------------------- | --- |
 | Modificador al daño | +3D6 (+4D6 estrellando) |
-| Puntos de magia | —; Mov 5, PF 56, MR-DES 3 |
+| Puntos de magia     | — |
+| Movimiento          | 5 |
+| Puntos de fatiga    | 56 |
 
 ## Localizaciones
 

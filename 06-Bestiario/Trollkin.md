@@ -4,12 +4,27 @@ Enlo degenerado y más numeroso por la Gran Maldición; nace de negros y de sí 
 
 ## Datos básicos
 
-| Campo | Valor |
-|---|---|
-| FUE / CON / TAM / INT / POD / DES / APA | 2D6+3 / 3D6 / 1D6+6 / 2D6+3 / 2D6 / 3D6+3 / 2D6 (medias ~10 / 10 / 9 / 10 / 7 / 13 / 7) |
-| Puntos de vida | 10 |
+### Caracteristicas
+
+|       | FUE | CON | TAM | INT | PER | DES | ASP |
+| ----- | --- | --- | --- | --- | --- | --- | --- |
+| Dado  | 2D6+3 | 3D6 | 1D6+6 | 2D6+3 | 2D6 | 3D6+3 | 2D6 |
+| Media | ~10 | ~10 | ~9 | ~10 | ~7 | ~13 | ~7 |
+
+*FUE — Fuerza*
+*CON — Constitución*
+*TAM — Tamaño*
+*INT — Inteligencia*
+*PER — Personalidad / Poder*
+*DES — Destreza*
+*ASP — Apariencia*
+
+| Puntos de vida      | 10 |
+| ------------------- | --- |
 | Modificador al daño | — |
-| Puntos de magia | 7; Mov 2, PF 8, MR-DES 3 |
+| Puntos de magia     | 7 |
+| Movimiento          | 2 |
+| Puntos de fatiga    | 8 |
 
 ## Localizaciones
 

@@ -4,12 +4,26 @@ Piscoides más espantoso a ojos humanos; grande de espinas y escamas; odia al ho
 
 ## Datos básicos
 
-| Campo | Valor |
-|---|---|
-| FUE / CON / TAM / INT / POD / DES / APA | 3D6+6 / 1D6+12 / 4D6+12 / 3D6 / 3D6 / 4D6 / 2D6 (medias ~16 / 15 / 26 / 10 / 10 / 14 / 7) |
-| Puntos de vida | 21 |
+### Caracteristicas
+
+|       | FUE | CON | TAM | INT | PER | DES | ASP |
+| ----- | --- | --- | --- | --- | --- | --- | --- |
+| Dado  | 3D6+6 | 1D6+12 | 4D6+12 | 3D6 | 3D6 | 4D6 | 2D6 |
+| Media | ~16 | ~15 | ~26 | ~10 | ~10 | ~14 | ~7 |
+
+*FUE — Fuerza*
+*CON — Constitución*
+*TAM — Tamaño*
+*INT — Inteligencia*
+*PER — Personalidad / Poder*
+*DES — Destreza*
+*ASP — Apariencia*
+
+| Puntos de vida      | 21 |
+| ------------------- | --- |
 | Modificador al daño | +2D6 |
-| Puntos de magia | 10-11; Mov 3, PF 32, MR-DES 3 |
+| Puntos de magia     | 10-11 |
+| Movimiento          | 3 |
 
 ## Localizaciones
 

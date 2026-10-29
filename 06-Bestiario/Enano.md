@@ -2,12 +2,27 @@
 
 ## Datos básicos
 
-| Campo | Valor |
-|---|---|
-| FUE / CON / TAM / INT / POD / DES / APA | 4D6 / 1D6+12 / 2D6 / 2D6+6 / 3D6 / 3D6 / 3D6 (medias ~14 / 15 / 7 / 13 / 10 / 10 / 10) |
-| Puntos de vida | 12 |
+### Caracteristicas
+
+|       | FUE | CON | TAM | INT | PER | DES | ASP |
+| ----- | --- | --- | --- | --- | --- | --- | --- |
+| Dado  | 4D6 | 1D6+12 | 2D6 | 2D6+6 | 3D6 | 3D6 | 3D6 |
+| Media | ~14 | ~15 | ~7 | ~13 | ~10 | ~10 | ~10 |
+
+*FUE — Fuerza*
+*CON — Constitución*
+*TAM — Tamaño*
+*INT — Inteligencia*
+*PER — Personalidad / Poder*
+*DES — Destreza*
+*ASP — Apariencia*
+
+| Puntos de vida      | 12 |
+| ------------------- | --- |
 | Modificador al daño | +0/+1D4 según FUE+TAM |
-| Puntos de magia | = POD; Mov 2, PF 30 |
+| Puntos de magia     | = POD |
+| Movimiento          | 2 |
+| Puntos de fatiga    | 30 |
 
 Bajitos subterráneos, cabeza y tronco casi humanos, extremidades cortas musculosas; varones barbudos. Hembras aún más raras de ver.
 

@@ -2,12 +2,27 @@
 
 ## Datos básicos
 
-| Campo | Valor |
-|---|---|
-| FUE / CON / TAM / INT / POD / DES / APA | 4D6+12 / 4D6 / 3D6+18 / 1D3 por cabeza / 2D6+9 / 3D6 / — (medias ~26 / 14 / 28 / 4-16 / 16 / 10; 2D4 cabezas típico) |
-| Puntos de vida | 22 |
+### Caracteristicas
+
+|       | FUE | CON | TAM | INT | PER | DES | ASP |
+| ----- | --- | --- | --- | --- | --- | --- | --- |
+| Dado  | 4D6+12 | 4D6 | 3D6+18 | 1D3 por cabeza | 2D6+9 | 3D6 | — |
+| Media | ~26 | ~14 | ~28 | 4-16 | ~16 | ~10 | — |
+
+*FUE — Fuerza*
+*CON — Constitución*
+*TAM — Tamaño*
+*INT — Inteligencia*
+*PER — Personalidad / Poder*
+*DES — Destreza*
+*ASP — Apariencia*
+
+| Puntos de vida      | 22 |
+| ------------------- | --- |
 | Modificador al daño | +2D6 |
-| Puntos de magia | PM = PER; Mov 3, PF 40 |
+| Puntos de magia     | PM = PER |
+| Movimiento          | 3 |
+| Puntos de fatiga    | 40 |
 
 ## Localizaciones
 

@@ -2,12 +2,27 @@
 
 ## Datos básicos
 
-| Campo | Valor |
-|---|---|
-| FUE / CON / TAM / INT / POD / DES / APA | 2D6 / 3D6 / 2D3 / — / 3D6 / 3D6+6 / — (medias ~7 / 10 / 4 / — / 10 / 16; hembras FUE/TAM 2D6/1D4 y mordisco 1D6) |
-| Puntos de vida | 7-8 |
+### Caracteristicas
+
+|       | FUE | CON | TAM | INT | PER | DES | ASP |
+| ----- | --- | --- | --- | --- | --- | --- | --- |
+| Dado  | 2D6 | 3D6 | 2D3 | — | 3D6 | 3D6+6 | — |
+| Media | ~7 | ~10 | ~4 | — | ~10 | ~16 | — |
+
+*FUE — Fuerza*
+*CON — Constitución*
+*TAM — Tamaño*
+*INT — Inteligencia*
+*PER — Personalidad / Poder*
+*DES — Destreza*
+*ASP — Apariencia*
+
+| Puntos de vida      | 7-8 |
+| ------------------- | --- |
 | Modificador al daño | No suma al mordisco |
-| Puntos de magia | No; Mov 4, PF 18 |
+| Puntos de magia     | No |
+| Movimiento          | 4 |
+| Puntos de fatiga    | 18 |
 
 ## Localizaciones
 

@@ -2,12 +2,27 @@
 
 ## Datos básicos
 
-| Campo | Valor |
-|---|---|
-| FUE / CON / TAM / INT / POD / DES / APA | 6D6+15 / 2D6+6 / 4D6+12 / 7 / 3D6 / 3D6+3 / — (medias ~36 / 13 / 26 / 7 / 10 / 13; hembras −1D6 FUE/TAM) |
-| Puntos de vida | 20 |
+### Caracteristicas
+
+|       | FUE | CON | TAM | INT | PER | DES | ASP |
+| ----- | --- | --- | --- | --- | --- | --- | --- |
+| Dado  | 6D6+15 | 2D6+6 | 4D6+12 | 7 | 3D6 | 3D6+3 | — |
+| Media | ~36 | ~13 | ~26 | ~7 | ~10 | ~13 | — |
+
+*FUE — Fuerza*
+*CON — Constitución*
+*TAM — Tamaño*
+*INT — Inteligencia*
+*PER — Personalidad / Poder*
+*DES — Destreza*
+*ASP — Apariencia*
+
+| Puntos de vida      | 20 |
+| ------------------- | --- |
 | Modificador al daño | +3D6 (mordisco y manotazo a mitad; lucha entero) |
-| Puntos de magia | No; Mov 2 (3 en árboles), PF 49 |
+| Puntos de magia     | No |
+| Movimiento          | 2 (3 en árboles) |
+| Puntos de fatiga    | 49 |
 
 ## Localizaciones
 

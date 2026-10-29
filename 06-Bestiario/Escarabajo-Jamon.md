@@ -4,12 +4,27 @@ Bothynus pernae. Pariente pequeño de los de hojas, herbívoro del tamaño de un
 
 ## Datos básicos
 
-| Campo | Valor |
-|---|---|
-| FUE / CON / TAM / INT / PER / DES | 1D3 / 2D6 / 1D4 / 2 / 1D6+2 / 3D6 (medias ~2 / 7 / 2 / 2 / 5 / 10) |
-| Puntos de vida | 5 |
+### Caracteristicas
+
+|       | FUE | CON | TAM | INT | PER | DES | ASP |
+| ----- | --- | --- | --- | --- | --- | --- | --- |
+| Dado  | 1D3 | 2D6 | 1D4 | 2 | 1D6+2 | 3D6 | — |
+| Media | ~2 | ~7 | ~2 | ~2 | ~5 | ~10 | — |
+
+*FUE — Fuerza*
+*CON — Constitución*
+*TAM — Tamaño*
+*INT — Inteligencia*
+*PER — Personalidad / Poder*
+*DES — Destreza*
+*ASP — Apariencia*
+
+| Puntos de vida      | 5 |
+| ------------------- | --- |
 | Modificador al daño | — |
-| Puntos de magia | No; Mov 1 (3 volando), PF 9 |
+| Puntos de magia     | No |
+| Movimiento          | 1 (3 volando) |
+| Puntos de fatiga    | 9 |
 
 ## Localizaciones (resumen)
 

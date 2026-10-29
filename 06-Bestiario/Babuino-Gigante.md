@@ -4,12 +4,27 @@ Manadas inteligentes de Yermos mayores y listos que sus parientes; familias de 1
 
 ## Datos básicos
 
-| Campo | Valor |
-|---|---|
-| FUE / CON / TAM / INT / POD / DES / APA | 3D6+6 / 3D6 / 3D6 / 2D6+6 / 2D6+6 / 3D6+6 / 3D6 (medias ~16 / 10 / 10 / 13 / 13 / 16 / 10; hembras FUE 3D6, TAM 2D6) |
-| Puntos de vida | 10-11 |
+### Caracteristicas
+
+|       | FUE | CON | TAM | INT | PER | DES | ASP |
+| ----- | --- | --- | --- | --- | --- | --- | --- |
+| Dado  | 3D6+6 | 3D6 | 3D6 | 2D6+6 | 2D6+6 | 3D6+6 | 3D6 |
+| Media | ~16 | ~10 | ~10 | ~13 | ~13 | ~16 | ~10 |
+
+*FUE — Fuerza*
+*CON — Constitución*
+*TAM — Tamaño*
+*INT — Inteligencia*
+*PER — Personalidad / Poder*
+*DES — Destreza*
+*ASP — Apariencia*
+
+| Puntos de vida      | 10-11 |
+| ------------------- | --- |
 | Modificador al daño | +1D4 |
-| Puntos de magia | 13; Mov 5, PF 27, MR-DES 2 |
+| Puntos de magia     | 13 |
+| Movimiento          | 5 |
+| Puntos de fatiga    | 27 |
 
 ## Localizaciones
 

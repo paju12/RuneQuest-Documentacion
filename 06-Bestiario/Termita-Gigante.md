@@ -4,12 +4,27 @@ Termopsis extravagansis. Comunidades enormes en montículos; el sol las desmoral
 
 ## Datos básicos (obrera base)
 
-| Campo | Valor |
-|---|---|
-| FUE / CON / TAM / INT / PER / DES | 3D6 / 3D6 / 2D6 / 1 / 1D6+6 / 3D6 (medias ~10 / 10 / 7 / 1 / 9 / 10) |
-| Puntos de vida | 9 |
+### Caracteristicas
+
+|       | FUE | CON | TAM | INT | PER | DES | ASP |
+| ----- | --- | --- | --- | --- | --- | --- | --- |
+| Dado  | 3D6 | 3D6 | 2D6 | 1 | 1D6+6 | 3D6 | — |
+| Media | ~10 | ~10 | ~7 | ~1 | ~9 | ~10 | — |
+
+*FUE — Fuerza*
+*CON — Constitución*
+*TAM — Tamaño*
+*INT — Inteligencia*
+*PER — Personalidad / Poder*
+*DES — Destreza*
+*ASP — Apariencia*
+
+| Puntos de vida      | 9 |
+| ------------------- | --- |
 | Modificador al daño | — |
-| Puntos de magia | No; Mov 3, PF 21 |
+| Puntos de magia     | No |
+| Movimiento          | 3 |
+| Puntos de fatiga    | 21 |
 
 ## Localizaciones (resumen)
 

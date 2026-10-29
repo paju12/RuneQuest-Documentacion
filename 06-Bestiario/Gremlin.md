@@ -4,12 +4,27 @@ Nilmerg que destruye mejor que repara: recogido, entrenado a perfección destruc
 
 ## Datos básicos
 
-| Campo | Valor |
-|---|---|
-| FUE / CON / TAM / INT / POD / DES / APA | 2D6 / 2D6 / 2 / 3D6 / 3D6 / 2D6+18 / — (medias ~7 / 7 / 2 / 10 / 10 / 25) |
-| Puntos de vida | 5 |
+### Caracteristicas
+
+|       | FUE | CON | TAM | INT | PER | DES | ASP |
+| ----- | --- | --- | --- | --- | --- | --- | --- |
+| Dado  | 2D6 | 2D6 | 2 | 3D6 | 3D6 | 2D6+18 | — |
+| Media | ~7 | ~7 | ~2 | ~10 | ~10 | ~25 | — |
+
+*FUE — Fuerza*
+*CON — Constitución*
+*TAM — Tamaño*
+*INT — Inteligencia*
+*PER — Personalidad / Poder*
+*DES — Destreza*
+*ASP — Apariencia*
+
+| Puntos de vida      | 5 |
+| ------------------- | --- |
 | Modificador al daño | — |
-| Puntos de magia | 10-11; Mov 2, PF 14, MR-DES 1 |
+| Puntos de magia     | 10-11 |
+| Movimiento          | 2 |
+| Puntos de fatiga    | 14 |
 
 ## Localizaciones
 

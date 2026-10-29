@@ -4,12 +4,27 @@ Pequeño antílope montura de pigmeos de Prax; manadas medianas; salta 9 m de un
 
 ## Datos básicos
 
-| Campo | Valor |
-|---|---|
-| FUE / CON / TAM / INT / POD / DES / APA | 1D6+12 / 3D6 / 1D6+12 / 4 / 3D6 / 2D6+6 / — (medias ~15 / 10 / 15 / 4 / 10 / 13; hembras FUE/TAM 2D6+6) |
-| Puntos de vida | 13 |
+### Caracteristicas
+
+|       | FUE | CON | TAM | INT | PER | DES | ASP |
+| ----- | --- | --- | --- | --- | --- | --- | --- |
+| Dado  | 1D6+12 | 3D6 | 1D6+12 | 4 | 3D6 | 2D6+6 | — |
+| Media | ~15 | ~10 | ~15 | ~4 | ~10 | ~13 | — |
+
+*FUE — Fuerza*
+*CON — Constitución*
+*TAM — Tamaño*
+*INT — Inteligencia*
+*PER — Personalidad / Poder*
+*DES — Destreza*
+*ASP — Apariencia*
+
+| Puntos de vida      | 13 |
+| ------------------- | --- |
 | Modificador al daño | +1D4 |
-| Puntos de magia | —; Mov 13, PF 26, MR-DES 3 |
+| Puntos de magia     | — |
+| Movimiento          | 13 |
+| Puntos de fatiga    | 26 |
 
 ## Localizaciones
 

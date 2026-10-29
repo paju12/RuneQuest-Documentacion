@@ -2,12 +2,27 @@
 
 ## Datos básicos
 
-| Campo | Valor |
-|---|---|
-| FUE / CON / TAM / INT / POD / DES / APA | 2D6+18 / 2D6+9 / 2D6+18 / 2 (fija) / 3D6 / 3D6 / — (medias ~25 / 16 / 25 / 2 / 10 / 10) |
-| Puntos de vida | 21 |
+### Caracteristicas
+
+|       | FUE | CON | TAM | INT | PER | DES | ASP |
+| ----- | --- | --- | --- | --- | --- | --- | --- |
+| Dado  | 2D6+18 | 2D6+9 | 2D6+18 | 2 (fija) | 3D6 | 3D6 | — |
+| Media | ~25 | ~16 | ~25 | ~2 | ~10 | ~10 | — |
+
+*FUE — Fuerza*
+*CON — Constitución*
+*TAM — Tamaño*
+*INT — Inteligencia*
+*PER — Personalidad / Poder*
+*DES — Destreza*
+*ASP — Apariencia*
+
+| Puntos de vida      | 21 |
+| ------------------- | --- |
 | Modificador al daño | +2D6 aprox. |
-| Puntos de magia | No (o = POD si se trata como reserva de gas/regen); Mov 3, PF 41 |
+| Puntos de magia     | No (o = POD si se trata como reserva de gas/regen) |
+| Movimiento          | 3 |
+| Puntos de fatiga    | 41 |
 
 Hombre con cabezas de pulpo entero; 8 tentáculos + brazos humanos de equilibrio. Anfibio de climas húmedos.
 

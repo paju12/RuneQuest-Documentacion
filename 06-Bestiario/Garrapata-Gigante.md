@@ -4,12 +4,27 @@ Dermacentor gigans. Acecha en plantas, matorrales y copas. 50 % porta una enferm
 
 ## Datos básicos
 
-| Campo | Valor |
-|---|---|
-| FUE / CON / TAM / INT / PER / DES | 1D6+6 / 2D6+12 / 1D6+1 / 1 / 2D6+3 / 1D4+4 (medias ~9 / 19 / 4 / 1 / 10 / 6) |
-| Puntos de vida | 12 |
+### Caracteristicas
+
+|       | FUE | CON | TAM | INT | PER | DES | ASP |
+| ----- | --- | --- | --- | --- | --- | --- | --- |
+| Dado  | 1D6+6 | 2D6+12 | 1D6+1 | 1 | 2D6+3 | 1D4+4 | — |
+| Media | ~9 | ~19 | ~4 | ~1 | ~10 | ~6 | — |
+
+*FUE — Fuerza*
+*CON — Constitución*
+*TAM — Tamaño*
+*INT — Inteligencia*
+*PER — Personalidad / Poder*
+*DES — Destreza*
+*ASP — Apariencia*
+
+| Puntos de vida      | 12 |
+| ------------------- | --- |
 | Modificador al daño | Ver ataques |
-| Puntos de magia | No; Mov 1, PF 29 |
+| Puntos de magia     | No |
+| Movimiento          | 1 |
+| Puntos de fatiga    | 29 |
 
 ## Localizaciones (resumen)
 

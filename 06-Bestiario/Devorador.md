@@ -4,12 +4,26 @@ Programado enano contra ladrones de sustancias (pólvora y útiles): come de tod
 
 ## Datos básicos
 
-| Campo | Valor |
-|---|---|
-| FUE / CON / TAM / INT / POD / DES / APA | 2D6+12 / 4D6+12 / 3D6+12 / 1D6+2 / 2D6+8 / 3D6 / — (medias ~19 / 26 / 22 / 5 / 15 / 10) |
-| Puntos de vida | 25 |
+### Caracteristicas
+
+|       | FUE | CON | TAM | INT | PER | DES | ASP |
+| ----- | --- | --- | --- | --- | --- | --- | --- |
+| Dado  | 2D6+12 | 4D6+12 | 3D6+12 | 1D6+2 | 2D6+8 | 3D6 | — |
+| Media | ~19 | ~26 | ~22 | ~5 | ~15 | ~10 | — |
+
+*FUE — Fuerza*
+*CON — Constitución*
+*TAM — Tamaño*
+*INT — Inteligencia*
+*PER — Personalidad / Poder*
+*DES — Destreza*
+*ASP — Apariencia*
+
+| Puntos de vida      | 25 |
+| ------------------- | --- |
 | Modificador al daño | +2D6 |
-| Puntos de magia | 15; Mov 3, PF 45, MR-DES 3 |
+| Puntos de magia     | 15 |
+| Movimiento          | 3 |
 
 ## Localizaciones
 

@@ -4,12 +4,27 @@ Hambre encarnada de pantanos y bosques húmedos pamaltelanos; arrugado de mandí
 
 ## Datos básicos
 
-| Campo | Valor |
-|---|---|
-| FUE / CON / TAM / INT / POD / DES / APA | 3D6+12 / 2D6+6 / 2D6+12 / 6 / 1D6+12 / 3D6 / — (medias ~22 / 13 / 19 / 6 / 15 / 10) |
-| Puntos de vida | 16 |
+### Caracteristicas
+
+|       | FUE | CON | TAM | INT | PER | DES | ASP |
+| ----- | --- | --- | --- | --- | --- | --- | --- |
+| Dado  | 3D6+12 | 2D6+6 | 2D6+12 | 6 | 1D6+12 | 3D6 | — |
+| Media | ~22 | ~13 | ~19 | ~6 | ~15 | ~10 | — |
+
+*FUE — Fuerza*
+*CON — Constitución*
+*TAM — Tamaño*
+*INT — Inteligencia*
+*PER — Personalidad / Poder*
+*DES — Destreza*
+*ASP — Apariencia*
+
+| Puntos de vida      | 16 |
+| ------------------- | --- |
 | Modificador al daño | +2D6 |
-| Puntos de magia | —; Mov 2 (3 nadando, 4 volando), PF 36, MR-DES 3 |
+| Puntos de magia     | — |
+| Movimiento          | 2 (3 nadando, 4 volando) |
+| Puntos de fatiga    | 36 |
 
 ## Localizaciones
 

@@ -4,12 +4,27 @@ Común en llanuras pamaltelanas; cuerno nasal aplanado y bifurcado, joroba y cr�
 
 ## Datos básicos
 
-| Campo | Valor |
-|---|---|
-| FUE / CON / TAM / INT / POD / DES / APA | 6D6+30 / 3D6+12 / 6D6+30 / 3 / 3D6 / 2D6 / — (medias ~51 / 22 / 51 / 3 / 10 / 7; hembras FUE/TAM 6D6+20 y 6 de armadura) |
-| Puntos de vida | 37 |
+### Caracteristicas
+
+|       | FUE | CON | TAM | INT | PER | DES | ASP |
+| ----- | --- | --- | --- | --- | --- | --- | --- |
+| Dado  | 6D6+30 | 3D6+12 | 6D6+30 | 3 | 3D6 | 2D6 | — |
+| Media | ~51 | ~22 | ~51 | ~3 | ~10 | ~7 | — |
+
+*FUE — Fuerza*
+*CON — Constitución*
+*TAM — Tamaño*
+*INT — Inteligencia*
+*PER — Personalidad / Poder*
+*DES — Destreza*
+*ASP — Apariencia*
+
+| Puntos de vida      | 37 |
+| ------------------- | --- |
 | Modificador al daño | +5D6 |
-| Puntos de magia | —; Mov 6, PF 74, MR-DES 4 |
+| Puntos de magia     | — |
+| Movimiento          | 6 |
+| Puntos de fatiga    | 74 |
 
 ## Localizaciones
 

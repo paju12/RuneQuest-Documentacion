@@ -4,12 +4,27 @@ Enorme escamoso con aletas; único marino que respira agua y se ahoga en aire, s
 
 ## Datos básicos
 
-| Campo | Valor |
-|---|---|
-| FUE / CON / TAM / INT / POD / DES / APA | 5D6+9 / 3D6+9 / 6D6+18 / 4D6 / 2D6+6 / 3D6+12 / 3D6 (medias ~28 / 19 / 39 / 14 / 13 / 22 / 10) |
-| Puntos de vida | 29-30 |
+### Caracteristicas
+
+|       | FUE | CON | TAM | INT | PER | DES | ASP |
+| ----- | --- | --- | --- | --- | --- | --- | --- |
+| Dado  | 5D6+9 | 3D6+9 | 6D6+18 | 4D6 | 2D6+6 | 3D6+12 | 3D6 |
+| Media | ~28 | ~19 | ~39 | ~14 | ~13 | ~22 | ~10 |
+
+*FUE — Fuerza*
+*CON — Constitución*
+*TAM — Tamaño*
+*INT — Inteligencia*
+*PER — Personalidad / Poder*
+*DES — Destreza*
+*ASP — Apariencia*
+
+| Puntos de vida      | 29-30 |
+| ------------------- | --- |
 | Modificador al daño | +3D6 |
-| Puntos de magia | 13; Mov 5, PF 36, MR-DES 1 |
+| Puntos de magia     | 13 |
+| Movimiento          | 5 |
+| Puntos de fatiga    | 36 |
 
 ## Localizaciones
 

@@ -4,12 +4,27 @@ Trasgo de Sozganjio (slorifingo) esmirriado y perverso hasta para pantaneros; el
 
 ## Datos básicos
 
-| Campo | Valor |
-|---|---|
-| FUE / CON / TAM / INT / POD / DES / APA | 2D6 / 2D6 / 1D10 / 3D6 / 2D6 / 2D6+6 / 2D6 (medias ~7 / 7 / 5 / 10 / 7 / 13 / 7; FUE nunca más del doble del TAM) |
-| Puntos de vida | 7 |
+### Caracteristicas
+
+|       | FUE | CON | TAM | INT | PER | DES | ASP |
+| ----- | --- | --- | --- | --- | --- | --- | --- |
+| Dado  | 2D6 | 2D6 | 1D10 | 3D6 | 2D6 | 2D6+6 | 2D6 |
+| Media | ~7 | ~7 | ~5 | ~10 | ~7 | ~13 | ~7 |
+
+*FUE — Fuerza*
+*CON — Constitución*
+*TAM — Tamaño*
+*INT — Inteligencia*
+*PER — Personalidad / Poder*
+*DES — Destreza*
+*ASP — Apariencia*
+
+| Puntos de vida      | 7 |
+| ------------------- | --- |
 | Modificador al daño | — |
-| Puntos de magia | —; Mov 2, PF 14, MR-DES 3 |
+| Puntos de magia     | — |
+| Movimiento          | 2 |
+| Puntos de fatiga    | 14 |
 
 ## Localizaciones
 

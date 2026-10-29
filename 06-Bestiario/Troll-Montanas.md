@@ -4,12 +4,27 @@ Snang gigante y solitario de cavernas pamaltelano; feroz, no se asocia; Caos lig
 
 ## Datos básicos
 
-| Campo | Valor |
-|---|---|
-| FUE / CON / TAM / INT / POD / DES / APA | 4D6+18 / 3D6+6 / 4D6+24 / 1D6+2 / 2D6+3 / 2D6+1 / 2D6 (medias ~32 / 16 / 38 / 5 / 10 / 8 / 7) |
-| Puntos de vida | 28 |
+### Caracteristicas
+
+|       | FUE | CON | TAM | INT | PER | DES | ASP |
+| ----- | --- | --- | --- | --- | --- | --- | --- |
+| Dado  | 4D6+18 | 3D6+6 | 4D6+24 | 1D6+2 | 2D6+3 | 2D6+1 | 2D6 |
+| Media | ~32 | ~16 | ~38 | ~5 | ~10 | ~8 | ~7 |
+
+*FUE — Fuerza*
+*CON — Constitución*
+*TAM — Tamaño*
+*INT — Inteligencia*
+*PER — Personalidad / Poder*
+*DES — Destreza*
+*ASP — Apariencia*
+
+| Puntos de vida      | 28 |
+| ------------------- | --- |
 | Modificador al daño | +3D6 |
-| Puntos de magia | 10; Mov 4, PF 49, MR-DES 4 |
+| Puntos de magia     | 10 |
+| Movimiento          | 4 |
+| Puntos de fatiga    | 49 |
 
 ## Localizaciones
 

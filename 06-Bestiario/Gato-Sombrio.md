@@ -4,12 +4,27 @@ Felino oscuro de doméstico a perro grande en laderas y cimas Petrificadas; llam
 
 ## Datos básicos
 
-| Campo | Valor |
-|---|---|
-| FUE / CON / TAM / INT / POD / DES / APA | 2D6 / 2D6+6 / 1D6 / 5 / 2D6+12 / 3D6+12 / — (medias ~7 / 13 / 3 / 5 / 19 / 22) |
-| Puntos de vida | 8-9 |
+### Caracteristicas
+
+|       | FUE | CON | TAM | INT | PER | DES | ASP |
+| ----- | --- | --- | --- | --- | --- | --- | --- |
+| Dado  | 2D6 | 2D6+6 | 1D6 | 5 | 2D6+12 | 3D6+12 | — |
+| Media | ~7 | ~13 | ~3 | ~5 | ~19 | ~22 | — |
+
+*FUE — Fuerza*
+*CON — Constitución*
+*TAM — Tamaño*
+*INT — Inteligencia*
+*PER — Personalidad / Poder*
+*DES — Destreza*
+*ASP — Apariencia*
+
+| Puntos de vida      | 8-9 |
+| ------------------- | --- |
 | Modificador al daño | -1D4 |
-| Puntos de magia | —; Mov 8, PF 20, MR-DES 1 |
+| Puntos de magia     | — |
+| Movimiento          | 8 |
+| Puntos de fatiga    | 20 |
 
 ## Localizaciones
 

@@ -4,12 +4,27 @@ Piedra viva con rostro horrible y forma humanoide; quieta como estatua, activada
 
 ## Datos básicos
 
-| Campo | Valor |
-|---|---|
-| FUE / CON / TAM / INT / POD / DES / APA | 1-6D6+12 / 3D6 / 1-6D6 / 1D6 / 3D6 / 3D6 / — (medias FUE 15-33, TAM 3-21) |
-| Puntos de vida | 7-16 |
+### Caracteristicas
+
+|       | FUE | CON | TAM | INT | PER | DES | ASP |
+| ----- | --- | --- | --- | --- | --- | --- | --- |
+| Dado  | 1-6D6+12 | 3D6 | 1-6D6 | 1D6 | 3D6 | 3D6 | — |
+| Media | 15-33 | — | 3-21 | — | — | — | — |
+
+*FUE — Fuerza*
+*CON — Constitución*
+*TAM — Tamaño*
+*INT — Inteligencia*
+*PER — Personalidad / Poder*
+*DES — Destreza*
+*ASP — Apariencia*
+
+| Puntos de vida      | 7-16 |
+| ------------------- | --- |
 | Modificador al daño | 0 a 2D6 |
-| Puntos de magia | —; Mov 2 (4 volando), PF 25-44, MR-DES 3 |
+| Puntos de magia     | — |
+| Movimiento          | 2 (4 volando) |
+| Puntos de fatiga    | 25-44 |
 
 ## Localizaciones
 

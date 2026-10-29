@@ -4,12 +4,27 @@ Cetoide de más contacto humano; cola lisa de ballena con aleta horizontal; amis
 
 ## Datos básicos
 
-| Campo | Valor |
-|---|---|
-| FUE / CON / TAM / INT / POD / DES / APA | 2D6+6 / 3D6 / 3D6+6 / 2D6+6 / 3D6 / 2D6+6 / 3D6 (medias ~13 / 10 / 16 / 13 / 10 / 13 / 10; hembras FUE 3D6, TAM 2D6+6, APA 4D6) |
-| Puntos de vida | 14 |
+### Caracteristicas
+
+|       | FUE | CON | TAM | INT | PER | DES | ASP |
+| ----- | --- | --- | --- | --- | --- | --- | --- |
+| Dado  | 2D6+6 | 3D6 | 3D6+6 | 2D6+6 | 3D6 | 2D6+6 | 3D6 |
+| Media | ~13 | ~10 | ~16 | ~13 | ~10 | ~13 | ~10 |
+
+*FUE — Fuerza*
+*CON — Constitución*
+*TAM — Tamaño*
+*INT — Inteligencia*
+*PER — Personalidad / Poder*
+*DES — Destreza*
+*ASP — Apariencia*
+
+| Puntos de vida      | 14 |
+| ------------------- | --- |
 | Modificador al daño | +1D4 |
-| Puntos de magia | 10-11; Mov 4, PF 24, MR-DES 3 |
+| Puntos de magia     | 10-11 |
+| Movimiento          | 4 |
+| Puntos de fatiga    | 24 |
 
 ## Localizaciones
 

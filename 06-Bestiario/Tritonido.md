@@ -4,12 +4,27 @@ Anfibio de ciclo complejo en Maniria (jóvenes sin aparear en Prax y Ralios); a 
 
 ## Datos básicos
 
-| Campo | Valor |
-|---|---|
-| FUE / CON / TAM / INT / POD / DES / APA | 3D6 / 3D6 / 2D6 / 2D6+6 / 3D6 / 2D6+6 / 3D6 (medias ~10 / 10 / 7 / 13 / 10 / 13 / 10) |
-| Puntos de vida | 9 |
+### Caracteristicas
+
+|       | FUE | CON | TAM | INT | PER | DES | ASP |
+| ----- | --- | --- | --- | --- | --- | --- | --- |
+| Dado  | 3D6 | 3D6 | 2D6 | 2D6+6 | 3D6 | 2D6+6 | 3D6 |
+| Media | ~10 | ~10 | ~7 | ~13 | ~10 | ~13 | ~10 |
+
+*FUE — Fuerza*
+*CON — Constitución*
+*TAM — Tamaño*
+*INT — Inteligencia*
+*PER — Personalidad / Poder*
+*DES — Destreza*
+*ASP — Apariencia*
+
+| Puntos de vida      | 9 |
+| ------------------- | --- |
 | Modificador al daño | — |
-| Puntos de magia | 11; Mov 2 (4 nadando), PF 21, MR-DES 3 |
+| Puntos de magia     | 11 |
+| Movimiento          | 2 (4 nadando) |
+| Puntos de fatiga    | 21 |
 
 ## Localizaciones
 

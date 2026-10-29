@@ -4,12 +4,27 @@ Scolopendra sp. Cuerpo largo segmentado de unos 10 m, cabeza con mandíbulas ven
 
 ## Datos básicos
 
-| Campo | Valor |
-|---|---|
-| FUE / CON / TAM / INT / PER / DES | 8D6 / 12D6 / 12D6 / 1 / 2D6+3 / 3D6 (medias ~28 / 42 / 42 / 1 / 10 / 10) |
-| Puntos de vida | 42 |
+### Caracteristicas
+
+|       | FUE | CON | TAM | INT | PER | DES | ASP |
+| ----- | --- | --- | --- | --- | --- | --- | --- |
+| Dado  | 8D6 | 12D6 | 12D6 | 1 | 2D6+3 | 3D6 | — |
+| Media | ~28 | ~42 | ~42 | ~1 | ~10 | ~10 | — |
+
+*FUE — Fuerza*
+*CON — Constitución*
+*TAM — Tamaño*
+*INT — Inteligencia*
+*PER — Personalidad / Poder*
+*DES — Destreza*
+*ASP — Apariencia*
+
+| Puntos de vida      | 42 |
+| ------------------- | --- |
 | Modificador al daño | +3D6 |
-| Puntos de magia | No; Mov 5, PF 70 |
+| Puntos de magia     | No |
+| Movimiento          | 5 |
+| Puntos de fatiga    | 70 |
 
 ## Localizaciones (resumen)
 

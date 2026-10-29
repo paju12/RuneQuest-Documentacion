@@ -4,12 +4,27 @@ Simio peludo desgarbado de manos en garra y cabecita con nariz de rapaz; ve sele
 
 ## Datos básicos
 
-| Campo | Valor |
-|---|---|
-| FUE / CON / TAM / INT / POD / DES / APA | 1D6+12 / 2D6+6 / 3D6+6 / 3D6 / 3D6 / 2D6 / 2D6 (medias ~15 / 13 / 16 / 10 / 10 / 7 / 7) |
-| Puntos de vida | 15 |
+### Caracteristicas
+
+|       | FUE | CON | TAM | INT | PER | DES | ASP |
+| ----- | --- | --- | --- | --- | --- | --- | --- |
+| Dado  | 1D6+12 | 2D6+6 | 3D6+6 | 3D6 | 3D6 | 2D6 | 2D6 |
+| Media | ~15 | ~13 | ~16 | ~10 | ~10 | ~7 | ~7 |
+
+*FUE — Fuerza*
+*CON — Constitución*
+*TAM — Tamaño*
+*INT — Inteligencia*
+*PER — Personalidad / Poder*
+*DES — Destreza*
+*ASP — Apariencia*
+
+| Puntos de vida      | 15 |
+| ------------------- | --- |
 | Modificador al daño | +1D4 |
-| Puntos de magia | 10-11; Mov 2, PF 29, MR-DES 4 |
+| Puntos de magia     | 10-11 |
+| Movimiento          | 2 |
+| Puntos de fatiga    | 29 |
 
 ## Localizaciones
 

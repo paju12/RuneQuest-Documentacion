@@ -4,12 +4,27 @@ Hombre bestia centauroide con bajo de rinoceronte y placas durísimas; 3 m al lo
 
 ## Datos básicos
 
-| Campo | Valor |
-|---|---|
-| FUE / CON / TAM / INT / POD / DES / APA | 6D6+36 / 3D6+18 / 6D6+30 / 1D6+2 / 3D6 / 3D6 / 1D6 (medias ~57 / 28 / 51 / 5 / 10 / 10 / 3) |
-| Puntos de vida | 40 |
+### Caracteristicas
+
+|       | FUE | CON | TAM | INT | PER | DES | ASP |
+| ----- | --- | --- | --- | --- | --- | --- | --- |
+| Dado  | 6D6+36 | 3D6+18 | 6D6+30 | 1D6+2 | 3D6 | 3D6 | 1D6 |
+| Media | ~57 | ~28 | ~51 | ~5 | ~10 | ~10 | ~3 |
+
+*FUE — Fuerza*
+*CON — Constitución*
+*TAM — Tamaño*
+*INT — Inteligencia*
+*PER — Personalidad / Poder*
+*DES — Destreza*
+*ASP — Apariencia*
+
+| Puntos de vida      | 40 |
+| ------------------- | --- |
 | Modificador al daño | +6D6 |
-| Puntos de magia | —; Mov 6, PF 86, MR-DES 3 |
+| Puntos de magia     | — |
+| Movimiento          | 6 |
+| Puntos de fatiga    | 86 |
 
 ## Localizaciones
 

@@ -4,12 +4,27 @@ Timinitido alto y delgado de cabeza aplastada inexpresiva con boca compleja y qu
 
 ## Datos básicos
 
-| Campo | Valor |
-|---|---|
-| FUE / CON / TAM / INT / POD / DES / APA | 3D6+3 / 3D6+6 / 2D6+6 / 1D6+10 / 3D6 / 1D6+15 / 3D6 (medias ~13 / 16 / 13 / 13 / 10 / 18 / 10) |
-| Puntos de vida | 15 |
+### Caracteristicas
+
+|       | FUE | CON | TAM | INT | PER | DES | ASP |
+| ----- | --- | --- | --- | --- | --- | --- | --- |
+| Dado  | 3D6+3 | 3D6+6 | 2D6+6 | 1D6+10 | 3D6 | 1D6+15 | 3D6 |
+| Media | ~13 | ~16 | ~13 | ~13 | ~10 | ~18 | ~10 |
+
+*FUE — Fuerza*
+*CON — Constitución*
+*TAM — Tamaño*
+*INT — Inteligencia*
+*PER — Personalidad / Poder*
+*DES — Destreza*
+*ASP — Apariencia*
+
+| Puntos de vida      | 15 |
+| ------------------- | --- |
 | Modificador al daño | +1D4 |
-| Puntos de magia | 10-11; Mov 4, PF 36, MR-DES 2 |
+| Puntos de magia     | 10-11 |
+| Movimiento          | 4 |
+| Puntos de fatiga    | 36 |
 
 ## Localizaciones
 

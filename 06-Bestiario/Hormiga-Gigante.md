@@ -2,12 +2,27 @@
 
 ## Datos básicos
 
-| Campo | Valor |
-|---|---|
-| FUE / CON / TAM / INT / POD / DES / APA | 4D6 / 3D6+6 / 2D6 / 2 / 1D6+4 / 2D6+6 / — (medias ~14 / 16 / 7 / 2 / 7 / 13; casta obrera/soldado mediana) |
-| Puntos de vida | 12 |
+### Caracteristicas
+
+|       | FUE | CON | TAM | INT | PER | DES | ASP |
+| ----- | --- | --- | --- | --- | --- | --- | --- |
+| Dado  | 4D6 | 3D6+6 | 2D6 | 2 | 1D6+4 | 2D6+6 | — |
+| Media | ~14 | ~16 | ~7 | ~2 | ~7 | ~13 | — |
+
+*FUE — Fuerza*
+*CON — Constitución*
+*TAM — Tamaño*
+*INT — Inteligencia*
+*PER — Personalidad / Poder*
+*DES — Destreza*
+*ASP — Apariencia*
+
+| Puntos de vida      | 12 |
+| ------------------- | --- |
 | Modificador al daño | Ver ataques |
-| Puntos de magia | No; Mov 4, PF 31 |
+| Puntos de magia     | No |
+| Movimiento          | 4 |
+| Puntos de fatiga    | 31 |
 
 ## Localizaciones
 

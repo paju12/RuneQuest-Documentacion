@@ -4,12 +4,27 @@ Trasgo de Hornilio (elfo rojo o helechal, slorifingo) grande y común; duendes e
 
 ## Datos básicos
 
-| Campo | Valor |
-|---|---|
-| FUE / CON / TAM / INT / POD / DES / APA | 2D4 / 1D6+12 / 3D4 / 3D6+3 / 3D6 / 2D6+9 / 3D6 (medias ~5 / 15 / 7 / 13 / 10 / 16 / 10) |
-| Puntos de vida | 12 |
+### Caracteristicas
+
+|       | FUE | CON | TAM | INT | PER | DES | ASP |
+| ----- | --- | --- | --- | --- | --- | --- | --- |
+| Dado  | 2D4 | 1D6+12 | 3D4 | 3D6+3 | 3D6 | 2D6+9 | 3D6 |
+| Media | ~5 | ~15 | ~7 | ~13 | ~10 | ~16 | ~10 |
+
+*FUE — Fuerza*
+*CON — Constitución*
+*TAM — Tamaño*
+*INT — Inteligencia*
+*PER — Personalidad / Poder*
+*DES — Destreza*
+*ASP — Apariencia*
+
+| Puntos de vida      | 12 |
+| ------------------- | --- |
 | Modificador al daño | — |
-| Puntos de magia | 10-11; Mov 3 (4 nadando), PF 20, MR-DES 2 |
+| Puntos de magia     | 10-11 |
+| Movimiento          | 3 (4 nadando) |
+| Puntos de fatiga    | 20 |
 
 ## Localizaciones
 

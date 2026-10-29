@@ -2,12 +2,27 @@
 
 ## Datos básicos
 
-| Campo | Valor |
-|---|---|
-| FUE / CON / TAM / INT / POD / DES / APA | 3D6+6 / 3D6 / 2D4+7 / 7 / 3D6 / 3D6+6 / — (medias ~16 / 10 / 12 / 7 / 10 / 16; hembras FUE 4D6, TAM 2D4+4) |
-| Puntos de vida | 12 |
+### Caracteristicas
+
+|       | FUE | CON | TAM | INT | PER | DES | ASP |
+| ----- | --- | --- | --- | --- | --- | --- | --- |
+| Dado  | 3D6+6 | 3D6 | 2D4+7 | 7 | 3D6 | 3D6+6 | — |
+| Media | ~16 | ~10 | ~12 | ~7 | ~10 | ~16 | — |
+
+*FUE — Fuerza*
+*CON — Constitución*
+*TAM — Tamaño*
+*INT — Inteligencia*
+*PER — Personalidad / Poder*
+*DES — Destreza*
+*ASP — Apariencia*
+
+| Puntos de vida      | 12 |
+| ------------------- | --- |
 | Modificador al daño | +1D4 (manotazo; mordisco sin mod.) |
-| Puntos de magia | No; Mov 2 (3 en árboles), PF 27 |
+| Puntos de magia     | No |
+| Movimiento          | 2 (3 en árboles) |
+| Puntos de fatiga    | 27 |
 
 ## Localizaciones
 

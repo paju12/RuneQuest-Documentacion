@@ -4,12 +4,27 @@ Toro volador herbívoro feroz; cruce del Toro Tempestuoso con terneras mortales 
 
 ## Datos básicos
 
-| Campo | Valor |
-|---|---|
-| FUE / CON / TAM / INT / POD / DES / APA | 5D6+24 / 3D6+12 / 5D6+24 / 4 / 3D6 / 2D6 / — (medias ~41 / 22 / 41 / 4 / 10 / 7) |
-| Puntos de vida | 32 |
+### Caracteristicas
+
+|       | FUE | CON | TAM | INT | PER | DES | ASP |
+| ----- | --- | --- | --- | --- | --- | --- | --- |
+| Dado  | 5D6+24 | 3D6+12 | 5D6+24 | 4 | 3D6 | 2D6 | — |
+| Media | ~41 | ~22 | ~41 | ~4 | ~10 | ~7 | — |
+
+*FUE — Fuerza*
+*CON — Constitución*
+*TAM — Tamaño*
+*INT — Inteligencia*
+*PER — Personalidad / Poder*
+*DES — Destreza*
+*ASP — Apariencia*
+
+| Puntos de vida      | 32 |
+| ------------------- | --- |
 | Modificador al daño | +4D6 |
-| Puntos de magia | —; Mov 9 (11 volando), PF 64, MR-DES 4 |
+| Puntos de magia     | — |
+| Movimiento          | 9 (11 volando) |
+| Puntos de fatiga    | 64 |
 
 ## Localizaciones
 

@@ -2,12 +2,27 @@
 
 ## Datos básicos
 
-| Campo | Valor |
-|---|---|
-| FUE / CON / TAM / INT / POD / DES / APA | 3D6+24 / 3D6+18 / 3D6+18 / 3 / 2D6+6 / 2D6+6 / — (medias ~34 / 28 / 28 / 3 / 13 / 13; 8 m traga-hombres; anaconda acuática, otras arborícolas o terrestres) |
-| Puntos de vida | 29 |
+### Caracteristicas
+
+|       | FUE | CON | TAM | INT | PER | DES | ASP |
+| ----- | --- | --- | --- | --- | --- | --- | --- |
+| Dado  | 3D6+24 | 3D6+18 | 3D6+18 | 3 | 2D6+6 | 2D6+6 | — |
+| Media | ~34 | ~28 | ~28 | ~3 | ~13 | ~13 | — |
+
+*FUE — Fuerza*
+*CON — Constitución*
+*TAM — Tamaño*
+*INT — Inteligencia*
+*PER — Personalidad / Poder*
+*DES — Destreza*
+*ASP — Apariencia*
+
+| Puntos de vida      | 29 |
+| ------------------- | --- |
 | Modificador al daño | +3D6 constricción (mordisco a mitad) |
-| Puntos de magia | No; Mov 2 (3 nadando), PF 63 |
+| Puntos de magia     | No |
+| Movimiento          | 2 (3 nadando) |
+| Puntos de fatiga    | 63 |
 
 ## Localizaciones
 

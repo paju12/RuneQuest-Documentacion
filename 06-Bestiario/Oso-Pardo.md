@@ -4,12 +4,27 @@
 
 ## Datos básicos
 
-| Campo | Valor |
-|---|---|
-| FUE / CON / TAM / INT / POD / DES / APA | 3D6+15 / 2D6+6 / 3D6+15 / 5 (fija) / 3D6 / 3D6 / — (medias ~25 / 13 / 25 / 5 / 10 / 10) |
-| Puntos de vida | 19 |
+### Caracteristicas
+
+|       | FUE | CON | TAM | INT | PER | DES | ASP |
+| ----- | --- | --- | --- | --- | --- | --- | --- |
+| Dado  | 3D6+15 | 2D6+6 | 3D6+15 | 5 (fija) | 3D6 | 3D6 | — |
+| Media | ~25 | ~13 | ~25 | ~5 | ~10 | ~10 | — |
+
+*FUE — Fuerza*
+*CON — Constitución*
+*TAM — Tamaño*
+*INT — Inteligencia*
+*PER — Personalidad / Poder*
+*DES — Destreza*
+*ASP — Apariencia*
+
+| Puntos de vida      | 19 |
+| ------------------- | --- |
 | Modificador al daño | +2D6 aprox. |
-| Puntos de magia | No; Mov 7, PF 38 |
+| Puntos de magia     | No |
+| Movimiento          | 7 |
+| Puntos de fatiga    | 38 |
 
 Europeo legendario (entre negro americano y grizzly). Sale a buscar comida en invierno (no hiberna del todo); solitario.
 

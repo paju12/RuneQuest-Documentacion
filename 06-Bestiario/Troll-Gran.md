@@ -4,12 +4,27 @@ Uzdo creado por mago troll para romper la Maldición Trollkin; mutación exitosa
 
 ## Datos básicos
 
-| Campo | Valor |
-|---|---|
-| FUE / CON / TAM / INT / POD / DES / APA | 4D6+12 / 2D6+12 / 4D6+12 / 2D6+2 / 3D6 / 3D6 / 2D6 (medias ~26 / 19 / 26 / 9 / 10 / 10 / 7) |
-| Puntos de vida | 23 |
+### Caracteristicas
+
+|       | FUE | CON | TAM | INT | PER | DES | ASP |
+| ----- | --- | --- | --- | --- | --- | --- | --- |
+| Dado  | 4D6+12 | 2D6+12 | 4D6+12 | 2D6+2 | 3D6 | 3D6 | 2D6 |
+| Media | ~26 | ~19 | ~26 | ~9 | ~10 | ~10 | ~7 |
+
+*FUE — Fuerza*
+*CON — Constitución*
+*TAM — Tamaño*
+*INT — Inteligencia*
+*PER — Personalidad / Poder*
+*DES — Destreza*
+*ASP — Apariencia*
+
+| Puntos de vida      | 23 |
+| ------------------- | --- |
 | Modificador al daño | +2D6 |
-| Puntos de magia | 10-11; Mov 3, PF 8, MR-DES 3 |
+| Puntos de magia     | 10-11 |
+| Movimiento          | 3 |
+| Puntos de fatiga    | 8 |
 
 ## Localizaciones
 

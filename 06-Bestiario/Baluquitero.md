@@ -4,12 +4,27 @@ Colosal rinoceronte pamaltelano de cuello largo sin cuernos; 5 m a la grupa, 8 a
 
 ## Datos básicos
 
-| Campo | Valor |
-|---|---|
-| FUE / CON / TAM / INT / POD / DES / APA | 10D6+40 / 6D6+10 / 10D6+40 / 4 / 1D6+12 / 2D6 / — (medias ~75 / 31 / 75 / 4 / 15 / 7) |
-| Puntos de vida | 53 |
+### Caracteristicas
+
+|       | FUE | CON | TAM | INT | PER | DES | ASP |
+| ----- | --- | --- | --- | --- | --- | --- | --- |
+| Dado  | 10D6+40 | 6D6+10 | 10D6+40 | 4 | 1D6+12 | 2D6 | — |
+| Media | ~75 | ~31 | ~75 | ~4 | ~15 | ~7 | — |
+
+*FUE — Fuerza*
+*CON — Constitución*
+*TAM — Tamaño*
+*INT — Inteligencia*
+*PER — Personalidad / Poder*
+*DES — Destreza*
+*ASP — Apariencia*
+
+| Puntos de vida      | 53 |
+| ------------------- | --- |
 | Modificador al daño | +8D6 |
-| Puntos de magia | —; Mov 6, PF 106, MR-DES 4 |
+| Puntos de magia     | — |
+| Movimiento          | 6 |
+| Puntos de fatiga    | 106 |
 
 ## Localizaciones
 

@@ -4,12 +4,27 @@ Voralan que no es aldryani aunque se liste con vegetales: pariente de hongos y s
 
 ## Datos básicos
 
-| Campo | Valor |
-|---|---|
-| FUE / CON / TAM / INT / POD / DES / APA | 2D6 / 3D6 / 2D4 / 4D6 / 2D6+6 / 3D6+6 / 3D6 (medias ~7 / 10 / 5 / 14 / 13 / 16 / 10) |
-| Puntos de vida | 8 |
+### Caracteristicas
+
+|       | FUE | CON | TAM | INT | PER | DES | ASP |
+| ----- | --- | --- | --- | --- | --- | --- | --- |
+| Dado  | 2D6 | 3D6 | 2D4 | 4D6 | 2D6+6 | 3D6+6 | 3D6 |
+| Media | ~7 | ~10 | ~5 | ~14 | ~13 | ~16 | ~10 |
+
+*FUE — Fuerza*
+*CON — Constitución*
+*TAM — Tamaño*
+*INT — Inteligencia*
+*PER — Personalidad / Poder*
+*DES — Destreza*
+*ASP — Apariencia*
+
+| Puntos de vida      | 8 |
+| ------------------- | --- |
 | Modificador al daño | — |
-| Puntos de magia | 13; Mov 3, PF 17, MR-DES 2 |
+| Puntos de magia     | 13 |
+| Movimiento          | 3 |
+| Puntos de fatiga    | 17 |
 
 ## Localizaciones
 

@@ -4,12 +4,27 @@ Extraño y muy caótico sin forma propia; solo en estación seca. Adopta la form
 
 ## Datos básicos
 
-| Campo | Valor |
-|---|---|
-| FUE / CON / TAM / INT / POD / DES / APA | Como presa / 3D20 / como presa / 9 / 2D6+12 / como presa / como presa (medias CON ~31, POD 19) |
-| Puntos de vida | Variables por forma |
+### Caracteristicas
+
+|       | FUE | CON | TAM | INT | PER | DES | ASP |
+| ----- | --- | --- | --- | --- | --- | --- | --- |
+| Dado  | Como presa | 3D20 | como presa | 9 | 2D6+12 | como presa | como presa |
+| Media | — | ~31 | — | — | ~19 | — | — |
+
+*FUE — Fuerza*
+*CON — Constitución*
+*TAM — Tamaño*
+*INT — Inteligencia*
+*PER — Personalidad / Poder*
+*DES — Destreza*
+*ASP — Apariencia*
+
+| Puntos de vida      | Variables por forma |
+| ------------------- | --- |
 | Modificador al daño | Variable |
-| Puntos de magia | 19; Mov como presa, PF variables, MR-DES como presa |
+| Puntos de magia     | 19 |
+| Movimiento          | como presa |
+| Puntos de fatiga    | variables |
 
 ## Localizaciones
 

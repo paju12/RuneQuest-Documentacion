@@ -4,12 +4,27 @@ Como bisonte norteamericano en grandes manadas de Prax, Yermos y Pent (pequeñas
 
 ## Datos básicos
 
-| Campo | Valor |
-|---|---|
-| FUE / CON / TAM / INT / POD / DES / APA | 3D6+30 / 3D6+9 / 3D6+30 / 4 / 3D6 / 2D6 / — (medias ~40 / 19 / 40 / 4 / 10 / 7; hembras FUE/TAM 3D6+18) |
-| Puntos de vida | 30 |
+### Caracteristicas
+
+|       | FUE | CON | TAM | INT | PER | DES | ASP |
+| ----- | --- | --- | --- | --- | --- | --- | --- |
+| Dado  | 3D6+30 | 3D6+9 | 3D6+30 | 4 | 3D6 | 2D6 | — |
+| Media | ~40 | ~19 | ~40 | ~4 | ~10 | ~7 | — |
+
+*FUE — Fuerza*
+*CON — Constitución*
+*TAM — Tamaño*
+*INT — Inteligencia*
+*PER — Personalidad / Poder*
+*DES — Destreza*
+*ASP — Apariencia*
+
+| Puntos de vida      | 30 |
+| ------------------- | --- |
 | Modificador al daño | +4D6 |
-| Puntos de magia | —; Mov 8, PF 60, MR-DES 4 |
+| Puntos de magia     | — |
+| Movimiento          | 8 |
+| Puntos de fatiga    | 60 |
 
 ## Localizaciones
 

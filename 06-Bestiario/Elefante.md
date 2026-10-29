@@ -2,12 +2,27 @@
 
 ## Datos básicos
 
-| Campo | Valor |
-|---|---|
-| FUE / CON / TAM / INT / POD / DES / APA | 6D6+24 / 3D6+16 / 6D6+32 / 6 / 2D6+6 / 3D6 / — (medias ~45 / 26 / 53 / 6 / 13 / 10; indio TAM 6D6+30 sin colmillos; bosque de Aníbal TAM 6D6+24) |
-| Puntos de vida | 40 |
+### Caracteristicas
+
+|       | FUE | CON | TAM | INT | PER | DES | ASP |
+| ----- | --- | --- | --- | --- | --- | --- | --- |
+| Dado  | 6D6+24 | 3D6+16 | 6D6+32 | 6 | 2D6+6 | 3D6 | — |
+| Media | ~45 | ~26 | ~53 | ~6 | ~13 | ~10 | — |
+
+*FUE — Fuerza*
+*CON — Constitución*
+*TAM — Tamaño*
+*INT — Inteligencia*
+*PER — Personalidad / Poder*
+*DES — Destreza*
+*ASP — Apariencia*
+
+| Puntos de vida      | 40 |
+| ------------------- | --- |
 | Modificador al daño | +5D6 (colmillo = mod.; resto ver ataques) |
-| Puntos de magia | No; Mov 6, PF 72 |
+| Puntos de magia     | No |
+| Movimiento          | 6 |
+| Puntos de fatiga    | 72 |
 
 ## Localizaciones
 

@@ -2,12 +2,27 @@
 
 ## Datos básicos
 
-| Campo | Valor |
-|---|---|
-| FUE / CON / TAM / INT / POD / DES / APA | 3D6×2 / 3D6×2 / 2D6+6 / 2D6+6 / — / 2D6 / 1D3 (medias ~21 / 21 / 13 / 13 / — / 7 / 1) |
-| Puntos de vida | 18 |
+### Caracteristicas
+
+|       | FUE | CON | TAM | INT | PER | DES | ASP |
+| ----- | --- | --- | --- | --- | --- | --- | --- |
+| Dado  | 3D6×2 | 3D6×2 | 2D6+6 | 2D6+6 | — | 2D6 | 1D3 |
+| Media | ~21 | ~21 | ~13 | ~13 | — | ~7 | ~1 |
+
+*FUE — Fuerza*
+*CON — Constitución*
+*TAM — Tamaño*
+*INT — Inteligencia*
+*PER — Personalidad / Poder*
+*DES — Destreza*
+*ASP — Apariencia*
+
+| Puntos de vida      | 18 |
+| ------------------- | --- |
 | Modificador al daño | +1D6 |
-| Puntos de magia | PM 2D6+2 (sin recuperar); Mov de la especie, PF 42 |
+| Puntos de magia     | PM 2D6+2 (sin recuperar) |
+| Movimiento          | de la especie |
+| Puntos de fatiga    | 42 |
 
 ## Localizaciones
 

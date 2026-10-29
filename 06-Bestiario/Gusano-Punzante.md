@@ -4,12 +4,27 @@ Carabus venefix. Larva de escarabajo centinela en último estadio antes de pupa,
 
 ## Datos básicos
 
-| Campo | Valor |
-|---|---|
-| FUE / CON / TAM / INT / PER / DES | 2D6+12 / 3D6 / 3D6+12 / 2 / 2D6 / 2D6+3 (medias ~19 / 10 / 22 / 2 / 7 / 10) |
-| Puntos de vida | 17 |
+### Caracteristicas
+
+|       | FUE | CON | TAM | INT | PER | DES | ASP |
+| ----- | --- | --- | --- | --- | --- | --- | --- |
+| Dado  | 2D6+12 | 3D6 | 3D6+12 | 2 | 2D6 | 2D6+3 | — |
+| Media | ~19 | ~10 | ~22 | ~2 | ~7 | ~10 | — |
+
+*FUE — Fuerza*
+*CON — Constitución*
+*TAM — Tamaño*
+*INT — Inteligencia*
+*PER — Personalidad / Poder*
+*DES — Destreza*
+*ASP — Apariencia*
+
+| Puntos de vida      | 17 |
+| ------------------- | --- |
 | Modificador al daño | +2D6 |
-| Puntos de magia | No; Mov 2, PF 30 |
+| Puntos de magia     | No |
+| Movimiento          | 2 |
+| Puntos de fatiga    | 30 |
 
 ## Localizaciones (resumen)
 

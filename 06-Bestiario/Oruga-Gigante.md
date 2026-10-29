@@ -4,12 +4,27 @@ Peripatus mucophilus. No verdadero artrópodo pero afín. Gusano grande de piel 
 
 ## Datos básicos
 
-| Campo | Valor |
-|---|---|
-| FUE / CON / TAM / INT / PER / DES | 2D6+12 / 3D6 / 2D6+20 / 2 / 3D6 / 3D6+6 (medias ~19 / 10 / 27 / 2 / 10 / 16) |
-| Puntos de vida | 19 |
+### Caracteristicas
+
+|       | FUE | CON | TAM | INT | PER | DES | ASP |
+| ----- | --- | --- | --- | --- | --- | --- | --- |
+| Dado  | 2D6+12 | 3D6 | 2D6+20 | 2 | 3D6 | 3D6+6 | — |
+| Media | ~19 | ~10 | ~27 | ~2 | ~10 | ~16 | — |
+
+*FUE — Fuerza*
+*CON — Constitución*
+*TAM — Tamaño*
+*INT — Inteligencia*
+*PER — Personalidad / Poder*
+*DES — Destreza*
+*ASP — Apariencia*
+
+| Puntos de vida      | 19 |
+| ------------------- | --- |
 | Modificador al daño | — |
-| Puntos de magia | No; Mov 2, PF 29 |
+| Puntos de magia     | No |
+| Movimiento          | 2 |
+| Puntos de fatiga    | 29 |
 
 ## Localizaciones (resumen)
 
