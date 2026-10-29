@@ -19,7 +19,9 @@ Resúmenes de consulta rápida. El detalle vive en la nota correspondiente; esta
 
 - Criaturas: ver [[Indice-Bestiario]] (29 entradas Básico 2ª + 52 Avanzado).
 - PG por localización: [[PG-por-Localizacion]] (multiplicadores por tipo + tabla numérica).
-- Escenarios: [[La-Hechicera-Negra]] con botín (oro 1 = 12 p) y PNJ de Jotenheim; [[Los-Telmori]] con recompensas del sheriff y botín mágico.
+- Escenarios: [[La-Hechicera-Negra]] con botín (oro 1 = 12 p) y PNJ de Jotenheim; [[Los-Telmori]] con recompensas del sheriff y botín mágico; [[El-Arbol-de-Plata]] con 111 hojas (~15 p) y fruto (~1000 p).
+- Economía civil: ver [[Civilizacion-y-Precios]] (niveles de vida, penique, precio x7, x2.5 por nivel, TAM) y [[Tesoros-y-Recompensas]] (clases I-V, gemas, otros tesoros).
+- Naval: ver [[Barcos-y-Navegacion]] (MAE, persecución, embestida, hundimiento, esquife/mora/esnecca).
 
 ## Glorantha (Dioses de Glorantha, resúmenes)
 

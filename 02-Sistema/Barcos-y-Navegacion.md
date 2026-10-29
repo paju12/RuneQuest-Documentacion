@@ -123,6 +123,91 @@ Navegación contra Navegación: ambos éxito = tablas; perseguidor con éxito fr
 - **Mágicas** (mago con 50% Fabricación en madera, o con carpintero que lo tenga): navegabilidad total aun en mar — por cada 10 m o fracción: Intensidad 1 de Formar/Colocar Madera, Brea o Cera, o 1 pto. de Reparación; estructura — por cada 5 m o fracción: Intensidad 1 de Formar/Colocar Madera o 1 Reparación.
 - **Dique seco**: 50 p/día; −1 h por tirada de navegabilidad, −3 h por estructura; no afecta a mágicas.
 
+## Velas y Espadas (combate detallado)
+
+Expansión de Tim Bailey para resolver piratas, rivales y poderes oscuros; si ralentiza, ignórala (el Master no está coartado para forzar desenlaces).
+
+### Momento de acción de embarcación (MAE)
+
+Como el MR por TAM/DES. MAE = MA estructura + MA velocidad; actúa en ese MR como el DES en aventureros (si da para 2/asalto, 2 acciones). Ejemplo: knorr MAE 8 vs mercante 7: el mercante maniobra 1 MR antes.
+
+| Estructura | MA | Vel. máx | MA |
+|---|---|---|---|
+| 01-10 | 01 | 1 nudo | 05 |
+| 11-25 | 02 | 2 | 04 |
+| 26-35 | 03 | 3 | 03 |
+| 36-50 | 04 | 4 | 02 |
+| 51+ | 05 | 5+ | 01 |
+
+### Navegación y persecución
+
+Navegación de capitán = sacarle partido a tripulación y navío. Fallo = disfunción menor (no desastre; eso es pifia) según situación. En mar abierto las cazas duran horas/días/semanas salvo gran diferencia.
+
+| Perseguidor \ Perseguido | Pifia | Fallo | Éxito | Especial | Crítico |
+|---|---|---|---|---|---|
+| Pifia | \* | −1 | −2 | −3 | −4 |
+| Fallo | +1 | \* | −1 | −2 | −3 |
+| Éxito | +2 | +1 | \* | −1 | −2 |
+| Especial | +3 | +2 | +1 | \* | −1 |
+| Crítico | +4 | +3 | +2 | +1 | \* |
+
+\* = nadie gana/pierde; +n = gana el perseguidor, −n = pierde (nº de incrementos en Acercamiento).
+
+| Situación | Día | Noche |
+|---|---|---|
+| Luna nueva | n/a | −25% |
+| Por 1/4 no visible | n/a | −05% |
+| Mal tiempo | −15% | −30% |
+| Niebla 10-30% | −10% | −20% |
+| Espesa 31-80% | −35% | −45% |
+| Puré 81-99% | −60% | −80% |
+| Por 2 nudos de menos | −10% | −05% |
+
+### Acercamiento (abstracciones para narrar)
+
+Si el blanco pasa de Visual Extrema, perdido: Con. Humano para adivinar destino (si no se sabía). Huida y combate no se tiran a la vez; si nadie huye, batalla.
+
+| Cada | Distancia | Real |
+|---|---|---|
+| 12 h | Visual extrema (mancha) | 10 km |
+| 6 h | Visual (tipo general) | 5 km |
+| 1 h | Identificación (banderas, velas) | 1 km |
+| 30 min | Saludo (gritos) | 500 m |
+| 10 min | Tiro de arco (proyectiles) | 250 m |
+| 2 asaltos | Asalto (embestir/abordar) | 10 m |
+
+### Amarre y abordaje
+
+A distancia de asalto: Arrojarse para ganchos; aseguradas, FUE tripulación vs estructura enemiga (éxito = +2 m; fallo = nada; pifia = cuerda rota o caídos). El defensor ataca y/o corta (cables gruesos: 12 PA, 8 CAR). Borda con borda: lianas a palo (fallo = escotilla, mal aterrizaje o mar) o puente Corvus del mástil con cuerdas (a veces contrapeso; a veces cubierto; improvisable con tablas; 6-10 m, 28 PA, TAM-40) clavado entre bordas.
+
+### Cizallar remos
+
+En paralelo a asalto: 1) a asalto; 2) capitán ordena recoger remos del lado (1 acción); 3) Navegación atacante éxito + defensora fallo = 2D6 remos rotos/asalto. Efecto: total remos/100 = % velocidad perdido por remo. Remeros: 2D6+2 PD al azar salvo DESx3 (aplastados por roto).
+
+### Embestida
+
+Desesperada (riesgo mutuo). Espolón: 2D10 + nudos a estructura, con calidad del casco (parte de quilla). Requiere Navegación atacante éxito + enemiga fallo. Zona en D20 según ángulo:
+
+Desde proa/popa: 01-04 rozadura babor, 05-08 lleno babor, 09-12 quilla, 13-16 lleno estribor, 17-20 rozadura estribor. Por borda: 01-04 proa, 05-08 tras proa, 09-12 mitad, 13-16 ante popa, 17-20 popa. Proa/popa lateral = sin extra; quilla por proa afecta espolón enemigo, por popa timón; resto + 1D4+1 remos.
+
+- Atacante pifia: él recibe el daño (con calidad), víctima nada. Crítico: máximo ignorando calidad.
+- Defensor pifia: máximo. Crítico: esquiva total.
+- Tras embestir, retirarse o hundirse juntos: Navegación atacante con remeros listos; mientras enganchado con víctima que se hunde, tira Navegabilidad o se hunde y −2D4 navegabilidad/asalto enganchado (aun sin hundirse, enganchado); zafarse en su MAE detiene la pérdida.
+
+### Hundimientos
+
+Al llegar a 0 estructura, 0 navegabilidad o ambas. Tarda 20 − (puntos bajo cero) asaltos (mínimo 3 salvo más daño). Daño posterior (menos calidad) resta de los asaltos restantes; a 0 = destruido.
+
+### Nuevas embarcaciones
+
+- **Esquife**: bote un hombre, multitarefa. Mercante, calidad 1D2+2, nav. 10, estruct. 10, 2.5x1 m, cap. .5 t, borda .4, calado .6, 1 remero.
+- **Mora**: normando 1066 de Guillermo ("bañera" en gruesa). Mercante, 2D6+4, nav. 25, estruct. 85, 26x8 m, 60 t, borda 1.2, calado 1, 3 marineros + 22 remeros.
+- **Esnecca**: mercante reconvertido por Enrique III (castillos a proa/popa/mástil, vela cuadrada mejorada; sin espolón; abordaje). Mercante, 2D6+4, nav. 28, estruct. 60, 20x7 m, 40 t, borda 2, calado 2, 6 hombres.
+
+Hoja de características del suplemento omitida por ser formulario/imagen (ver Q71).
+
 #runequest/reglas
 
 *Fuente: RuneQuest Avanzado, pp. 45-51.*
+
+*Fuente: El Señor de las Runas, p. 32-35.*

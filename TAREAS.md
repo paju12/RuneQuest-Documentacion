@@ -288,6 +288,23 @@
   - [x] Crear Arana-Gigante, Avispa-Gigante, Cangrejo-Gigante, Ciempies-Gigante, Escarabajo-Centinela, Escarabajo-Jamon, Escorpion-Gigante, Garrapata-Gigante, Gusano-Punzante, Larva-Arena, Mantis-Gigante, Oruga-Gigante, Solpugido-Gigante, Termita-Gigante
 - [x] Bloque LT-8 — 08-Escenarios: Los-Hongos-Magicos (pp. 125-154)
   - [x] Crear 08-Escenarios/Los-Hongos-Magicos.md (plantilla Escenario, 3 escenarios, setas, Pozo, PNJ resumen sin bloques, recompensas)
+# Ingesta El Señor de las Runas (OCR `C:\Users\Paju\Downloads\rq\ocr\Rune Quest - El Señor de las Runas.md`, 44 pp. OCR / manual pp. 3-47 según numeración visible) — en curso
+- Fuente: *El Señor de las Runas* (suplemento RQ2 Classic, JOC Internacional), pp. 3-47 según numeración manual visible en OCR. Pie obligatorio `*Fuente: El Señor de las Runas, p. <páginas>.*` en cada nota nueva/ampliada.
+- Regla: localizar por TEMA en índices + búsqueda antes de crear; ampliar sin duplicar; repartir secciones multitema; wikilinks; tags; sin frontmatter; no tocar .obsidian/*.json. RQB/RQA mandan en reglas; esta fuente manda en dirección/campañas/precios civiles/naval y escenario Árbol de Plata.
+- Estado vault: sin notas de dirección; Barcos-y-Navegacion existe (RQA) por ampliar con Velas y Espadas; Equipo (armas/armaduras/moneda) existe por ampliar con listas civiles; sin notas de encuentros/tesoros/civilización; 08-Escenarios con 3 escenarios oficiales.
+
+- [x] Bloque SLR-0 — Base e inventario + dudas OCR iniciales
+  - [x] Inventariar secciones OCR vs notas existentes (dirección, campaña, diseño, idiomas, encuentros, tesoros, gemas, peligro, TAM, civilización, precios, PNJ, viajes, naval, Árbol de Plata)
+  - [x] Registrar Q69+ (Bathsheba sin cifras, tablas conjuros como imágenes, mapas omitidos por imágenes, identidad suplemento)
+- [x] Bloque SLR-1 — Dirección de partidas (pp. 3-6): crear 02-Sistema/Direccion-de-Partidas.md (estilo Master, presentar aventura, condiciones, otros mundos, preparación, organización, presentación, narrativa vs argot, ritmo, contabilidad, reglas buen Master)
+- [x] Bloque SLR-2 — Campañas y diseño (pp. 8-11): crear 02-Sistema/Diseno-de-Escenarios-y-Campanas.md (entorno, personajes, trama, tema, estilo; historia 21 tipos; trama/PNJ/entorno; cebo, complicaciones, transiciones, clímax; stats PNJ; conclusión)
+- [x] Bloque SLR-3 — Idiomas y encuentros (pp. 12-13): crear 02-Sistema/Idiomas-en-Campana.md + 02-Sistema/Encuentros-Aleatorios.md (5 tablas D100 urbano/rural/salvaje/yermo/mágico con frecuencias)
+- [x] Bloque SLR-4 — Tesoros y objetos (pp. 14-17): crear 07-Equipo-y-Economia/Tesoros-y-Recompensas.md (salario fijo, especulativo, otros tesoros D100, extraordinarios 5 efectos, gemas, joyería, especiales, clases peligro I-V con tesoro)
+- [x] Bloque SLR-5 — Civilización y precios (pp. 19-31): crear 07-Equipo-y-Economia/Civilizacion-y-Precios.md (hogar/aldea/pueblo/ciudades/metrópoli, niveles vida 8 tramos, economía penique, precio vida, regla x2.5 por nivel, tablas herramientas/escudos/cuero/armas/esclavos/sillas/armaduras piezas/metal/comida/animales/ropas/vehículos/PNJ-mercenarios-constructores/edificaciones/embarcaciones/viajes) + ampliar Equipo-Moneda-y-Carga solo con vínculo sin duplicar; tabla TAM a Tablas-Referencia
+- [x] Bloque SLR-6 — Combate naval (pp. 32-35): ampliar Barcos-y-Navegacion (MAE por estructura+velocidad, navegación/persecución/distancias, amarre/abordaje/corvus, cizallar remos, embestida con tabla y críticos, hundimientos, esquife/mora/esnecca) sin duplicar lo de RQA
+- [x] Bloque SLR-7 — Escenario Árbol de Plata (pp. 37-47): crear 08-Escenarios/El-Arbol-de-Plata.md (plantilla Escenario: Latón Verde, posada, alcalde, altar, molino, milicia, misión fruta, días 1-4 oso/Yozarian/araña/escarpadura/arroyo/ascenso/roc/caverna troll/árbol, vuelta, engaño; PNJ con bloques; mapas omitidos por imágenes)
+- [x] Bloque SLR-8 — Cierre: actualizar Indice-Sistema (+3), Indice-Equipo-y-Economia (+2), Indice-Tablas (TAM/viajes), Indice-Escenarios (+1), Indice-Bestiario (verificar oso/araña/roc/troll sin duplicar) + 00-Indice (sin secciones nuevas); vínculo bidireccional donde aplique; tags; pies y warnings; TAREAS todo marcado; QUESTIONS sin las resueltas
+
 # Ingesta Libro de los Trolls LT-4/LT-5 (encargo pp. 81-104, sin índices — cierre aparte)
 - [x] LT-4a Ampliar Culto-Kyger-Litor (rito adopción, Karrg plomo/aliados, Quemacarne, Furias, héroes, asociados, fiesta, funeral, piedras/maldice)
 - [x] LT-4b Crear 10 cultos nuevos (Gorakiki, Himile, Mee-Vorala, Xentha, Zong-Cazador, Annilla, Aranea, Qualyorni, Basko-Sol-Negro, Arkat-Troll) + Dehore solo vínculo sin duplicar

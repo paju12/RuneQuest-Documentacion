@@ -12,6 +12,10 @@
 - [[Fatiga-Carga-y-Movimiento]] — PF, CAR, tiempos y tasas de viaje.
 - [[Experiencia-Entrenamiento-y-Caracteristicas]] — experiencia, entrenamiento, estudio, subida de PER y características.
 - [[Barcos-y-Navegacion]] — tipos, velocidades, daño, tempestades y reparaciones (Avanzado).
+- [[Direccion-de-Partidas]] — estilo, presentación, ritmo y contabilidad del Master (Señor de las Runas).
+- [[Diseno-de-Escenarios-y-Campanas]] — campaña (entorno, trama, tema, estilo) y argumento (cebo, complicaciones, clímax).
+- [[Idiomas-en-Campana]] — familias, dificultad y francas comerciales.
+- [[Encuentros-Aleatorios]] — 5 tablas D100 urbano/rural/salvaje/yermo/mágico.
 - [[Sociedad-Troll]] — familia, ecología, hospitalidad, ejército de 9 bandas, encuentros y tribus (Libro de los Trolls).
 
 ## Previsto

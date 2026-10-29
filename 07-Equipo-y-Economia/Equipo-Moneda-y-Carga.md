@@ -16,6 +16,10 @@ Equipo de Viajero Estándar (50 p, 14 CAR):
 
 Anotar armas, luego resto, luego montura; total CAR al final de la columna y comparar con tasa de fatiga (ver [[Fatiga-Carga-y-Movimiento]]).
 
+## Listas civiles y tesoros
+
+Precios por mercado, niveles de vida y salarios: ver [[Civilizacion-y-Precios]]; botín, gemas y peligro: ver [[Tesoros-y-Recompensas]] (sin duplicar aquí).
+
 ## Carga (resumen operativo)
 
 - 1 CAR ≈ 1 kg a escala humana (≈ 1/6 TAM). Todo objeto de una mano ≈ 1-2 CAR; 2M ≈ 3-4 CAR por manejabilidad más que por peso.
