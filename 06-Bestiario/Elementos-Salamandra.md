@@ -4,12 +4,27 @@
 
 ## Datos básicos
 
-| Campo | Valor |
-|---|---|
-| FUE / CON / TAM / INT / POD / DES / APA | 1D6 / — / volumen / — / 1D6 / — / — por m³ (S1 1 m³: FUE ~3, POD ~3, PG 2D6 ~7, Mov 3; S2 3 m³: FUE 3D6 ~10, POD 3D6 ~10, PG 6D6 ~21, Mov 3) |
-| Puntos de vida | 2D6 por m³ (= TAM numérico si hace falta pesar/levantar) |
+### Caracteristicas
+
+|       | FUE | CON | TAM | INT | PER | DES | ASP |
+| ----- | --- | --- | --- | --- | --- | --- | --- |
+| Dado  |     |     |     |     |     |     |     |
+| Media |     |     |     |     |     |     |     |
+
+*FUE — Fuerza*
+*CON — Constitución*
+*TAM — Tamaño*
+*INT — Inteligencia*
+*PER — Personalidad / Poder*
+*DES — Destreza*
+*ASP — Apariencia*
+
+<!-- Valor actual: 1D6 / — / volumen / — / 1D6 / — / — por m³ (S1 1 m³: FUE ~3, POD ~3, PG 2D6 ~7, Mov 3; S2 3 m³: FUE 3D6 ~10, POD 3D6 ~10, PG 6D6 ~21, Mov 3) -->
+
+| Puntos de vida      | 2D6 por m³ (= TAM numérico si hace falta pesar/levantar) |
+| ------------------- | --- |
 | Modificador al daño | — (calor fijo) |
-| Puntos de magia | No (sin alma); no se cansa |
+| Puntos de magia     | No (sin alma); no se cansa |
 
 Incompletos: solo FUE, TAM y POD. PG ligados al TAM; una localización; sin armadura; a 0 disuelto y el espíritu vuelve al Otro Mundo. Leyes físicas salvo control; servidores de dioses (sacerdotes los mandan).
 

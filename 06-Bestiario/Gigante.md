@@ -4,12 +4,27 @@
 
 ## Datos básicos
 
-| Campo | Valor |
-|---|---|
-| FUE / CON / TAM / INT / POD / DES / APA | Escalan con altura (~16 m máx., TAM 24D6+48; crecen 1D6 FUE y TAM cada 5 años); ejemplo 6 m con mod. +5D6 |
-| Puntos de vida | 15-133 según tamaño (ejemplo 6 m en tabla propia) |
+### Caracteristicas
+
+|       | FUE | CON | TAM | INT | PER | DES | ASP |
+| ----- | --- | --- | --- | --- | --- | --- | --- |
+| Dado  |     |     |     |     |     |     |     |
+| Media |     |     |     |     |     |     |     |
+
+*FUE — Fuerza*
+*CON — Constitución*
+*TAM — Tamaño*
+*INT — Inteligencia*
+*PER — Personalidad / Poder*
+*DES — Destreza*
+*ASP — Apariencia*
+
+<!-- Valor actual: Escalan con altura (~16 m máx., TAM 24D6+48; crecen 1D6 FUE y TAM cada 5 años); ejemplo 6 m con mod. +5D6 -->
+
+| Puntos de vida      | 15-133 según tamaño (ejemplo 6 m en tabla propia) |
+| ------------------- | --- |
 | Modificador al daño | +3D6 a +15D6 según tamaño |
-| Puntos de magia | = POD; Oler Sangre 50 (+4 a +10) |
+| Puntos de magia     | = POD; Oler Sangre 50 (+4 a +10) |
 
 ## Localizaciones (supone 6 m, mod +5D6)
 

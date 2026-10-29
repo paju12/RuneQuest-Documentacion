@@ -4,12 +4,27 @@ Ejemplo verificado: 3 POD en FUE + 3 en DES; PM 2D6 colocados al crear.
 
 ## Datos básicos
 
-| Campo | Valor |
-|---|---|
-| FUE / CON / TAM / INT / POD / DES / APA | 3D6 / — / 2D6+6 / — / — / 3D6 / — (ejemplo ~10 / — / 13 / — / — / 10 / —) |
-| Puntos de vida | Por zonas (ver abajo); PG totales según media CON+TAM adaptada |
+### Caracteristicas
+
+|       | FUE | CON | TAM | INT | PER | DES | ASP |
+| ----- | --- | --- | --- | --- | --- | --- | --- |
+| Dado  |     |     |     |     |     |     |     |
+| Media |     |     |     |     |     |     |     |
+
+*FUE — Fuerza*
+*CON — Constitución*
+*TAM — Tamaño*
+*INT — Inteligencia*
+*PER — Personalidad / Poder*
+*DES — Destreza*
+*ASP — Apariencia*
+
+<!-- Valor actual: 3D6 / — / 2D6+6 / — / — / 3D6 / — (ejemplo ~10 / — / 13 / — / — / 10 / —) -->
+
+| Puntos de vida      | Por zonas (ver abajo); PG totales según media CON+TAM adaptada |
+| ------------------- | --- |
 | Modificador al daño | Según FUE+TAM ganados |
-| Puntos de magia | Colocados al crear (no lanza; resiste con ellos) |
+| Puntos de magia     | Colocados al crear (no lanza; resiste con ellos) |
 
 Artefacto, no muerto viviente real. Ritual sobre cadáver/esqueleto: 1D6 FUE o DES por POD (a elegir); moverse exige FUE ≥ TAM/2 + fuerza para su arma (ataque con cualquier arma = DESx5%). Putrefacción sigue: en ~1 año solo huesos y entonces se anima; obedece literal al creador. Esquivar DESx5%.
 

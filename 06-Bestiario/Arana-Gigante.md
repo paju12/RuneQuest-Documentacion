@@ -4,12 +4,28 @@ Araneus superbens. Tejedora general: caza con red extendida, cubre caminos, desc
 
 ## Datos básicos
 
-| Variante | FUE / CON / TAM / INT / PER / DES | PV / PF / Mov |
-|---|---|---|
-| Pequeña | 1D6+6 / 3D6 / 2D6+6 / 8 / 2D6 / 2D6+9 | 12 / 20 / 2 (4 en telaraña) |
-| Mediana | 2D6+12 / 3D6+6 / 4D6+12 / 8 / 3D6 / 2D6+9 | 22 / 36 / 2 (4 en telaraña) |
-| Grande | 3D6+18 / 3D6+12 / 6D6+18 / 8 / 4D6 / 2D6+9 | 31 / 41 / 2 (4 en telaraña) |
+### Caracteristicas
 
+|       | FUE | CON | TAM | INT | PER | DES | ASP |
+| ----- | --- | --- | --- | --- | --- | --- | --- |
+| Dado  |     |     |     |     |     |     |     |
+| Media |     |     |     |     |     |     |     |
+
+*FUE — Fuerza*
+*CON — Constitución*
+*TAM — Tamaño*
+*INT — Inteligencia*
+*PER — Personalidad / Poder*
+*DES — Destreza*
+*ASP — Apariencia*
+
+<!-- Valores actuales por variante:
+| Variante | FUE | CON | TAM | INT | PER | DES | ASP | PV | PF | Mov |
+|---|---|---|---|---|---|---|---|---|---|---|
+| Pequeña | 1D6+6 | 3D6 | 2D6+6 | 8 | 2D6 | 2D6+9 | — | 12 | 20 | 2 (4 en telaraña) |
+| Mediana | 2D6+12 | 3D6+6 | 4D6+12 | 8 | 3D6 | 2D6+9 | — | 22 | 36 | 2 (4 en telaraña) |
+| Grande | 3D6+18 | 3D6+12 | 6D6+18 | 8 | 4D6 | 2D6+9 | — | 31 | 41 | 2 (4 en telaraña) |
+-->
 Puntos de magia: no.
 
 ## Localizaciones (resumen)
